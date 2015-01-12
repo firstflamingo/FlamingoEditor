@@ -1,0 +1,419 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		43253E821A64198100BEFDAB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E811A64198100BEFDAB /* AppDelegate.m */; };
+		43253E841A64198100BEFDAB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E831A64198100BEFDAB /* main.m */; };
+		43253E871A64198100BEFDAB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E861A64198100BEFDAB /* ViewController.m */; };
+		43253E891A64198100BEFDAB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43253E881A64198100BEFDAB /* Images.xcassets */; };
+		43253E8C1A64198100BEFDAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43253E8A1A64198100BEFDAB /* Main.storyboard */; };
+		43253E981A64198100BEFDAB /* FlamingoEditorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E971A64198100BEFDAB /* FlamingoEditorTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		43253E921A64198100BEFDAB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 43253E731A64198100BEFDAB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 43253E7A1A64198100BEFDAB;
+			remoteInfo = FlamingoEditor;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		43253E7B1A64198100BEFDAB /* FlamingoEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlamingoEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43253E7F1A64198100BEFDAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43253E801A64198100BEFDAB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		43253E811A64198100BEFDAB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		43253E831A64198100BEFDAB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		43253E851A64198100BEFDAB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		43253E861A64198100BEFDAB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		43253E881A64198100BEFDAB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		43253E8B1A64198100BEFDAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		43253E911A64198100BEFDAB /* FlamingoEditorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlamingoEditorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		43253E961A64198100BEFDAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43253E971A64198100BEFDAB /* FlamingoEditorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlamingoEditorTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		43253E781A64198100BEFDAB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		43253E8E1A64198100BEFDAB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		43253E721A64198100BEFDAB = {
+			isa = PBXGroup;
+			children = (
+				43253E7D1A64198100BEFDAB /* FlamingoEditor */,
+				43253E941A64198100BEFDAB /* FlamingoEditorTests */,
+				43253E7C1A64198100BEFDAB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		43253E7C1A64198100BEFDAB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				43253E7B1A64198100BEFDAB /* FlamingoEditor.app */,
+				43253E911A64198100BEFDAB /* FlamingoEditorTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		43253E7D1A64198100BEFDAB /* FlamingoEditor */ = {
+			isa = PBXGroup;
+			children = (
+				43253E801A64198100BEFDAB /* AppDelegate.h */,
+				43253E811A64198100BEFDAB /* AppDelegate.m */,
+				43253E851A64198100BEFDAB /* ViewController.h */,
+				43253E861A64198100BEFDAB /* ViewController.m */,
+				43253E881A64198100BEFDAB /* Images.xcassets */,
+				43253E8A1A64198100BEFDAB /* Main.storyboard */,
+				43253E7E1A64198100BEFDAB /* Supporting Files */,
+			);
+			path = FlamingoEditor;
+			sourceTree = "<group>";
+		};
+		43253E7E1A64198100BEFDAB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				43253E7F1A64198100BEFDAB /* Info.plist */,
+				43253E831A64198100BEFDAB /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		43253E941A64198100BEFDAB /* FlamingoEditorTests */ = {
+			isa = PBXGroup;
+			children = (
+				43253E971A64198100BEFDAB /* FlamingoEditorTests.m */,
+				43253E951A64198100BEFDAB /* Supporting Files */,
+			);
+			path = FlamingoEditorTests;
+			sourceTree = "<group>";
+		};
+		43253E951A64198100BEFDAB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				43253E961A64198100BEFDAB /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		43253E7A1A64198100BEFDAB /* FlamingoEditor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 43253E9B1A64198100BEFDAB /* Build configuration list for PBXNativeTarget "FlamingoEditor" */;
+			buildPhases = (
+				43253E771A64198100BEFDAB /* Sources */,
+				43253E781A64198100BEFDAB /* Frameworks */,
+				43253E791A64198100BEFDAB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlamingoEditor;
+			productName = FlamingoEditor;
+			productReference = 43253E7B1A64198100BEFDAB /* FlamingoEditor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		43253E901A64198100BEFDAB /* FlamingoEditorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 43253E9E1A64198100BEFDAB /* Build configuration list for PBXNativeTarget "FlamingoEditorTests" */;
+			buildPhases = (
+				43253E8D1A64198100BEFDAB /* Sources */,
+				43253E8E1A64198100BEFDAB /* Frameworks */,
+				43253E8F1A64198100BEFDAB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				43253E931A64198100BEFDAB /* PBXTargetDependency */,
+			);
+			name = FlamingoEditorTests;
+			productName = FlamingoEditorTests;
+			productReference = 43253E911A64198100BEFDAB /* FlamingoEditorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		43253E731A64198100BEFDAB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "First Flamingo Enterprise B.V.";
+				TargetAttributes = {
+					43253E7A1A64198100BEFDAB = {
+						CreatedOnToolsVersion = 6.1.1;
+					};
+					43253E901A64198100BEFDAB = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = 43253E7A1A64198100BEFDAB;
+					};
+				};
+			};
+			buildConfigurationList = 43253E761A64198100BEFDAB /* Build configuration list for PBXProject "FlamingoEditor" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 43253E721A64198100BEFDAB;
+			productRefGroup = 43253E7C1A64198100BEFDAB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43253E7A1A64198100BEFDAB /* FlamingoEditor */,
+				43253E901A64198100BEFDAB /* FlamingoEditorTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		43253E791A64198100BEFDAB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43253E891A64198100BEFDAB /* Images.xcassets in Resources */,
+				43253E8C1A64198100BEFDAB /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		43253E8F1A64198100BEFDAB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		43253E771A64198100BEFDAB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43253E871A64198100BEFDAB /* ViewController.m in Sources */,
+				43253E841A64198100BEFDAB /* main.m in Sources */,
+				43253E821A64198100BEFDAB /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		43253E8D1A64198100BEFDAB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43253E981A64198100BEFDAB /* FlamingoEditorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		43253E931A64198100BEFDAB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 43253E7A1A64198100BEFDAB /* FlamingoEditor */;
+			targetProxy = 43253E921A64198100BEFDAB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		43253E8A1A64198100BEFDAB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				43253E8B1A64198100BEFDAB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		43253E991A64198100BEFDAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		43253E9A1A64198100BEFDAB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		43253E9C1A64198100BEFDAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = FlamingoEditor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		43253E9D1A64198100BEFDAB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = FlamingoEditor/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		43253E9F1A64198100BEFDAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FlamingoEditorTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlamingoEditor.app/Contents/MacOS/FlamingoEditor";
+			};
+			name = Debug;
+		};
+		43253EA01A64198100BEFDAB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = FlamingoEditorTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlamingoEditor.app/Contents/MacOS/FlamingoEditor";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		43253E761A64198100BEFDAB /* Build configuration list for PBXProject "FlamingoEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43253E991A64198100BEFDAB /* Debug */,
+				43253E9A1A64198100BEFDAB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		43253E9B1A64198100BEFDAB /* Build configuration list for PBXNativeTarget "FlamingoEditor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43253E9C1A64198100BEFDAB /* Debug */,
+				43253E9D1A64198100BEFDAB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		43253E9E1A64198100BEFDAB /* Build configuration list for PBXNativeTarget "FlamingoEditorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43253E9F1A64198100BEFDAB /* Debug */,
+				43253EA01A64198100BEFDAB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 43253E731A64198100BEFDAB /* Project object */;
+}
