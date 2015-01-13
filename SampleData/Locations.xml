@@ -1,0 +1,4256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locations version="1.0">
+<junction id="nl.j_031" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="9.878" lat="52.2024472" lon="5.2904249" route="nl.ncs03"/>
+	<ATLRoutePosition km="47.070" lat="52.2025548" lon="5.2906170" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_032" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="33.854" lat="52.5083058" lon="6.5731117" route="nl.nols01"/>
+	<ATLRoutePosition km="0.130" lat="52.5082946" lon="6.5731165" route="nl.nols02"/>
+</positions>
+</junction>
+<junction id="nl.j_071" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="45.900" lat="51.8931083" lon="5.2670291" route="nl.sso02"/>
+	<ATLRoutePosition km="60.891" lat="51.8931060" lon="5.2670679" route="nl.ssh01"/>
+</positions>
+</junction>
+<junction id="nl.j_033" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="17.759" lat="52.3631637" lon="6.6441172" route="nl.nols02"/>
+	<ATLRoutePosition km="34.897" lat="52.3631394" lon="6.6441077" route="nl.knls03"/>
+</positions>
+</junction>
+<junction id="nl.j_034" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="22.099" lat="53.1599500" lon="6.8731400" route="nl.nols03"/>
+	<ATLRoutePosition km="102.408" lat="53.1599484" lon="6.8731463" route="nl.ssb01"/>
+</positions>
+</junction>
+<junction id="nl.j_055" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="38.613" lat="52.0745252" lon="5.1338542" route="nl.ssh01"/>
+	<ATLRoutePosition km="17.861" lat="52.0745731" lon="5.1339205" route="nl.os03"/>
+</positions>
+</junction>
+<junction id="nl.j_035" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.700" lat="52.1424341" lon="5.2505194" route="nl.ncs03"/>
+	<ATLRoutePosition km="12.416" lat="52.1423284" lon="5.2506574" route="nl.ncs01"/>
+</positions>
+</junction>
+<junction id="nl.j_054" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="23.400" lat="51.6991929" lon="5.2977836" route="nl.nzos02"/>
+	<ATLRoutePosition km="83.192" lat="51.6991948" lon="5.2977912" route="nl.ssh01"/>
+</positions>
+</junction>
+<junction id="nl.j_036" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.260" lat="50.8497173" lon="5.7059143" route="nl.sse03"/>
+	<ATLRoutePosition km="29.483" lat="50.8497146" lon="5.7059275" route="nl.lm01"/>
+</positions>
+</junction>
+<junction id="nl.j_043" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="21.191" lat="50.9968835" lon="5.8540378" route="nl.sse03"/>
+	<ATLRoutePosition km="0.700" lat="50.9968317" lon="5.8539822" route="nl.nzs01"/>
+</positions>
+</junction>
+<junction id="nl.j_037" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.054" lat="51.3650025" lon="6.1709428" route="nl.sse02"/>
+	<ATLRoutePosition km="69.986" lat="51.3650240" lon="6.1709955" route="nl.sse03"/>
+</positions>
+</junction>
+<junction id="nl.j_053" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="23.571" lat="51.5613784" lon="5.1045911" route="nl.sse01"/>
+	<ATLRoutePosition km="0.000" lat="51.5613791" lon="5.1045951" route="nl.nzos01"/>
+</positions>
+</junction>
+<junction id="nl.j_038" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.0746326" lon="4.8786361" route="nl.lw01"/>
+	<ATLRoutePosition km="17.386" lat="52.0746322" lon="4.8786398" route="nl.nrs02"/>
+</positions>
+</junction>
+<junction id="nl.j_079" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.087" lat="50.8961088" lon="5.9574455" route="nl.ssr01"/>
+	<ATLRoutePosition km="17.130" lat="50.8961109" lon="5.9574210" route="nl.nzs01"/>
+</positions>
+</junction>
+<junction id="nl.j_039" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="83.115" lat="51.9235094" lon="4.4573717" route="nl.hsm01"/>
+	<ATLRoutePosition km="55.098" lat="51.9238204" lon="4.4573189" route="nl.nrs02"/>
+</positions>
+</junction>
+<junction id="nl.j_040" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="11.306" lat="52.1042408" lon="4.9517161" route="nl.nrs02"/>
+	<ATLRoutePosition km="7.731" lat="52.1042921" lon="4.9516756" route="nl.nrs03"/>
+</positions>
+</junction>
+<junction id="nl.j_041" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="38.895" lat="52.0727837" lon="5.1368421" route="nl.ssh01"/>
+	<ATLRoutePosition km="0.000" lat="52.0728334" lon="5.1369490" route="nl.nrs01"/>
+</positions>
+</junction>
+<junction id="nl.j_042" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="87.370" lat="51.6623979" lon="5.2908462" route="nl.ssh01"/>
+	<ATLRoutePosition km="17.681" lat="51.6623895" lon="5.2908082" route="nl.nzos01"/>
+</positions>
+</junction>
+<junction id="nl.j_070" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="1.200" lat="51.9077161" lon="5.8558503" route="nl.sso01"/>
+	<ATLRoutePosition km="9.718" lat="51.9077086" lon="5.8558668" route="nl.ssl01"/>
+</positions>
+</junction>
+<junction id="nl.j_003" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="1.411" lat="50.8593235" lon="5.7064458" route="nl.sse03"/>
+	<ATLRoutePosition km="35.553" lat="50.8592277" lon="5.7063513" route="nl.am01"/>
+</positions>
+</junction>
+<junction id="nl.j_044" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.0113842" lon="4.6656560" route="nl.nrs04"/>
+	<ATLRoutePosition km="35.147" lat="52.0113724" lon="4.6656757" route="nl.nrs02"/>
+</positions>
+</junction>
+<junction id="nl.j_090" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="79.636" lat="51.9223953" lon="4.4074323" route="nl.hsm01"/>
+	<ATLRoutePosition km="0.167" lat="51.9223179" lon="4.4073599" route="nl.hsm05"/>
+</positions>
+</junction>
+<junction id="nl.j_008" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="5.330" lat="52.3234105" lon="4.9205342" route="nl.ssu02"/>
+	<ATLRoutePosition km="0.000" lat="52.3233805" lon="4.9204931" route="nl.asd12"/>
+</positions>
+</junction>
+<junction id="nl.j_048" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="29.291" lat="52.1558198" lon="6.2092411" route="nl.ssa01"/>
+	<ATLRoutePosition km="1.700" lat="52.1557924" lon="6.2093027" route="nl.nwsm01"/>
+</positions>
+</junction>
+<junction id="nl.j_074" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="32.704" lat="52.0177899" lon="4.6981656" route="nl.nrs02"/>
+	<ATLRoutePosition km="0.575" lat="52.0177841" lon="4.6981751" route="nl.sss01"/>
+</positions>
+</junction>
+<junction id="nl.j_001" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="1.400" lat="51.5447987" lon="4.4658805" route="nl.ar02"/>
+	<ATLRoutePosition km="22.246" lat="51.5448004" lon="4.4658826" route="nl.ar01"/>
+</positions>
+</junction>
+<junction id="nl.j_046" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="23.493" lat="52.0515282" lon="5.4721964" route="nl.nrs01"/>
+	<ATLRoutePosition km="37.759" lat="52.0515530" lon="5.4722156" route="nl.os05"/>
+</positions>
+</junction>
+<junction id="nl.j_085" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="30.953" lat="52.3611966" lon="6.5865475" route="nl.knls03"/>
+	<ATLRoutePosition km="52.820" lat="52.3612274" lon="6.5865416" route="nl.ssn01"/>
+</positions>
+</junction>
+<junction id="nl.j_057" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="23.934" lat="53.1913251" lon="5.7579862" route="nl.ssb01"/>
+	<ATLRoutePosition km="2.457" lat="53.1912108" lon="5.7580441" route="nl.ssb02"/>
+</positions>
+</junction>
+<junction id="nl.j_045" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="104.461" lat="52.1413200" lon="6.1790000" route="nl.os02"/>
+	<ATLRoutePosition km="26.574" lat="52.1412813" lon="6.1790217" route="nl.ssa01"/>
+</positions>
+</junction>
+<junction id="nl.j_059" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="38.701" lat="51.5868930" lon="5.3152822" route="nl.sse01"/>
+	<ATLRoutePosition km="96.053" lat="51.5869225" lon="5.3153329" route="nl.ssh01"/>
+</positions>
+</junction>
+<junction id="nl.j_060" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="51.058" lat="51.4438723" lon="5.4863892" route="nl.sse02"/>
+	<ATLRoutePosition km="59.277" lat="51.4438712" lon="5.4863796" route="nl.sse01"/>
+</positions>
+</junction>
+<junction id="nl.j_062" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="26.776" lat="52.6953819" lon="6.1990277" route="nl.ssa02"/>
+	<ATLRoutePosition km="0.380" lat="52.6953821" lon="6.1990244" route="nl.ssc01"/>
+</positions>
+</junction>
+<junction id="nl.j_052" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="65.804" lat="51.8432661" lon="5.8522449" route="nl.nzos02"/>
+	<ATLRoutePosition km="16.967" lat="51.8432686" lon="5.8522416" route="nl.ssl01"/>
+</positions>
+</junction>
+<junction id="nl.j_061" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="29.791" lat="52.1593975" lon="6.2136812" route="nl.ssa01"/>
+	<ATLRoutePosition km="0.000" lat="52.1595016" lon="6.2134479" route="nl.ssd01"/>
+</positions>
+</junction>
+<junction id="nl.j_072" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="43.128" lat="52.1862921" lon="4.4976099" route="nl.hsm01"/>
+	<ATLRoutePosition km="42.541" lat="52.1863035" lon="4.4976866" route="nl.ssu02"/>
+</positions>
+</junction>
+<junction id="nl.j_101" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="39.696" lat="51.8603705" lon="4.5481232" route="nl.ssi01"/>
+	<ATLRoutePosition km="0.000" lat="51.8602420" lon="4.5477252" route="nl.br02"/>
+</positions>
+</junction>
+<junction id="nl.j_080" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="79.493" lat="53.2103351" lon="6.5512518" route="nl.ssb01"/>
+	<ATLRoutePosition km="0.810" lat="53.2103413" lon="6.5512611" route="nl.ssp01"/>
+</positions>
+</junction>
+<junction id="nl.j_063" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.000" lat="51.5337419" lon="4.4521742" route="nl.ssf01"/>
+	<ATLRoutePosition km="23.831" lat="51.5337475" lon="4.4521772" route="nl.ar01"/>
+</positions>
+</junction>
+<junction id="nl.j_064" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.001" lat="52.3641844" lon="4.9307869" route="nl.ssh01"/>
+	<ATLRoutePosition km="13.964" lat="52.3641915" lon="4.9309348" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_065" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="1.588" lat="51.3735173" lon="6.1536383" route="nl.sse02"/>
+	<ATLRoutePosition km="76.328" lat="51.3735195" lon="6.1536401" route="nl.ssl01"/>
+</positions>
+</junction>
+<junction id="nl.j_104" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.3890252" lon="4.8238983" route="nl.asd11"/>
+	<ATLRoutePosition km="5.133" lat="52.3890091" lon="4.8239066" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_009" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="69.274" lat="51.9187496" lon="6.0897592" route="nl.nrs01"/>
+	<ATLRoutePosition km="0.000" lat="51.9186910" lon="6.0897391" route="nl.br01"/>
+</positions>
+</junction>
+<junction id="nl.j_082" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.3366364" lon="4.9875362" route="nl.ssu02"/>
+	<ATLRoutePosition km="19.012" lat="52.3368067" lon="4.9877676" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_091" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="29.604" lat="52.0279445" lon="5.6719236" route="nl.kl01"/>
+	<ATLRoutePosition km="37.501" lat="52.0278222" lon="5.6717396" route="nl.nrs01"/>
+</positions>
+</junction>
+<junction id="nl.j_066" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="16.920" lat="52.1206957" lon="4.6614242" route="nl.lw01"/>
+	<ATLRoutePosition km="17.016" lat="52.1206948" lon="4.6614131" route="nl.sss01"/>
+</positions>
+</junction>
+<junction id="nl.j_010" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.240" lat="53.2930500" lon="6.5404730" route="nl.gls01"/>
+	<ATLRoutePosition km="11.089" lat="53.2930458" lon="6.5404876" route="nl.ssp01"/>
+</positions>
+</junction>
+<junction id="nl.j_076" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.2993466" lon="5.0794913" route="nl.ssv03"/>
+	<ATLRoutePosition km="26.568" lat="52.2993026" lon="5.0794601" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_067" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="51.4446202" lon="5.4933572" route="nl.ssq01"/>
+	<ATLRoutePosition km="50.568" lat="51.4446714" lon="5.4933420" route="nl.sse02"/>
+</positions>
+</junction>
+<junction id="nl.j_106" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="25.322" lat="51.6669717" lon="4.6784122" route="nl.hsl02"/>
+	<ATLRoutePosition km="0.000" lat="51.6669609" lon="4.6783426" route="nl.hsl03"/>
+</positions>
+</junction>
+<junction id="nl.j_083" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="51.9868637" lon="5.8781910" route="nl.ssl01"/>
+	<ATLRoutePosition km="52.436" lat="51.9868852" lon="5.8781943" route="nl.nrs01"/>
+</positions>
+</junction>
+<junction id="nl.j_092" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="36.024" lat="52.0910432" lon="5.1087449" route="nl.ssh01"/>
+	<ATLRoutePosition km="0.229" lat="52.0909614" lon="5.1085251" route="nl.nrs02"/>
+</positions>
+</junction>
+<junction id="nl.j_068" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="51.070" lat="51.2008237" lon="6.0007612" route="nl.ssq01"/>
+	<ATLRoutePosition km="47.398" lat="51.2008001" lon="6.0008196" route="nl.sse03"/>
+</positions>
+</junction>
+<junction id="nl.j_011" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="59.798" lat="52.0769366" lon="4.3384288" route="nl.hsm01"/>
+	<ATLRoutePosition km="0.000" lat="52.0768627" lon="4.3383756" route="nl.gvc1"/>
+</positions>
+</junction>
+<junction id="nl.j_051" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="72.627" lat="52.4997719" lon="6.1053063" route="nl.ssa01"/>
+	<ATLRoutePosition km="14.490" lat="52.4997883" lon="6.1053201" route="nl.ssn01"/>
+</positions>
+</junction>
+<junction id="nl.j_069" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="12.630" lat="50.8314513" lon="5.9775075" route="nl.ssm01"/>
+	<ATLRoutePosition km="12.603" lat="50.8314346" lon="5.9775173" route="nl.am01"/>
+</positions>
+</junction>
+<junction id="nl.j_093" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="24.122" lat="52.1676636" lon="4.9905474" route="nl.ssh01"/>
+	<ATLRoutePosition km="0.000" lat="52.1676798" lon="4.9908777" route="nl.nrs03"/>
+</positions>
+</junction>
+<junction id="nl.j_004" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="14.375" lat="51.6859339" lon="4.6664230" route="nl.ssi01"/>
+	<ATLRoutePosition km="0.530" lat="51.6859314" lon="4.6664394" route="nl.ar01"/>
+</positions>
+</junction>
+<junction id="nl.j_012" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="60.603" lat="52.0726889" lon="4.3288943" route="nl.hsm01"/>
+	<ATLRoutePosition km="0.586" lat="52.0726706" lon="4.3287581" route="nl.gvc2"/>
+</positions>
+</junction>
+<junction id="nl.j_086" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="50.742" lat="52.2613830" lon="6.7969079" route="nl.knls03"/>
+	<ATLRoutePosition km="0.000" lat="52.2613819" lon="6.7969005" route="nl.as01"/>
+</positions>
+</junction>
+<junction id="nl.j_094" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="42.833" lat="52.2619758" lon="6.7923412" route="nl.ssd01"/>
+	<ATLRoutePosition km="50.424" lat="52.2619698" lon="6.7923348" route="nl.knls03"/>
+</positions>
+</junction>
+<junction id="nl.j_005" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.652" lat="52.4266698" lon="4.8140929" route="nl.ssk01"/>
+	<ATLRoutePosition km="0.000" lat="52.4266726" lon="4.8140849" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_013" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.738" lat="52.0774580" lon="4.3288664" route="nl.gvc1"/>
+	<ATLRoutePosition km="24.675" lat="52.0774673" lon="4.3288878" route="nl.nrs04"/>
+</positions>
+</junction>
+<junction id="nl.j_087" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="6.806" lat="52.3128940" lon="4.9461848" route="nl.ssh01"/>
+	<ATLRoutePosition km="2.206" lat="52.3128825" lon="4.9462024" route="nl.asd12"/>
+</positions>
+</junction>
+<junction id="nl.j_058" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="82.928" lat="53.1996483" lon="6.5965773" route="nl.ssb01"/>
+	<ATLRoutePosition km="74.347" lat="53.1996550" lon="6.5965776" route="nl.ssc01"/>
+</positions>
+</junction>
+<junction id="nl.j_089" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="3.209" lat="52.3889421" lon="4.8357231" route="nl.hsm01"/>
+	<ATLRoutePosition km="5.935" lat="52.3889730" lon="4.8357114" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_095" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.044" lat="52.3087884" lon="5.0497207" route="nl.ssv01"/>
+	<ATLRoutePosition km="24.269" lat="52.3086932" lon="5.0495757" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_006" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="54.576" lat="52.1535363" lon="5.3642357" route="nl.os01"/>
+	<ATLRoutePosition km="20.469" lat="52.1534877" lon="5.3642501" route="nl.ncs01"/>
+</positions>
+</junction>
+<junction id="nl.j_014" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.0768240" lon="4.3295503" route="nl.gvc2"/>
+	<ATLRoutePosition km="24.593" lat="52.0769640" lon="4.3297644" route="nl.nrs04"/>
+</positions>
+</junction>
+<junction id="nl.j_088" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.000" lat="51.9662084" lon="6.7173698" route="nl.gols01"/>
+	<ATLRoutePosition km="43.703" lat="51.9666801" lon="6.7167602" route="nl.nwsm01"/>
+</positions>
+</junction>
+<junction id="nl.j_096" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="9.888" lat="52.3870954" lon="4.8795687" route="nl.ssu03"/>
+	<ATLRoutePosition km="8.948" lat="52.3870933" lon="4.8795636" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_007" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="37.221" lat="51.8441567" lon="4.5718811" route="nl.ssi01"/>
+	<ATLRoutePosition km="110.783" lat="51.8439618" lon="4.5718284" route="nl.br01"/>
+</positions>
+</junction>
+<junction id="nl.j_015" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="11.700" lat="52.1621354" lon="5.5922086" route="nl.kl01"/>
+	<ATLRoutePosition km="60.563" lat="52.1621932" lon="5.5922180" route="nl.os02"/>
+</positions>
+</junction>
+<junction id="nl.j_102" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="45.798" lat="52.1656860" lon="4.4807960" route="nl.hsm01"/>
+	<ATLRoutePosition km="32.245" lat="52.1653810" lon="4.4813826" route="nl.lw01"/>
+</positions>
+</junction>
+<junction id="nl.j_103" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="49.489" lat="51.9215436" lon="6.0784687" route="nl.gols01"/>
+	<ATLRoutePosition km="68.438" lat="51.9215622" lon="6.0784555" route="nl.nrs01"/>
+</positions>
+</junction>
+<junction id="nl.j_097" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="12.562" lat="52.3384538" lon="4.8224411" route="nl.ssu02"/>
+	<ATLRoutePosition km="0.000" lat="52.3385491" lon="4.8224384" route="nl.ssu03"/>
+</positions>
+</junction>
+<junction id="nl.j_016" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="44.093" lat="52.2588173" lon="6.1568361" route="nl.ssa01"/>
+	<ATLRoutePosition km="14.519" lat="52.2588149" lon="6.1568312" route="nl.knls02"/>
+</positions>
+</junction>
+<junction id="nl.j_098" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="25.547" lat="53.1949349" lon="5.7814073" route="nl.ssb01"/>
+	<ATLRoutePosition km="91.928" lat="53.1948018" lon="5.7814441" route="nl.ssa02"/>
+</positions>
+</junction>
+<junction id="nl.j_078" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="62.440" lat="51.8796253" lon="5.2727553" route="nl.ssh01"/>
+	<ATLRoutePosition km="44.348" lat="51.8796315" lon="5.2727526" route="nl.sso01"/>
+</positions>
+</junction>
+<junction id="nl.j_047" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="23.266" lat="52.1677118" lon="5.3945603" route="nl.ncs01"/>
+	<ATLRoutePosition km="46.800" lat="52.1677120" lon="5.3945617" route="nl.os02"/>
+</positions>
+</junction>
+<junction id="nl.j_017" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="32.040" lat="52.6451517" lon="5.0465956" route="nl.hsm03"/>
+	<ATLRoutePosition km="22.858" lat="52.6451551" lon="5.0465924" route="nl.hsm04"/>
+</positions>
+</junction>
+<junction id="nl.j_105" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="2.183" lat="52.3771531" lon="4.8366790" route="nl.asd11"/>
+	<ATLRoutePosition km="4.899" lat="52.3771135" lon="4.8368967" route="nl.ssu03"/>
+</positions>
+</junction>
+<junction id="nl.j_099" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="14.461" lat="52.4999269" lon="6.1049572" route="nl.ssn01"/>
+	<ATLRoutePosition km="0.000" lat="52.4998711" lon="6.1049023" route="nl.ssa02"/>
+</positions>
+</junction>
+<junction id="nl.j_018" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="52.2528836" lon="6.1948435" route="nl.knls03"/>
+	<ATLRoutePosition km="41.156" lat="52.2529018" lon="6.1948891" route="nl.ssa01"/>
+</positions>
+</junction>
+<junction id="nl.j_019" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="17.459" lat="52.3882585" lon="4.6311759" route="nl.hsm01"/>
+	<ATLRoutePosition km="0.450" lat="52.3883534" lon="4.6311462" route="nl.hsm02"/>
+</positions>
+</junction>
+<junction id="nl.j_020" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="17.925" lat="52.5207672" lon="4.7041862" route="nl.hsm02"/>
+	<ATLRoutePosition km="15.211" lat="52.5207426" lon="4.7041068" route="nl.ssk01"/>
+</positions>
+</junction>
+<junction id="nl.j_049" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="55.715" lat="51.9838921" lon="5.9250662" route="nl.nrs01"/>
+	<ATLRoutePosition km="0.000" lat="51.9838397" lon="5.9250281" route="nl.ssa01"/>
+</positions>
+</junction>
+<junction id="nl.j_075" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="86.057" lat="52.4891308" lon="6.0587546" route="nl.ssv01"/>
+	<ATLRoutePosition km="84.313" lat="52.4894834" lon="6.0585034" route="nl.ncs01"/>
+</positions>
+</junction>
+<junction id="nl.j_107" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="2.411" lat="51.6472042" lon="4.6926106" route="nl.hsl03"/>
+	<ATLRoutePosition km="9.707" lat="51.6472386" lon="4.6926896" route="nl.ssi01"/>
+</positions>
+</junction>
+<junction id="nl.j_021" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.620" lat="52.3885151" lon="4.6295514" route="nl.hzsm01"/>
+	<ATLRoutePosition km="17.560" lat="52.3881036" lon="4.6297099" route="nl.hsm01"/>
+</positions>
+</junction>
+<junction id="nl.j_081" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.002" lat="50.8966500" lon="6.0191146" route="nl.ssm01"/>
+	<ATLRoutePosition km="21.764" lat="50.8963687" lon="6.0191397" route="nl.nzs01"/>
+</positions>
+</junction>
+<junction id="nl.j_056" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="4.003" lat="52.5063899" lon="6.1398970" route="nl.nols01"/>
+	<ATLRoutePosition km="2.695" lat="52.5064624" lon="6.1398210" route="nl.ssa02"/>
+</positions>
+</junction>
+<junction id="nl.j_050" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="0.100" lat="52.2248851" lon="5.1830340" route="nl.os03"/>
+	<ATLRoutePosition km="39.082" lat="52.2248578" lon="5.1829472" route="nl.os01"/>
+</positions>
+</junction>
+<junction id="nl.j_022" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="24.095" lat="52.2857466" lon="4.6840652" route="nl.ssu02"/>
+	<ATLRoutePosition km="45.959" lat="52.2856193" lon="4.6842682" route="nl.hsl01"/>
+</positions>
+</junction>
+<junction id="nl.j_100" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="87.300" lat="52.5067791" lon="6.0865049" route="nl.ncs01"/>
+	<ATLRoutePosition km="12.997" lat="52.5067896" lon="6.0865103" route="nl.ssn01"/>
+</positions>
+</junction>
+<junction id="nl.j_023" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="84.093" lat="51.9255262" lon="4.4711887" route="nl.hsm01"/>
+	<ATLRoutePosition km="49.024" lat="51.9252085" lon="4.4713455" route="nl.ssi01"/>
+</positions>
+</junction>
+<junction id="nl.j_108" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="12.602" lat="52.1178821" lon="5.1419855" route="nl.os03"/>
+	<ATLRoutePosition km="0.779" lat="52.1178872" lon="5.1420628" route="nl.os11"/>
+</positions>
+</junction>
+<junction id="nl.j_024" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="51.5952321" lon="4.7800690" route="nl.ssi01"/>
+	<ATLRoutePosition km="0.621" lat="51.5952284" lon="4.7800672" route="nl.sse01"/>
+</positions>
+</junction>
+<junction id="nl.j_025" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="88.872" lat="52.2088828" lon="5.9814400" route="nl.os02"/>
+	<ATLRoutePosition km="1.027" lat="52.2089599" lon="5.9814477" route="nl.knls02"/>
+</positions>
+</junction>
+<junction id="nl.j_109" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="3.955" lat="52.1124768" lon="5.1366186" route="nl.ncs01"/>
+	<ATLRoutePosition km="0.000" lat="52.1124172" lon="5.1366549" route="nl.os11"/>
+</positions>
+</junction>
+<junction id="nl.j_026" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="41.070" lat="51.8712896" lon="4.5387468" route="nl.ssi01"/>
+	<ATLRoutePosition km="0.000" lat="51.8711905" lon="4.5384537" route="nl.hsl02"/>
+</positions>
+</junction>
+<junction id="nl.j_110" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="4.712" lat="52.1148360" lon="5.1470177" route="nl.ncs01"/>
+	<ATLRoutePosition km="0.599" lat="52.1148301" lon="5.1470306" route="nl.os12"/>
+</positions>
+</junction>
+<junction id="nl.j_084" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="1.572" lat="52.3093421" lon="5.0740183" route="nl.ssv03"/>
+	<ATLRoutePosition km="2.013" lat="52.3093712" lon="5.0739733" route="nl.ssv01"/>
+</positions>
+</junction>
+<junction id="nl.j_027" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="1.000" lat="52.4480465" lon="4.8082884" route="nl.hsm03"/>
+	<ATLRoutePosition km="3.120" lat="52.4479952" lon="4.8080608" route="nl.ssk01"/>
+</positions>
+</junction>
+<junction id="nl.j_111" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="13.358" lat="52.1111161" lon="5.1415989" route="nl.os03"/>
+	<ATLRoutePosition km="0.000" lat="52.1111037" lon="5.1417016" route="nl.os12"/>
+</positions>
+</junction>
+<junction id="nl.j_028" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="38.584" lat="52.6735388" lon="4.8308958" route="nl.ssk01"/>
+	<ATLRoutePosition km="7.353" lat="52.6735321" lon="4.8308965" route="nl.hsm04"/>
+</positions>
+</junction>
+<junction id="nl.j_073" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="29.030" lat="51.8067588" lon="4.6732536" route="nl.ssi01"/>
+	<ATLRoutePosition km="93.720" lat="51.8067735" lon="4.6732464" route="nl.sso02"/>
+</positions>
+</junction>
+<junction id="nl.j_029" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.000" lat="51.9234241" lon="4.4576681" route="nl.hsl01"/>
+	<ATLRoutePosition km="83.134" lat="51.9235249" lon="4.4576477" route="nl.hsm01"/>
+</positions>
+</junction>
+<junction id="nl.j_002" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="21.941" lat="51.5930075" lon="4.7500563" route="nl.ar02"/>
+	<ATLRoutePosition km="2.129" lat="51.5930919" lon="4.7500927" route="nl.ssi01"/>
+</positions>
+</junction>
+<junction id="nl.j_077" sameDirection="yes">
+<positions>
+	<ATLRoutePosition km="22.212" lat="50.8562474" lon="5.8699037" route="nl.am01"/>
+	<ATLRoutePosition km="7.880" lat="50.8562448" lon="5.8698991" route="nl.ssr01"/>
+</positions>
+</junction>
+<junction id="nl.j_030" sameDirection="no">
+<positions>
+	<ATLRoutePosition km="0.480" lat="52.0934225" lon="5.1066186" route="nl.ncs01"/>
+	<ATLRoutePosition km="35.723" lat="52.0933842" lon="5.1065333" route="nl.ssh01"/>
+</positions>
+</junction>
+<station id="nl.hlo" name="Heiloo" importance="3" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="26.094" lat="52.5994843" lon="4.7005061" route="nl.ssk01"/>
+</positions>
+<display angle="180">Heiloo</display>
+<opened>1867-05-01</opened>
+<wiki>nl:Station Heiloo</wiki>
+</station>
+<station id="nl.hrt" name="Horst-Sevenum" importance="3" corridor="4" region="18">
+<positions>
+	<ATLRoutePosition km="11.307" lat="51.4265004" lon="6.0422698" route="nl.sse02"/>
+</positions>
+<display angle="240">Horst-Sevenum</display>
+<opened>1866-10-01</opened>
+<wiki>nl:Station Horst-Sevenum</wiki>
+</station>
+<station id="nl.amf" name="Amersfoort" importance="1" corridor="2" region="10">
+<positions>
+	<ATLRoutePosition km="20.901" lat="52.1537195" lon="5.3705721" route="nl.ncs01"/>
+</positions>
+<display angle="0">Amersfoort</display>
+<opened>1902-01-01</opened>
+<wiki>nl:Station Amersfoort</wiki>
+</station>
+<station id="nl.wd" name="Woerden" importance="2" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="15.916" lat="52.0846249" lon="4.8922775" route="nl.nrs02"/>
+</positions>
+<display angle="60">Woerden</display>
+<opened>1855-05-21</opened>
+<wiki>nl:Station Woerden</wiki>
+</station>
+<station id="nl.ww" name="Winterswijk" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="43.558" lat="51.9677300" lon="6.7155180" route="nl.nwsm01"/>
+</positions>
+<display angle="60">Winterswijk</display>
+<opened>1878-06-24</opened>
+<wiki>nl:Station Winterswijk</wiki>
+</station>
+<station id="nl.zvt" name="Zandvoort aan Zee" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="8.014" lat="52.3753187" lon="4.5328070" route="nl.hzsm01"/>
+</positions>
+<display angle="180">Zandvoort</display>
+<opened>1881-06-03</opened>
+<wiki>nl:Station Zandvoort</wiki>
+<aliases>
+	<name>Zandvoort</name>
+</aliases>
+</station>
+<station id="nl.lp" name="Loppersum" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="25.794" lat="53.3348190" lon="6.7472842" route="nl.ssp01"/>
+</positions>
+<display angle="60">Loppersum</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Loppersum</wiki>
+</station>
+<station id="nl.hb" name="Hoensbroek" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="14.971" lat="50.9054732" lon="5.9304631" route="nl.nzs01"/>
+</positions>
+<display angle="60">Hoensbroek</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Hoensbroek</wiki>
+</station>
+<station id="nl.rhn" name="Rhenen" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="24.068" lat="51.9585996" lon="5.5784518" route="nl.os05"/>
+</positions>
+<display angle="180">Rhenen</display>
+<opened>1886-02-18</opened>
+<wiki>nl:Station Rhenen</wiki>
+</station>
+<station id="nl.sd" name="Soestdijk" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="7.549" lat="52.1836179" lon="5.3000734" route="nl.ncs03"/>
+</positions>
+<display angle="180">Soestdijk</display>
+<opened>1898-06-27</opened>
+<wiki>nl:Station Soestdijk</wiki>
+</station>
+<station id="nl.uhz" name="Uithuizen" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="20.661" lat="53.4096636" lon="6.6748514" route="nl.gls01"/>
+</positions>
+<display angle="60">Uithuizen</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Uithuizen</wiki>
+</station>
+<station id="nl.omn" name="Ommen" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="23.090" lat="52.5095094" lon="6.4158107" route="nl.nols01"/>
+</positions>
+<display angle="60">Ommen</display>
+<opened>1903-01-15</opened>
+<wiki>nl:Station Ommen</wiki>
+</station>
+<station id="nl.brd" name="Barendrecht" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="38.972" lat="51.8546759" lon="4.5532237" route="nl.ssi01"/>
+</positions>
+<display angle="60">Barendrecht</display>
+<opened>1872-11-01</opened>
+<wiki>nl:Station Barendrecht</wiki>
+</station>
+<station id="nl.ddr" name="Dordrecht" importance="2" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="29.372" lat="51.8072924" lon="4.6683539" route="nl.ssi01"/>
+</positions>
+<display angle="60">Dordrecht</display>
+<opened>1872-01-01</opened>
+<wiki>nl:Station Dordrecht</wiki>
+</station>
+<station id="nl.akm" name="Akkrum" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="74.350" lat="53.0463993" lon="5.8435638" route="nl.ssa02"/>
+</positions>
+<display angle="0">Akkrum</display>
+<opened>1868-09-01</opened>
+<wiki>nl:Station Akkrum</wiki>
+</station>
+<station id="nl.bhdv" name="Boven-Hardinxveld" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="76.910" lat="51.8322220" lon="4.8780560" route="nl.sso02"/>
+</positions>
+<display angle="0">Boven Hardinxveld</display>
+<opened>2012-04-16</opened>
+<wiki>nl:Station Boven Hardinxveld</wiki>
+<aliases>
+	<name>Boven Hardinxveld</name>
+</aliases>
+</station>
+<station id="nl.hm" name="Helmond" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="38.322" lat="51.4755661" lon="5.6619389" route="nl.sse02"/>
+</positions>
+<display angle="60">Helmond</display>
+<opened>1866-07-01</opened>
+<wiki>nl:Station Helmond</wiki>
+</station>
+<station id="nl.hry" name="Heerenveen IJsstadion" importance="9" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="60.101" lat="52.9353550" lon="5.9440642" route="nl.ssa02"/>
+</positions>
+<display angle="0">IJsstadion</display>
+<opened>1975-06-01</opened>
+<wiki>nl:Station Heerenveen IJsstadion</wiki>
+<aliases>
+	<name>IJsstadion</name>
+</aliases>
+</station>
+<station id="nl.ltn" name="Lunteren" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="21.926" lat="52.0852281" lon="5.6241914" route="nl.kl01"/>
+</positions>
+<display angle="180">Lunteren</display>
+<opened>1902-05-01</opened>
+<wiki>nl:Station Lunteren</wiki>
+</station>
+<station id="nl.hfd" name="Hoofddorp" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="22.687" lat="52.2934141" lon="4.7004854" route="nl.ssu02"/>
+</positions>
+<display angle="180">Hoofddorp</display>
+<opened>1981-05-31</opened>
+<wiki>nl:Station Hoofddorp (Schiphollijn)</wiki>
+</station>
+<station id="nl.esd" name="Enschede Drienerlo" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="54.683" lat="52.2374496" lon="6.8387728" route="nl.knls03"/>
+</positions>
+<display angle="240">Drienerlo</display>
+<opened>1996-11-22</opened>
+<wiki>nl:Station Enschede Drienerlo</wiki>
+<aliases>
+	<name>Drienerlo</name>
+</aliases>
+</station>
+<station id="nl.zwd" name="Zwijndrecht" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="31.436" lat="51.8150512" lon="4.6417093" route="nl.ssi01"/>
+</positions>
+<display angle="60">Zwijndrecht</display>
+<opened>1871</opened>
+<wiki>nl:Station Zwijndrecht (Nederland)</wiki>
+</station>
+<station id="nl.ust" name="Usquert" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="16.032" lat="53.4009754" lon="6.6093585" route="nl.gls01"/>
+</positions>
+<display angle="60">Usquert</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Usquert</wiki>
+</station>
+<station id="nl.wdn" name="Wierden" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="31.301" lat="52.3615734" lon="6.5916387" route="nl.knls03"/>
+</positions>
+<display angle="240">Wierden</display>
+<opened>1881-01-01</opened>
+<wiki>nl:Station Wierden</wiki>
+</station>
+<station id="nl.hnp" name="Hindeloopen" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="41.022" lat="52.9464317" lon="5.4232672" route="nl.ssb02"/>
+</positions>
+<display angle="0">Hindeloopen</display>
+<opened>1885-11-08</opened>
+<wiki>nl:Station Hindeloopen</wiki>
+</station>
+<station id="nl.ltv" name="Lichtenvoorde-Groenlo" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="33.848" lat="52.0125888" lon="6.5946238" route="nl.nwsm01"/>
+</positions>
+<display angle="60">Lichtenvoorde-G.</display>
+<opened>1878-06-24</opened>
+<wiki>nl:Station Lichtenvoorde-Groenlo</wiki>
+<aliases>
+	<name>Lichtenvoorde-G.</name>
+</aliases>
+</station>
+<station id="nl.op" name="Opheusden" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="17.038" lat="51.9260943" lon="5.6370885" route="nl.sso01"/>
+</positions>
+<display angle="60">Opheusden</display>
+<opened>1882-11-01</opened>
+<wiki>nl:Station Opheusden</wiki>
+</station>
+<station id="nl.adh" name="Leeuwarden Achter d Hoven" importance="9" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="28.000" lat="53.1991781" lon="5.8175551" route="nl.ssb01"/>
+</positions>
+<display angle="60">Achter de Hoven</display>
+<opened>1915-07-05</opened>
+<wiki>nl:Station Leeuwarden Achter de Hoven</wiki>
+<aliases>
+	<name>Achter de Hoven</name>
+</aliases>
+</station>
+<station id="nl.almp" name="Almere Parkwijk" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="16.902" lat="52.3767399" lon="5.2447005" route="nl.ssv01"/>
+</positions>
+<display angle="60">Parkwijk</display>
+<opened>1996-02-01</opened>
+<wiki>nl:Station Almere Parkwijk</wiki>
+<aliases>
+	<name>Parkwijk</name>
+</aliases>
+</station>
+<station id="nl.bhv" name="Bilthoven" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="8.948" lat="52.1299421" lon="5.2039698" route="nl.ncs01"/>
+</positions>
+<display angle="60">Bilthoven</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Bilthoven</wiki>
+</station>
+<station id="nl.zh" name="Zuidhorn" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="68.502" lat="53.2484004" lon="6.4060301" route="nl.ssb01"/>
+</positions>
+<display angle="240">Zuidhorn</display>
+<opened>1866-06-01</opened>
+<wiki>nl:Station Zuidhorn</wiki>
+</station>
+<station id="nl.ut" name="Utrecht Centraal" importance="0" corridor="1" region="12">
+<positions>
+	<ATLRoutePosition km="36.284" lat="52.0890243" lon="5.1106587" route="nl.ssh01"/>
+</positions>
+<display angle="240">Utrecht C</display>
+<opened>1843-12-18</opened>
+<wiki>nl:Station Utrecht Centraal</wiki>
+<aliases>
+	<name>Utrecht</name>
+	<name>Utrecht C</name>
+</aliases>
+</station>
+<station id="nl.hgl" name="Hengelo" importance="1" corridor="2" region="9">
+<positions>
+	<ATLRoutePosition km="50.535" lat="52.2616650" lon="6.7938890" route="nl.knls03"/>
+</positions>
+<display angle="240">Hengelo</display>
+<opened>1865-10-18</opened>
+<wiki>nl:Station Hengelo</wiki>
+</station>
+<station id="nl.rtb" name="Rotterdam Blaak" importance="3" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="47.541" lat="51.9203043" lon="4.4889307" route="nl.ssi01"/>
+</positions>
+<display angle="60">Blaak</display>
+<opened>1877-05-02</opened>
+<wiki>nl:Station Rotterdam Blaak</wiki>
+<aliases>
+	<name>Blaak</name>
+</aliases>
+</station>
+<station id="nl.almo" name="Almere Oostvaarders" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="21.815" lat="52.4031674" lon="5.3007182" route="nl.ssv01"/>
+</positions>
+<display angle="0">Oostvaarders</display>
+<opened>2004-12-12</opened>
+<wiki>nl:Station Almere Oostvaarders</wiki>
+<aliases>
+	<name>Oostvaarders</name>
+</aliases>
+</station>
+<station id="nl.wf" name="Wolfheze" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="46.169" lat="52.0054855" lon="5.7933112" route="nl.nrs01"/>
+</positions>
+<display angle="60">Wolfheze</display>
+<opened>1845-05-16</opened>
+<wiki>nl:Station Wolfheze</wiki>
+</station>
+<station id="nl.ac" name="Abcoude" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="11.160" lat="52.2785985" lon="4.9771616" route="nl.ssh01"/>
+</positions>
+<display angle="240">Abcoude</display>
+<opened>1843-12-18</opened>
+<wiki>nl:Station Abcoude</wiki>
+</station>
+<station id="nl.lut" name="Geleen-Lutterade" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="18.059" lat="50.9754460" lon="5.8249665" route="nl.sse03"/>
+</positions>
+<display angle="180">Geleen-Lutterade</display>
+<opened>1868-04-25</opened>
+<wiki>nl:Station Geleen-Lutterade</wiki>
+</station>
+<station id="nl.ost" name="Olst" importance="3" corridor="5" region="18">
+<positions>
+	<ATLRoutePosition km="53.211" lat="52.3347177" lon="6.1130825" route="nl.ssa01"/>
+</positions>
+<display angle="0">Olst</display>
+<opened>1866-10-01</opened>
+<wiki>nl:Station Olst</wiki>
+</station>
+<station id="nl.ck" name="Cuijk" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="31.198" lat="51.7266690" lon="5.8742509" route="nl.ssl01"/>
+</positions>
+<display angle="0">Cuijk</display>
+<opened>1883-06-01</opened>
+<wiki>nl:Station Cuijk</wiki>
+</station>
+<station id="nl.utg" name="Uitgeest" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="15.405" lat="52.5216670" lon="4.7016670" route="nl.ssk01"/>
+</positions>
+<display angle="60">Uitgeest</display>
+<opened>1867-05-01</opened>
+<wiki>nl:Station Uitgeest</wiki>
+</station>
+<station id="nl.bk" name="Beek-Elsloo" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="13.952" lat="50.9474849" lon="5.7866866" route="nl.sse03"/>
+</positions>
+<display angle="0">Beek-Elsloo</display>
+<opened>1862</opened>
+<wiki>nl:Station Beek-Elsloo</wiki>
+</station>
+<station id="nl.es" name="Enschede" importance="1" corridor="2" region="9">
+<positions>
+	<ATLRoutePosition km="58.909" lat="52.2225129" lon="6.8899978" route="nl.knls03"/>
+</positions>
+<display angle="240">Enschede</display>
+<opened>1866-07-01</opened>
+<wiki>nl:Station Enschede</wiki>
+</station>
+<station id="nl.kw" name="Kropswolde" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="92.298" lat="53.1618979" lon="6.7221675" route="nl.ssb01"/>
+</positions>
+<display angle="60">Kropswolde</display>
+<opened>1868-05-01</opened>
+<wiki>nl:Station Kropswolde</wiki>
+</station>
+<station id="nl.lw" name="Leeuwarden" importance="1" corridor="0" region="6">
+<positions>
+	<ATLRoutePosition km="26.273" lat="53.1961915" lon="5.7921122" route="nl.ssb01"/>
+</positions>
+<display angle="60">Leeuwarden</display>
+<opened>1863-10-27</opened>
+<wiki>nl:Station Leeuwarden</wiki>
+</station>
+<station id="nl.hglg" name="Hengelo Gezondheidspark" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="40.687" lat="52.2614499" lon="6.7608738" route="nl.ssd01"/>
+</positions>
+<display angle="240">Gezondheidspark</display>
+<opened>1865-11-01</opened>
+<wiki>nl:Station Hengelo Gezondheidspark</wiki>
+<aliases>
+	<name>Gezondheidspark</name>
+</aliases>
+</station>
+<station id="nl.hon" name="Holten" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="16.225" lat="52.2839070" lon="6.4202897" route="nl.knls03"/>
+</positions>
+<display angle="60">Holten</display>
+<opened>1886-09-01</opened>
+<wiki>nl:Station Holten</wiki>
+</station>
+<station id="nl.almm" name="Almere Muziekwijk" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="12.983" lat="52.3674887" lon="5.1903039" route="nl.ssv01"/>
+</positions>
+<display angle="60">Muziekwijk</display>
+<opened>1987-05-30</opened>
+<wiki>nl:Station Almere Muziekwijk</wiki>
+<aliases>
+	<name>Muziekwijk</name>
+</aliases>
+</station>
+<station id="nl.wfm" name="Warffum" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="12.926" lat="53.3905816" lon="6.5676106" route="nl.gls01"/>
+</positions>
+<display angle="180">Warffum</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Warffum</wiki>
+</station>
+<station id="nl.zl" name="Zwolle" importance="1" corridor="0" region="9">
+<positions>
+	<ATLRoutePosition km="13.430" lat="52.5047494" lon="6.0919687" route="nl.ssn01"/>
+</positions>
+<display angle="60">Zwolle</display>
+<opened>1864-06-06</opened>
+<wiki>nl:Station Zwolle</wiki>
+</station>
+<station id="nl.utl" name="Utrecht Lunetten" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="39.843" lat="52.0655560" lon="5.1441665" route="nl.ssh01"/>
+</positions>
+<display angle="240">Lunetten</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Utrecht Lunetten</wiki>
+<aliases>
+	<name>Lunetten</name>
+</aliases>
+</station>
+<station id="nl.dvc" name="Deventer Colmschate" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="1.434" lat="52.2503771" lon="6.2144376" route="nl.knls03"/>
+</positions>
+<display angle="60">Deventer Colmschate</display>
+<opened>1888-09-01</opened>
+<wiki>nl:Station Deventer Colmschate</wiki>
+<aliases>
+	<name>Deventer De Scheg</name>
+</aliases>
+</station>
+<station id="nl.kmr" name="Klimmen-Ransdaal" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="5.983" lat="50.8664397" lon="5.8904977" route="nl.ssr01"/>
+</positions>
+<display angle="0">Klimmen-Ransdaal</display>
+<opened>1915-03-01</opened>
+<wiki>nl:Station Klimmen-Ransdaal</wiki>
+</station>
+<station id="nl.rtd" name="Rotterdam Centraal" importance="0" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="83.925" lat="51.9250000" lon="4.4688888" route="nl.hsm01"/>
+</positions>
+<display angle="240">Rotterdam C</display>
+<opened>1968-02-09</opened>
+<wiki>nl:Station Rotterdam Centraal</wiki>
+<aliases>
+	<name>Rotterdam</name>
+	<name>Rotterdam C</name>
+</aliases>
+</station>
+<station id="nl.lwc" name="Leeuwarden Camminghaburen" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="29.683" lat="53.2020887" lon="5.8423509" route="nl.ssb01"/>
+</positions>
+<display angle="60">Camminghaburen</display>
+<opened>1991-06-02</opened>
+<wiki>nl:Station Leeuwarden Camminghaburen</wiki>
+<aliases>
+	<name>Camminghaburen</name>
+</aliases>
+</station>
+<station id="nl.ot" name="Oisterwijk" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="30.183" lat="51.5821890" lon="5.1942181" route="nl.sse01"/>
+</positions>
+<display angle="60">Oisterwijk</display>
+<opened>1865-05-01</opened>
+<wiki>nl:Station Oisterwijk</wiki>
+</station>
+<station id="nl.cl" name="Culemborg" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="54.314" lat="51.9466852" lon="5.2269698" route="nl.ssh01"/>
+</positions>
+<display angle="0">Culemborg</display>
+<opened>1868-11-01</opened>
+<wiki>nl:Station Culemborg</wiki>
+</station>
+<station id="nl.utlr" name="Utrecht Leidsche Rijn" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="3.265" lat="52.0986110" lon="5.0683330" route="nl.nrs02"/>
+</positions>
+<display angle="240">Leidsche Rijn</display>
+<opened>2013-06-08</opened>
+<wiki>nl:Station Utrecht Leidsche Rijn</wiki>
+<aliases>
+	<name>Leidsche Rijn</name>
+</aliases>
+</station>
+<station id="nl.bkf" name="Bovenkarspel Flora" importance="3" corridor="2" region="18">
+<positions>
+	<ATLRoutePosition km="47.619" lat="52.6959805" lon="5.2528137" route="nl.hsm03"/>
+</positions>
+<display angle="60">Bovenkarspel Flora</display>
+<opened>1977</opened>
+<wiki>nl:Station Bovenkarspel Flora</wiki>
+</station>
+<station id="nl.apd" name="Apeldoorn" importance="1" corridor="2" region="10">
+<positions>
+	<ATLRoutePosition km="88.111" lat="52.2092888" lon="5.9702897" route="nl.os02"/>
+</positions>
+<display angle="60">Apeldoorn</display>
+<opened>1876-05-15</opened>
+<wiki>nl:Station Apeldoorn</wiki>
+</station>
+<station id="nl.emnz" name="Emmen Zuid" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="70.075" lat="52.7489108" lon="6.8747137" route="nl.nols01"/>
+</positions>
+<display angle="0">Emmen Zuid</display>
+<opened>2011-04-03</opened>
+<wiki>nl:Station Emmen Zuid</wiki>
+</station>
+<station id="nl.tb" name="Tilburg" importance="1" corridor="4" region="16">
+<positions>
+	<ATLRoutePosition km="22.092" lat="51.5606074" lon="5.0836221" route="nl.sse01"/>
+</positions>
+<display angle="240">Tilburg</display>
+<opened>1863-10-05</opened>
+<wiki>nl:Station Tilburg</wiki>
+</station>
+<station id="nl.almb" name="Almere Buiten" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="19.976" lat="52.3942149" lon="5.2779772" route="nl.ssv01"/>
+</positions>
+<display angle="0">Almere Buiten</display>
+<opened>1987-05-30</opened>
+<wiki>nl:Station Almere Buiten</wiki>
+</station>
+<station id="nl.hglo" name="Hengelo Oost" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="1.774" lat="52.2688772" lon="6.8194625" route="nl.as01"/>
+</positions>
+<display angle="60">Hengelo Oost</display>
+<opened>1975-06-01</opened>
+<wiki>nl:Station Hengelo Oost</wiki>
+</station>
+<station id="nl.sda" name="Scheemda" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="109.590" lat="53.1655290" lon="6.9777676" route="nl.ssb01"/>
+</positions>
+<display angle="60">Scheemda</display>
+<opened>1868-05-01</opened>
+<wiki>nl:Station Scheemda</wiki>
+</station>
+<station id="nl.mas" name="Maarssen" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="28.881" lat="52.1353600" lon="5.0336890" route="nl.ssh01"/>
+</positions>
+<display angle="60">Maarssen</display>
+<opened>1843-12-18</opened>
+<wiki>nl:Station Maarssen</wiki>
+</station>
+<station id="nl.wh" name="Wijhe" importance="3" corridor="5" region="18">
+<positions>
+	<ATLRoutePosition km="59.791" lat="52.3902987" lon="6.1405022" route="nl.ssa01"/>
+</positions>
+<display angle="0">Wijhe</display>
+<opened>1866-10-01</opened>
+<wiki>nl:Station Wijhe</wiki>
+</station>
+<station id="nl.ddrs" name="Dordrecht Stadspolders" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="90.687" lat="51.8019608" lon="4.7166708" route="nl.sso02"/>
+</positions>
+<display angle="240">Stadspolders</display>
+<opened>1990-05-27</opened>
+<wiki>nl:Station Dordrecht Stadspolders</wiki>
+<aliases>
+	<name>Stadspolders</name>
+</aliases>
+</station>
+<station id="nl.utm" name="Utrecht Maliebaan" importance="9" corridor="-1" region="0">
+<positions>
+	<ATLRoutePosition km="16.500" lat="52.0865723" lon="5.1310532" route="nl.os03"/>
+</positions>
+<display angle="0">Utrecht Maliebaan</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Utrecht Maliebaan</wiki>
+<aliases>
+	<name>Spoorwegmuseum</name>
+	<name>Utrecht Maliebaan</name>
+</aliases>
+</station>
+<station id="nl.otb" name="Oosterbeek" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="49.603" lat="51.9949978" lon="5.8399967" route="nl.nrs01"/>
+</positions>
+<display angle="60">Oosterbeek</display>
+<opened>1845-05-16</opened>
+<wiki>nl:Station Oosterbeek</wiki>
+</station>
+<station id="nl.ht" name="'s-Hertogenbosch" importance="1" corridor="1" region="16">
+<positions>
+	<ATLRoutePosition km="84.197" lat="51.6905592" lon="5.2935915" route="nl.ssh01"/>
+</positions>
+<display angle="180">'s-Hertogenbosch</display>
+<opened>1868-11-01</opened>
+<wiki>nl:Station 's-Hertogenbosch</wiki>
+<aliases>
+	<name>Den Bosch</name>
+	<name>Hertogenbosch ('s)</name>
+</aliases>
+</station>
+<station id="nl.mdb" name="Middelburg" importance="2" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="68.116" lat="51.4947864" lon="3.6171668" route="nl.ssf01"/>
+</positions>
+<display angle="180">Middelburg</display>
+<opened>1872-03-01</opened>
+<wiki>nl:Station Middelburg</wiki>
+</station>
+<station id="nl.bkg" name="Bovenkarspel-Grootebroek" importance="3" corridor="2" region="18">
+<positions>
+	<ATLRoutePosition km="46.597" lat="52.6949125" lon="5.2377773" route="nl.hsm03"/>
+</positions>
+<display angle="60">Bovenkarspel-G.</display>
+<opened>1885-06-06</opened>
+<wiki>nl:Station Bovenkarspel-Grootebroek</wiki>
+<aliases>
+	<name>Bovenkarspel-G.</name>
+</aliases>
+</station>
+<station id="nl.zww" name="Zwaagwesteinde" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="43.600" lat="53.2482324" lon="6.0352477" route="nl.ssb01"/>
+</positions>
+<display angle="60">Zwaagwesteinde</display>
+<opened>1884</opened>
+<wiki>nl:Station Zwaagwesteinde</wiki>
+</station>
+<station id="nl.ahpr" name="Arnhem Presikhaaf" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="1.449" lat="51.9880852" lon="5.9438551" route="nl.ssa01"/>
+</positions>
+<display angle="60">Presikhaaf</display>
+<opened>1969-09-28</opened>
+<wiki>nl:Station Arnhem Presikhaaf</wiki>
+<aliases>
+	<name>Presikhaaf</name>
+</aliases>
+</station>
+<station id="nl.hgv" name="Hoogeveen" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="19.848" lat="52.7340011" lon="6.4734225" route="nl.ssc01"/>
+</positions>
+<display angle="0">Hoogeveen</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Hoogeveen</wiki>
+</station>
+<station id="nl.hdrz" name="Den Helder Zuid" importance="3" corridor="1" region="18">
+<positions>
+	<ATLRoutePosition km="69.801" lat="52.9325192" lon="4.7642657" route="nl.ssk01"/>
+</positions>
+<display angle="0">Den Helder Zuid</display>
+<opened>1980-05-31</opened>
+<wiki>nl:Station Den Helder Zuid</wiki>
+</station>
+<station id="nl.sdm" name="Schiedam Centrum" importance="2" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="79.785" lat="51.9212460" lon="4.4089937" route="nl.hsm01"/>
+</positions>
+<display angle="240">Schiedam C</display>
+<opened>2002-11-04</opened>
+<wiki>nl:Station Schiedam Centrum</wiki>
+<aliases>
+	<name>Schiedam C</name>
+</aliases>
+</station>
+<station id="nl.uto" name="Utrecht Overvecht" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="3.097" lat="52.1098178" lon="5.1248319" route="nl.ncs01"/>
+</positions>
+<display angle="60">Overvecht</display>
+<opened>1968-05-26</opened>
+<wiki>nl:Station Utrecht Overvecht</wiki>
+<aliases>
+	<name>Overvecht</name>
+</aliases>
+</station>
+<station id="nl.wij" name="Gulpen-Wijlre" importance="9" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="0.000" lat="50.8330560" lon="5.8980560" route="nl.xx00"/>
+</positions>
+<display angle="0">Gulpen-Wijlre</display>
+<opened>1853-10-23</opened>
+<wiki>nl:Station Wijlre-Gulpen</wiki>
+<aliases>
+	<name>Wijlre</name>
+</aliases>
+</station>
+<station id="nl.ddzd" name="Dordrecht Zuid" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="26.876" lat="51.7900144" lon="4.6713591" route="nl.ssi01"/>
+</positions>
+<display angle="180">Dordrecht Zuid</display>
+<opened>1973-06-03</opened>
+<wiki>nl:Station Dordrecht Zuid</wiki>
+</station>
+<station id="nl.mes" name="Meerssen" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="31.297" lat="50.8826139" lon="5.7509890" route="nl.am01"/>
+</positions>
+<display angle="60">Meerssennn</display>
+<opened>1853-10-23</opened>
+<wiki>nl:Station Meerssen</wiki>
+<aliases>
+	<name>Meerssennn</name>
+</aliases>
+</station>
+<station id="nl.ovn" name="Overveen" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="2.274" lat="52.3911781" lon="4.6061323" route="nl.hzsm01"/>
+</positions>
+<display angle="240">Overveen</display>
+<opened>1881-06-03</opened>
+<wiki>nl:Station Overveen</wiki>
+</station>
+<station id="nl.htn" name="Houten" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="43.605" lat="52.0350015" lon="5.1674940" route="nl.ssh01"/>
+</positions>
+<display angle="0">Houten</display>
+<opened>1868-11-01</opened>
+<wiki>nl:Station Houten</wiki>
+</station>
+<station id="nl.utt" name="Utrecht Terwijde" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="5.200" lat="52.1002810" lon="5.0436400" route="nl.nrs02"/>
+</positions>
+<display angle="240">Terwijde</display>
+<opened>2003-12-14</opened>
+<wiki>nl:Station Utrecht Terwijde</wiki>
+<aliases>
+	<name>Terwijde</name>
+</aliases>
+</station>
+<station id="nl.std" name="Sittard" importance="2" corridor="1" region="17">
+<positions>
+	<ATLRoutePosition km="21.815" lat="51.0016805" lon="5.8585522" route="nl.sse03"/>
+</positions>
+<display angle="0">Sittard</display>
+<opened>1861</opened>
+<wiki>nl:Station Sittard</wiki>
+</station>
+<station id="nl.bkl" name="Breukelen" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="23.891" lat="52.1697401" lon="4.9899908" route="nl.ssh01"/>
+</positions>
+<display angle="180">Breukelen</display>
+<opened>1843-12-18</opened>
+<wiki>nl:Station Breukelen</wiki>
+</station>
+<station id="nl.ahz" name="Arnhem Zuid" importance="3" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="4.453" lat="51.9549971" lon="5.8518540" route="nl.ssl01"/>
+</positions>
+<display angle="180">Arnhem Zuid</display>
+<opened>2005-12-11</opened>
+<wiki>nl:Station Arnhem Zuid</wiki>
+</station>
+<station id="nl.sdt" name="Sliedrecht" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="83.791" lat="51.8296159" lon="4.7782815" route="nl.sso02"/>
+</positions>
+<display angle="60">Sliedrecht</display>
+<opened>1885-07-16</opened>
+<wiki>nl:Station Sliedrecht</wiki>
+</station>
+<station id="nl.ahp" name="Arnhem Velperpoort" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="55.301" lat="51.9852244" lon="5.9194084" route="nl.nrs01"/>
+</positions>
+<display angle="240">Velperpoort</display>
+<opened>1893-10-01</opened>
+<wiki>nl:Station Arnhem Velperpoort</wiki>
+<aliases>
+	<name>Velperpoort</name>
+</aliases>
+</station>
+<station id="nl.hgz" name="Hoogezand-Sappemeer" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="95.549" lat="53.1597538" lon="6.7707440" route="nl.ssb01"/>
+</positions>
+<display angle="60">Hoogezand-Sappemeer</display>
+<opened>1868-05-01</opened>
+<wiki>nl:Station Hoogezand-Sappemeer</wiki>
+</station>
+<station id="nl.dei" name="Deinum" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="21.923" lat="53.1887581" lon="5.7282258" route="nl.ssb01"/>
+</positions>
+<display angle="60">Deinum</display>
+<opened>1863-10-27</opened>
+<wiki>nl:Station Deinum</wiki>
+</station>
+<station id="nl.ana" name="Anna Paulowna" importance="3" corridor="1" region="18">
+<positions>
+	<ATLRoutePosition km="61.009" lat="52.8672147" lon="4.8111733" route="nl.ssk01"/>
+</positions>
+<display angle="0">Anna Paulowna</display>
+<opened>1865-12-20</opened>
+<wiki>nl:Station Anna Paulowna</wiki>
+</station>
+<station id="nl.hdr" name="Den Helder" importance="2" corridor="1" region="18">
+<positions>
+	<ATLRoutePosition km="72.388" lat="52.9552582" lon="4.7609420" route="nl.ssk01"/>
+</positions>
+<display angle="0">Den Helder</display>
+<opened>1865-12-20</opened>
+<wiki>nl:Station Den Helder</wiki>
+</station>
+<station id="nl.wk" name="Workum" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="37.370" lat="52.9722592" lon="5.4569416" route="nl.ssb02"/>
+</positions>
+<display angle="0">Workum</display>
+<opened>1885-11-08</opened>
+<wiki>nl:Station Workum</wiki>
+</station>
+<station id="nl.htnc" name="Houten Castellum" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="45.739" lat="52.0172421" lon="5.1792918" route="nl.ssh01"/>
+</positions>
+<display angle="0">Castellum</display>
+<opened>2001-01-08</opened>
+<wiki>nl:Station Houten Castellum</wiki>
+<aliases>
+	<name>Castellum</name>
+</aliases>
+</station>
+<station id="nl.mg" name="Mantgum" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="10.102" lat="53.1296519" lon="5.7132458" route="nl.ssb02"/>
+</positions>
+<display angle="180">Mantgum</display>
+<opened>1883-06-16</opened>
+<wiki>nl:Station Mantgum</wiki>
+</station>
+<station id="nl.ow" name="Oss West" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="39.374" lat="51.7580722" lon="5.5055537" route="nl.nzos02"/>
+</positions>
+<display angle="60">Oss West</display>
+<opened>1981-05-31</opened>
+<wiki>nl:Station Oss West</wiki>
+</station>
+<station id="nl.sdtb" name="Sliedrecht Baanhoek" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="86.413" lat="51.8297031" lon="4.7433888" route="nl.sso02"/>
+</positions>
+<display angle="180">Baanhoek</display>
+<opened>2011-12-11</opened>
+<wiki>nl:Station Sliedrecht Baanhoek</wiki>
+<aliases>
+	<name>Baanhoek</name>
+</aliases>
+</station>
+<station id="nl.utzl" name="Utrecht Zuilen" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="33.542" lat="52.1066540" lon="5.0834681" route="nl.ssh01"/>
+</positions>
+<display angle="60">Zuilen</display>
+<opened>2007-06-10</opened>
+<wiki>nl:Station Utrecht Zuilen</wiki>
+<aliases>
+	<name>Zuilen</name>
+</aliases>
+</station>
+<station id="nl.bl" name="Beilen" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="33.711" lat="52.8547450" lon="6.5211731" route="nl.ssc01"/>
+</positions>
+<display angle="0">Beilen</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Beilen</wiki>
+</station>
+<station id="nl.did" name="Didam" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="45.459" lat="51.9333666" lon="6.1325104" route="nl.gols01"/>
+</positions>
+<display angle="60">Didam</display>
+<opened>1885-07-15</opened>
+<wiki>nl:Station Didam</wiki>
+</station>
+<station id="nl.hdg" name="Hurdegaryp" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="36.143" lat="53.2189111" lon="5.9344611" route="nl.ssb01"/>
+</positions>
+<display angle="60">Hurdegaryp</display>
+<opened>1866-06-01</opened>
+<wiki>nl:Station Hurdegaryp</wiki>
+</station>
+<station id="nl.hil" name="Hillegom" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="28.220" lat="52.3025100" lon="4.5655558" route="nl.hsm01"/>
+</positions>
+<display angle="180">Hillegom</display>
+<opened>2000-05-28</opened>
+<wiki>nl:Station Hillegom</wiki>
+</station>
+<station id="nl.hto" name="'s-Hertogenbosch Oost" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="24.957" lat="51.7005240" lon="5.3183354" route="nl.nzos02"/>
+</positions>
+<display angle="60">'s-Hertogenbosch O.</display>
+<opened>1987-05-31</opened>
+<wiki>nl:Station 's-Hertogenbosch Oost</wiki>
+<aliases>
+	<name>'s-Hertogenbosch O.</name>
+	<name>Hertogenbosch Oost ('s)</name>
+	<name>Den Bosch Oost</name>
+</aliases>
+</station>
+<station id="nl.asdz" name="Amsterdam Zuid" importance="2" corridor="3" region="13">
+<positions>
+	<ATLRoutePosition km="9.204" lat="52.3387334" lon="4.8716839" route="nl.ssu02"/>
+</positions>
+<display angle="240">Amsterdam Zuid</display>
+<opened>1978-12-21</opened>
+<wiki>nl:Station Amsterdam Zuid</wiki>
+</station>
+<station id="nl.mmlh" name="Mook Molenhoek" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="26.708" lat="51.7640923" lon="5.8777523" route="nl.ssl01"/>
+</positions>
+<display angle="0">Mook-Molenhoek</display>
+<opened>1940-05-15</opened>
+<wiki>nl:Station Mook-Molenhoek</wiki>
+<aliases>
+	<name>Mook-Molenhoek</name>
+</aliases>
+</station>
+<station id="nl.wl" name="Wehl" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="39.256" lat="51.9573564" lon="6.2141926" route="nl.gols01"/>
+</positions>
+<display angle="60">Wehl</display>
+<opened>1885-07-15</opened>
+<wiki>nl:Station Wehl</wiki>
+</station>
+<station id="nl.sgl" name="Houthem-St Gerlach" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="27.878" lat="50.8733812" lon="5.7972274" route="nl.am01"/>
+</positions>
+<display angle="240">Houthem-St. Gerlach</display>
+<opened>1889</opened>
+<wiki>nl:Station Houthem-St. Gerlach</wiki>
+<aliases>
+	<name>Houthem-St. Gerlach</name>
+</aliases>
+</station>
+<station id="nl.ssh" name="Sassenheim" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="37.505" lat="52.2181850" lon="4.5310829" route="nl.ssu02"/>
+</positions>
+<display angle="60">Sassenheim</display>
+<opened>2011-12-11</opened>
+<wiki>nl:Station Sassenheim</wiki>
+</station>
+<station id="nl.dv" name="Deventer" importance="1" corridor="2" region="9">
+<positions>
+	<ATLRoutePosition km="43.801" lat="52.2573781" lon="6.1604246" route="nl.ssa01"/>
+</positions>
+<display angle="60">Deventer</display>
+<opened>1865-08-05</opened>
+<wiki>nl:Station Deventer</wiki>
+</station>
+<station id="nl.pmo" name="Purmerend Overwhere" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="14.707" lat="52.5115765" lon="4.9682082" route="nl.hsm03"/>
+</positions>
+<display angle="180">Overwhere</display>
+<opened>1971-09-26</opened>
+<wiki>nl:Station Purmerend Overwhere</wiki>
+<aliases>
+	<name>Overwhere</name>
+</aliases>
+</station>
+<station id="nl.dl" name="Dalfsen" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="12.209" lat="52.4984558" lon="6.2586868" route="nl.nols01"/>
+</positions>
+<display angle="60">Dalfsen</display>
+<opened>1903-01-15</opened>
+<wiki>nl:Station Dalfsen</wiki>
+</station>
+<station id="nl.vb" name="Voorburg" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="22.264" lat="52.0665879" lon="4.3593571" route="nl.nrs04"/>
+</positions>
+<display angle="240">Voorburg</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Voorburg</wiki>
+</station>
+<station id="nl.bll" name="Bloemendaal" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="2.542" lat="52.4041733" lon="4.6274681" route="nl.hsm02"/>
+</positions>
+<display angle="180">Bloemendaal</display>
+<opened>1900-05-01</opened>
+<wiki>nl:Station Bloemendaal</wiki>
+</station>
+<station id="nl.rtz" name="Rotterdam Zuid" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="45.245" lat="51.9044585" lon="4.5102640" route="nl.ssi01"/>
+</positions>
+<display angle="60">Rotterdam Zuid</display>
+<opened>1877-05-02</opened>
+<wiki>nl:Station Rotterdam Zuid</wiki>
+</station>
+<station id="nl.hvl" name="Hoevelaken" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="51.406" lat="52.1663890" lon="5.4583330" route="nl.os02"/>
+</positions>
+<display angle="60">Hoevelaken</display>
+<opened>2012-12-09</opened>
+<wiki>nl:Station Hoevelaken</wiki>
+</station>
+<station id="nl.hde" name="'t Harde" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="69.805" lat="52.4093058" lon="5.8934772" route="nl.ncs01"/>
+</positions>
+<display angle="180">'t Harde</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station 't Harde</wiki>
+<aliases>
+	<name>Harde ('t)</name>
+</aliases>
+</station>
+<station id="nl.hk" name="Heemskerk" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="14.483" lat="52.4952816" lon="4.6869438" route="nl.hsm02"/>
+</positions>
+<display angle="180">Heemskerk</display>
+<opened>1969-06-01</opened>
+<wiki>nl:Station Heemskerk</wiki>
+</station>
+<station id="nl.hor" name="Hollandsche Rading" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="5.463" lat="52.1777926" lon="5.1790986" route="nl.os03"/>
+</positions>
+<display angle="180">Hollandsche Rading</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Hollandsche Rading</wiki>
+</station>
+<station id="nl.sgn" name="Schagen" importance="3" corridor="1" region="18">
+<positions>
+	<ATLRoutePosition km="51.745" lat="52.7844456" lon="4.8053479" route="nl.ssk01"/>
+</positions>
+<display angle="0">Schagen</display>
+<opened>1865-12-20</opened>
+<wiki>nl:Station Schagen</wiki>
+</station>
+<station id="nl.ns" name="Nunspeet" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="61.210" lat="52.3710345" lon="5.7851680" route="nl.ncs01"/>
+</positions>
+<display angle="0">Nunspeet</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Nunspeet</wiki>
+</station>
+<station id="nl.mp" name="Meppel" importance="2" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="26.260" lat="52.6908321" lon="6.1975160" route="nl.ssa02"/>
+</positions>
+<display angle="0">Meppel</display>
+<opened>1867-10-01</opened>
+<wiki>nl:Station Meppel</wiki>
+</station>
+<station id="nl.vry" name="Venray" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="55.833" lat="51.5266238" lon="6.0143637" route="nl.ssl01"/>
+</positions>
+<display angle="0">Venray</display>
+<opened>1883-06-01</opened>
+<wiki>nl:Station Venray</wiki>
+</station>
+<station id="nl.wm" name="Wormerveer" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="8.102" lat="52.4893522" lon="4.7923269" route="nl.ssk01"/>
+</positions>
+<display angle="60">Wormerveer</display>
+<opened>1869-11-01</opened>
+<wiki>nl:Station Wormerveer</wiki>
+</station>
+<station id="nl.dld" name="Den Dolder" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="11.840" lat="52.1402594" lon="5.2428587" route="nl.ncs01"/>
+</positions>
+<display angle="60">Den Dolder</display>
+<opened>1895</opened>
+<wiki>nl:Station Den Dolder</wiki>
+</station>
+<station id="nl.vd" name="Vorden" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="11.731" lat="52.1074649" lon="6.3172141" route="nl.nwsm01"/>
+</positions>
+<display angle="60">Vorden</display>
+<opened>1878-06-24</opened>
+<wiki>nl:Station Vorden</wiki>
+</station>
+<station id="nl.gdm" name="Geldermalsen" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="62.073" lat="51.8828291" lon="5.2714127" route="nl.ssh01"/>
+</positions>
+<display angle="0">Geldermalsen</display>
+<opened>1868-11-01</opened>
+<wiki>nl:Station Geldermalsen</wiki>
+</station>
+<station id="nl.ese" name="Enschede De Eschmarke" importance="9" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="63.249" lat="52.2212555" lon="6.9510669" route="nl.knls03"/>
+</positions>
+<display angle="240">De Eschmarke</display>
+<opened>2001-11-18</opened>
+<wiki>nl:Station Enschede De Eschmarke</wiki>
+<aliases>
+	<name>Eschmarke</name>
+	<name>De Eschmarke</name>
+</aliases>
+</station>
+<station id="nl.hvs" name="Hilversum" importance="2" corridor="2" region="13">
+<positions>
+	<ATLRoutePosition km="38.954" lat="52.2259014" lon="5.1821447" route="nl.os01"/>
+</positions>
+<display angle="0">Hilversum</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Hilversum</wiki>
+</station>
+<station id="nl.hdb" name="Hardenberg" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="42.464" lat="52.5728117" lon="6.6285364" route="nl.nols01"/>
+</positions>
+<display angle="0">Hardenberg</display>
+<opened>1905-02-01</opened>
+<wiki>nl:Station Hardenberg</wiki>
+</station>
+<station id="nl.swk" name="Steenwijk" importance="2" corridor="0" region="6">
+<positions>
+	<ATLRoutePosition km="40.315" lat="52.7914509" lon="6.1145224" route="nl.ssa02"/>
+</positions>
+<display angle="180">Steenwijk</display>
+<opened>1868-01-15</opened>
+<wiki>nl:Station Steenwijk</wiki>
+</station>
+<station id="nl.pmr" name="Purmerend" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="13.269" lat="52.5030400" lon="4.9536617" route="nl.hsm03"/>
+</positions>
+<display angle="180">Purmerend</display>
+<opened>1884-05-20</opened>
+<wiki>nl:Station Purmerend</wiki>
+</station>
+<station id="nl.shl" name="Schiphol" importance="0" corridor="3" region="13">
+<positions>
+	<ATLRoutePosition km="18.008" lat="52.3093791" lon="4.7621051" route="nl.ssu02"/>
+</positions>
+<display angle="180">Schiphol</display>
+<opened>1978-12-21</opened>
+<wiki>nl:Station Schiphol</wiki>
+<aliases>
+	<name>Amsterdam Airport</name>
+</aliases>
+</station>
+<station id="nl.mrb" name="Mariënberg" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="34.048" lat="52.5094200" lon="6.5753132" route="nl.nols01"/>
+</positions>
+<display angle="0">Marienberg</display>
+<opened>1905-02-01</opened>
+<wiki>nl:Station Mariënberg</wiki>
+<aliases>
+	<name>Marienberg</name>
+</aliases>
+</station>
+<station id="nl.ktr" name="Kesteren" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="20.772" lat="51.9314656" lon="5.5833557" route="nl.sso01"/>
+</positions>
+<display angle="60">Kesteren</display>
+<opened>1882-11-01</opened>
+<wiki>nl:Station Kesteren</wiki>
+</station>
+<station id="nl.bmn" name="Brummen" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="20.445" lat="52.0910868" lon="6.1471097" route="nl.ssa01"/>
+</positions>
+<display angle="0">Brummen</display>
+<opened>1865-02-02</opened>
+<wiki>nl:Station Brummen</wiki>
+</station>
+<station id="nl.dln" name="Dalen" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="59.176" lat="52.6941341" lon="6.7582286" route="nl.nols01"/>
+</positions>
+<display angle="0">Dalen</display>
+<opened>1905-11-01</opened>
+<wiki>nl:Station Dalen</wiki>
+</station>
+<station id="nl.akl" name="Arkel" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="65.720" lat="51.8720197" lon="4.9927039" route="nl.sso02"/>
+</positions>
+<display angle="60">Arkel</display>
+<opened>1883-12-01</opened>
+<wiki>nl:Station Arkel</wiki>
+</station>
+<station id="nl.apdo" name="Apeldoorn Osseveld" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="2.757" lat="52.2152037" lon="6.0045126" route="nl.knls02"/>
+</positions>
+<display angle="60">Osseveld</display>
+<opened>2006-12-10</opened>
+<wiki>nl:Station Apeldoorn Osseveld</wiki>
+<aliases>
+	<name>Osseveld</name>
+</aliases>
+</station>
+<station id="nl.hks" name="Hoogkarspel" importance="3" corridor="2" region="18">
+<positions>
+	<ATLRoutePosition km="42.887" lat="52.6905524" lon="5.1838955" route="nl.hsm03"/>
+</positions>
+<display angle="60">Hoogkarspel</display>
+<opened>1885-06-06</opened>
+<wiki>nl:Station Hoogkarspel</wiki>
+</station>
+<station id="nl.hvsm" name="Hilversum Media Park" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="37.486" lat="52.2380560" lon="5.1738887" route="nl.os01"/>
+</positions>
+<display angle="0">Media Park</display>
+<opened>1974-09-25</opened>
+<wiki>nl:Station Hilversum Media Park</wiki>
+<aliases>
+	<name>Media Park</name>
+	<name>Hilversum Noord</name>
+	<name>Hilversum NOS</name>
+</aliases>
+</station>
+<station id="nl.ypb" name="Den Haag Ypenburg" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="19.689" lat="52.0553568" lon="4.3922900" route="nl.nrs04"/>
+</positions>
+<display angle="240">Ypenburg</display>
+<opened>2005-12-11</opened>
+<wiki>nl:Station Den Haag Ypenburg</wiki>
+<aliases>
+	<name>Ypenburg</name>
+</aliases>
+</station>
+<station id="nl.vdg" name="Vlaardingen Centrum" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="5.602" lat="51.9031087" lon="4.3441416" route="nl.hsm05"/>
+</positions>
+<display angle="240">Vlaardingen Centrum</display>
+<opened>1891-08-17</opened>
+<wiki>nl:Station Vlaardingen Centrum</wiki>
+</station>
+<station id="nl.swd" name="Sauwerd" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="10.981" lat="53.2920734" lon="6.5404235" route="nl.ssp01"/>
+</positions>
+<display angle="180">Sauwerd</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Sauwerd</wiki>
+</station>
+<station id="nl.rs" name="Rosmalen" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="28.741" lat="51.7147260" lon="5.3680895" route="nl.nzos02"/>
+</positions>
+<display angle="60">Rosmalen</display>
+<opened>1981-05-31</opened>
+<wiki>nl:Station Rosmalen</wiki>
+</station>
+<station id="nl.wp" name="Weesp" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="23.634" lat="52.3127761" lon="5.0430495" route="nl.os01"/>
+</positions>
+<display angle="60">Weesp</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Weesp</wiki>
+</station>
+<station id="nl.sk" name="Sneek" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="21.695" lat="53.0329224" lon="5.6523245" route="nl.ssb02"/>
+</positions>
+<display angle="0">Sneek</display>
+<opened>1883</opened>
+<wiki>nl:Station Sneek</wiki>
+</station>
+<station id="nl.hd" name="Harderwijk" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="49.098" lat="52.3375516" lon="5.6196998" route="nl.ncs01"/>
+</positions>
+<display angle="180">Harderwijk</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Harderwijk</wiki>
+</station>
+<station id="nl.krw" name="Kerkrade West" importance="9" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="8.204" lat="50.8535500" lon="6.0257800" route="nl.ssm01"/>
+</positions>
+<display angle="0">Kerkrade West</display>
+<opened>1949-05-15</opened>
+<wiki>nl:Station Spekholzerheide</wiki>
+</station>
+<station id="nl.hmbv" name="Helmond Brandevoort" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="42.392" lat="51.4621026" lon="5.6073251" route="nl.sse02"/>
+</positions>
+<display angle="60">Brandevoort</display>
+<opened>2006-12-10</opened>
+<wiki>nl:Station Helmond Brandevoort</wiki>
+<aliases>
+	<name>Brandevoort</name>
+</aliases>
+</station>
+<station id="nl.est" name="Elst" importance="3" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="8.690" lat="51.9169460" lon="5.8550830" route="nl.ssl01"/>
+</positions>
+<display angle="0">Elst</display>
+<opened>1879-06-15</opened>
+<wiki>nl:Station Elst</wiki>
+</station>
+<station id="nl.dmn" name="Diemen" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="17.188" lat="52.3458269" lon="4.9655501" route="nl.os01"/>
+</positions>
+<display angle="60">Diemen</display>
+<opened>1882-08-01</opened>
+<wiki>nl:Station Diemen</wiki>
+</station>
+<station id="nl.mrn" name="Maarn" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="16.275" lat="52.0642472" lon="5.3700505" route="nl.nrs01"/>
+</positions>
+<display angle="60">Maarn</display>
+<opened>1845-03-15</opened>
+<wiki>nl:Station Maarn</wiki>
+</station>
+<station id="nl.apg" name="Appingedam" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="33.475" lat="53.3258682" lon="6.8619649" route="nl.ssp01"/>
+</positions>
+<display angle="60">Appingedam</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Appingedam</wiki>
+</station>
+<station id="nl.bsd" name="Beesd" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="51.335" lat="51.8994067" lon="5.1944600" route="nl.sso02"/>
+</positions>
+<display angle="60">Beesd</display>
+<opened>1883-12-01</opened>
+<wiki>nl:Station Beesd</wiki>
+</station>
+<station id="nl.pmw" name="Purmerend Weidevenne" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="11.789" lat="52.4966198" lon="4.9356016" route="nl.hsm03"/>
+</positions>
+<display angle="180">Weidevenne</display>
+<opened>2007-12-09</opened>
+<wiki>nl:Station Purmerend Weidevenne</wiki>
+<aliases>
+	<name>Weidevenne</name>
+</aliases>
+</station>
+<station id="nl.hvsp" name="Hilversum Sportpark" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="1.138" lat="52.2161038" lon="5.1873651" route="nl.os03"/>
+</positions>
+<display angle="180">Sportpark</display>
+<opened>1886-06-01</opened>
+<wiki>nl:Station Hilversum Sportpark</wiki>
+<aliases>
+	<name>Sportpark</name>
+</aliases>
+</station>
+<station id="nl.kmw" name="Koudum-Molkwerum" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="46.034" lat="52.9028125" lon="5.4108461" route="nl.ssb02"/>
+</positions>
+<display angle="0">Koudum-Molkwerum</display>
+<opened>1885-11-08</opened>
+<wiki>nl:Station Koudum-Molkwerum</wiki>
+</station>
+<station id="nl.vdl" name="Voerendaal" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="2.291" lat="50.8871344" lon="5.9303597" route="nl.ssr01"/>
+</positions>
+<display angle="180">Voerendaal</display>
+<opened>1915-03-01</opened>
+<wiki>nl:Station Voerendaal</wiki>
+</station>
+<station id="nl.stz" name="Soest Zuid" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="5.125" lat="52.1653182" lon="5.3029924" route="nl.ncs03"/>
+</positions>
+<display angle="180">Soest Zuid</display>
+<opened>1898-06-27</opened>
+<wiki>nl:Station Soest Zuid</wiki>
+</station>
+<station id="nl.rlb" name="Rotterdam Lombardijen" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="42.163" lat="51.8799753" lon="4.5312882" route="nl.ssi01"/>
+</positions>
+<display angle="60">Lombardijen</display>
+<opened>1964-06-01</opened>
+<wiki>nl:Station Rotterdam Lombardijen</wiki>
+<aliases>
+	<name>Lombardijen</name>
+</aliases>
+</station>
+<station id="nl.bmr" name="Boxmeer" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="41.370" lat="51.6445741" lon="5.9391636" route="nl.ssl01"/>
+</positions>
+<display angle="0">Boxmeer</display>
+<opened>1883-06-01</opened>
+<wiki>nl:Station Boxmeer</wiki>
+</station>
+<station id="nl.sknd" name="Sneek Noord" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="20.514" lat="53.0409900" lon="5.6631672" route="nl.ssb02"/>
+</positions>
+<display angle="0">Sneek Noord</display>
+<opened>1973-06-03</opened>
+<wiki>nl:Station Sneek Noord</wiki>
+</station>
+<station id="nl.alm" name="Almere Centrum" importance="2" corridor="3" region="11">
+<positions>
+	<ATLRoutePosition km="15.048" lat="52.3750440" lon="5.2176350" route="nl.ssv01"/>
+</positions>
+<display angle="60">Almere C</display>
+<opened>1987-05-30</opened>
+<wiki>nl:Station Almere Centrum</wiki>
+<aliases>
+	<name>Almere C</name>
+	<name>Almere</name>
+</aliases>
+</station>
+<station id="nl.krg" name="Kruiningen-Yerseke" importance="3" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="37.994" lat="51.4651728" lon="4.0372964" route="nl.ssf01"/>
+</positions>
+<display angle="60">Kruiningen-Yerseke</display>
+<opened>1868-07-01</opened>
+<wiki>nl:Station Kruiningen-Yerseke</wiki>
+</station>
+<station id="nl.wz" name="Wezep" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="78.739" lat="52.4540678" lon="6.0026618" route="nl.ncs01"/>
+</positions>
+<display angle="0">Wezep</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Wezep</wiki>
+</station>
+<station id="nl.hld" name="Hoek van Holland Haven" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="22.926" lat="51.9752697" lon="4.1288768" route="nl.hsm05"/>
+</positions>
+<display angle="240">Hoek van Holland</display>
+<opened>1893-06-01</opened>
+<wiki>nl:Station Hoek van Holland Haven</wiki>
+<aliases>
+	<name>Hoek van Holland</name>
+</aliases>
+</station>
+<station id="nl.dmnz" name="Diemen Zuid" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="2.675" lat="52.3303525" lon="4.9557632" route="nl.ssu02"/>
+</positions>
+<display angle="0">Diemen Zuid</display>
+<opened>1993-05-23</opened>
+<wiki>nl:Station Diemen Zuid</wiki>
+</station>
+<station id="nl.hbzm" name="Hardinxveld Blauwe Zoom" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="81.215" lat="51.8296370" lon="4.8155403" route="nl.sso02"/>
+</positions>
+<display angle="60">Blauwe Zoom</display>
+<opened>2011-12-11</opened>
+<wiki>nl:Station Hardinxveld Blauwe Zoom</wiki>
+<aliases>
+	<name>Blauwe Zoom</name>
+</aliases>
+</station>
+<station id="nl.hmbh" name="Helmond Brouwhuis" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="35.368" lat="51.4703775" lon="5.7033281" route="nl.sse02"/>
+</positions>
+<display angle="60">Brouwhuis</display>
+<opened>1986-06-01</opened>
+<wiki>nl:Station Helmond Brouwhuis</wiki>
+<aliases>
+	<name>Brouwhuis</name>
+</aliases>
+</station>
+<station id="nl.ws" name="Winschoten" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="114.469" lat="53.1392515" lon="7.0351059" route="nl.ssb01"/>
+</positions>
+<display angle="60">Winschoten</display>
+<opened>1868-05-01</opened>
+<wiki>nl:Station Winschoten</wiki>
+</station>
+<station id="nl.hwd" name="Heerhugowaard" importance="3" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="37.895" lat="52.6698512" lon="4.8226295" route="nl.ssk01"/>
+</positions>
+<display angle="180">Heerhugowaard</display>
+<opened>1865-12-20</opened>
+<wiki>nl:Station Heerhugowaard</wiki>
+</station>
+<station id="nl.apn" name="Alphen a/d Rijn" importance="2" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="17.405" lat="52.1244430" lon="4.6577780" route="nl.lw01"/>
+</positions>
+<display angle="60">Alphen a/d Rijn</display>
+<opened>1878-10-15</opened>
+<wiki>nl:Station Alphen aan den Rijn</wiki>
+<aliases>
+	<name>Alphen aan den Rijn</name>
+</aliases>
+</station>
+<station id="nl.mss" name="Maassluis" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="12.033" lat="51.9160832" lon="4.2546933" route="nl.hsm05"/>
+</positions>
+<display angle="240">Maassluis</display>
+<opened>1891-08-17</opened>
+<wiki>nl:Station Maassluis</wiki>
+</station>
+<station id="nl.bsmz" name="Bussum Zuid" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="34.310" lat="52.2658041" lon="5.1628353" route="nl.os01"/>
+</positions>
+<display angle="0">Bussum Zuid</display>
+<opened>1966-05-22</opened>
+<wiki>nl:Station Bussum Zuid</wiki>
+</station>
+<station id="nl.ekz" name="Enkhuizen" importance="2" corridor="2" region="18">
+<positions>
+	<ATLRoutePosition km="49.909" lat="52.6993507" lon="5.2863426" route="nl.hsm03"/>
+</positions>
+<display angle="60">Enkhuizen</display>
+<opened>1885-06-06</opened>
+<wiki>nl:Station Enkhuizen</wiki>
+</station>
+<station id="nl.sm" name="Swalmen" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="51.755" lat="51.2348130" lon="6.0309734" route="nl.sse03"/>
+</positions>
+<display angle="0">Swalmen</display>
+<opened>1861</opened>
+<wiki>nl:Station Swalmen</wiki>
+</station>
+<station id="nl.emn" name="Emmen" importance="2" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="75.261" lat="52.7900015" lon="6.8996789" route="nl.nols01"/>
+</positions>
+<display angle="0">Emmen</display>
+<opened>1905-11-01</opened>
+<wiki>nl:Station Emmen</wiki>
+</station>
+<station id="nl.brn" name="Baarn" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="46.133" lat="52.2084860" lon="5.2809584" route="nl.os01"/>
+</positions>
+<display angle="60">Baarn</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Baarn</wiki>
+</station>
+<station id="nl.vdm" name="Veendam" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="15.264" lat="53.1052053" lon="6.8867119" route="nl.nols03"/>
+</positions>
+<display angle="0">Veendam</display>
+<opened>2011-05-01</opened>
+<wiki>nl:Station Veendam</wiki>
+</station>
+<station id="nl.pt" name="Putten" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="39.808" lat="52.2650366" lon="5.5752240" route="nl.ncs01"/>
+</positions>
+<display angle="0">Putten</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Putten</wiki>
+</station>
+<station id="nl.dn" name="Deurne" importance="3" corridor="4" region="16">
+<positions>
+	<ATLRoutePosition km="29.226" lat="51.4559429" lon="5.7889306" route="nl.sse02"/>
+</positions>
+<display angle="60">Deurne</display>
+<opened>1864</opened>
+<wiki>nl:Station Deurne (Nederland)</wiki>
+</station>
+<station id="nl.stv" name="Stavoren" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="50.200" lat="52.8868341" lon="5.3610603" route="nl.ssb02"/>
+</positions>
+<display angle="180">Stavoren</display>
+<opened>1885-11-08</opened>
+<wiki>nl:Station Stavoren</wiki>
+</station>
+<station id="nl.msw" name="Maassluis West" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="13.716" lat="51.9257080" lon="4.2359028" route="nl.hsm05"/>
+</positions>
+<display angle="240">Maassluis West</display>
+<opened>1970-05-31</opened>
+<wiki>nl:Station Maassluis West</wiki>
+</station>
+<station id="nl.krd" name="Kerkrade Centrum" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="5.620" lat="50.8616759" lon="6.0571976" route="nl.ssm01"/>
+</positions>
+<display angle="0">Kerkrade C</display>
+<opened>1949-05-15</opened>
+<wiki>nl:Station Kerkrade Centrum</wiki>
+<aliases>
+	<name>Kerkrade C</name>
+</aliases>
+</station>
+<station id="nl.bn" name="Borne" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="45.193" lat="52.2989521" lon="6.7482206" route="nl.knls03"/>
+</positions>
+<display angle="0">Borne</display>
+<opened>1865-10-18</opened>
+<wiki>nl:Station Borne</wiki>
+</station>
+<station id="nl.hwzb" name="Halfweg-Zwanenburg" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="9.000" lat="52.3849530" lon="4.7517254" route="nl.hsm01"/>
+</positions>
+<display angle="60">Halfweg-Zwanenburg</display>
+<opened>1842-01-01</opened>
+<wiki>nl:Station Halfweg-Zwanenburg</wiki>
+</station>
+<station id="nl.vdo" name="Vlaardingen Oost" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="4.122" lat="51.9102261" lon="4.3617675" route="nl.hsm05"/>
+</positions>
+<display angle="150">Vlaardingen Oost</display>
+<opened>1891-08-17</opened>
+<wiki>nl:Station Vlaardingen Oost</wiki>
+</station>
+<station id="nl.hlds" name="Hoek van Holland Strand" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="23.890" lat="51.9816346" lon="4.1196787" route="nl.hsm05"/>
+</positions>
+<display angle="240">Strand</display>
+<opened>1893-06-01</opened>
+<wiki>nl:Station Hoek van Holland Strand</wiki>
+<aliases>
+	<name>Strand</name>
+</aliases>
+</station>
+<station id="nl.sn" name="Schinnen" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="9.117" lat="50.9390128" lon="5.8743717" route="nl.nzs01"/>
+</positions>
+<display angle="240">Schinnen</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Schinnen</wiki>
+</station>
+<station id="nl.ehv" name="Eindhoven" importance="1" corridor="1" region="16">
+<positions>
+	<ATLRoutePosition km="58.926" lat="51.4433330" lon="5.4813890" route="nl.sse01"/>
+</positions>
+<display angle="240">Eindhoven</display>
+<opened>1866-07-01</opened>
+<wiki>nl:Station Eindhoven</wiki>
+</station>
+<station id="nl.wsm" name="Winsum" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="4.625" lat="53.3300956" lon="6.5202233" route="nl.gls01"/>
+</positions>
+<display angle="180">Winsum</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Winsum</wiki>
+</station>
+<station id="nl.dr" name="Dieren" importance="3" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="14.432" lat="52.0449078" lon="6.1032697" route="nl.ssa01"/>
+</positions>
+<display angle="0">Dieren</display>
+<opened>1865-02-02</opened>
+<wiki>nl:Station Dieren</wiki>
+</station>
+<station id="nl.arn" name="Arnemuiden" importance="3" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="64.408" lat="51.5014668" lon="3.6692152" route="nl.ssf01"/>
+</positions>
+<display angle="60">Arnemuiden</display>
+<opened>1872-03-01</opened>
+<wiki>nl:Station Arnemuiden</wiki>
+</station>
+<station id="nl.mt" name="Maastricht" importance="1" corridor="1" region="17">
+<positions>
+	<ATLRoutePosition km="0.327" lat="50.8502770" lon="5.7055554" route="nl.sse03"/>
+</positions>
+<display angle="180">Maastricht</display>
+<opened>1853-10-23</opened>
+<wiki>nl:Station Maastricht</wiki>
+</station>
+<station id="nl.rl" name="Ruurlo" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="21.249" lat="52.0810041" lon="6.4491981" route="nl.nwsm01"/>
+</positions>
+<display angle="60">Ruurlo</display>
+<opened>1878-06-24</opened>
+<wiki>nl:Station Ruurlo</wiki>
+</station>
+<station id="nl.rai" name="Amsterdam RAI" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="7.899" lat="52.3369819" lon="4.8899630" route="nl.ssu02"/>
+</positions>
+<display angle="240">Amsterdam RAI</display>
+<opened>1981-05-31</opened>
+<wiki>nl:Station Amsterdam RAI</wiki>
+</station>
+<station id="nl.hze" name="Heeze" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="9.301" lat="51.3850462" lon="5.5696165" route="nl.ssq01"/>
+</positions>
+<display angle="0">Heeze</display>
+<opened>1977-05-01</opened>
+<wiki>nl:Station Heeze</wiki>
+</station>
+<station id="nl.kpnz" name="Kampen Zuid" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="74.331" lat="52.5333473" lon="5.9132760" route="nl.ssv01"/>
+</positions>
+<display angle="240">Kampen Zuid</display>
+<opened>2012-12-09</opened>
+<wiki>nl:Station Kampen (Hanzelijn)</wiki>
+</station>
+<station id="nl.vdw" name="Vlaardingen West" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="7.813" lat="51.9041874" lon="4.3130619" route="nl.hsm05"/>
+</positions>
+<display angle="240">Vlaardingen West</display>
+<opened>1969-06-01</opened>
+<wiki>nl:Station Vlaardingen West</wiki>
+</station>
+<station id="nl.rm" name="Roermond" importance="2" corridor="1" region="17">
+<positions>
+	<ATLRoutePosition km="46.416" lat="51.1930207" lon="5.9943577" route="nl.sse03"/>
+</positions>
+<display angle="0">Roermond</display>
+<opened>1865-11-21</opened>
+<wiki>nl:Station Roermond</wiki>
+</station>
+<station id="nl.bnc" name="Barneveld Centrum" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="14.777" lat="52.1400076" lon="5.5903079" route="nl.kl01"/>
+</positions>
+<display angle="0">Barneveld Centrum</display>
+<opened>1902-05-01</opened>
+<wiki>nl:Station Barneveld Centrum</wiki>
+</station>
+<station id="nl.sog" name="Schin op Geul" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="7.715" lat="50.8563880" lon="5.8722224" route="nl.ssr01"/>
+	<ATLRoutePosition km="22.059" lat="50.8563880" lon="5.8722224" route="nl.am01"/>
+</positions>
+<display angle="240">Schin op Geul</display>
+<opened>1853-10-23</opened>
+<wiki>nl:Station Schin op Geul</wiki>
+</station>
+<station id="nl.fn" name="Franeker" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="9.626" lat="53.1819066" lon="5.5484118" route="nl.ssb01"/>
+</positions>
+<display angle="60">Franeker</display>
+<opened>1863-10-27</opened>
+<wiki>nl:Station Franeker</wiki>
+</station>
+<station id="nl.hlg" name="Harlingen" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="1.211" lat="53.1703999" lon="5.4251959" route="nl.ssb01"/>
+</positions>
+<display angle="60">Harlingen</display>
+<opened>1863-10-27</opened>
+<wiki>nl:Station Harlingen</wiki>
+</station>
+<station id="nl.drh" name="Driehuis" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="6.948" lat="52.4424468" lon="4.6381400" route="nl.hsm02"/>
+</positions>
+<display angle="180">Driehuis</display>
+<opened>1957-09-29</opened>
+<wiki>nl:Station Driehuis</wiki>
+</station>
+<station id="nl.mth" name="Martenshoek" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="93.516" lat="53.1607899" lon="6.7403038" route="nl.ssb01"/>
+</positions>
+<display angle="60">Martenshoek</display>
+<opened>1905-01-01</opened>
+<wiki>nl:Station Martenshoek</wiki>
+</station>
+<station id="nl.wt" name="Weert" importance="2" corridor="1" region="16">
+<positions>
+	<ATLRoutePosition km="27.978" lat="51.2486100" lon="5.7036110" route="nl.ssq01"/>
+</positions>
+<display angle="60">Weert</display>
+<opened>1913-11-01</opened>
+<wiki>nl:Station Weert</wiki>
+</station>
+<station id="nl.ijt" name="IJlst" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="24.856" lat="53.0147123" lon="5.6160433" route="nl.ssb02"/>
+</positions>
+<display angle="0">IJlst</display>
+<opened>1885-11-08</opened>
+<wiki>nl:Station IJlst</wiki>
+</station>
+<station id="nl.edn" name="Eijsden" importance="3" corridor="-1" region="18">
+<positions>
+	<ATLRoutePosition km="20.486" lat="50.7719457" lon="5.7100074" route="nl.lm01"/>
+</positions>
+<display angle="180">Eijsden</display>
+<opened>1861-11-24</opened>
+<wiki>nl:Station Eijsden</wiki>
+</station>
+<station id="nl.rat" name="Raalte" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="31.218" lat="52.3919135" lon="6.2774743" route="nl.ssn01"/>
+</positions>
+<display angle="60">Raalte</display>
+<opened>1881-01-01</opened>
+<wiki>nl:Station Raalte</wiki>
+</station>
+<station id="nl.sph" name="Spekholzerheide" importance="9" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="8.204" lat="50.8535500" lon="6.0257800" route="nl.ssm01"/>
+</positions>
+<display angle="0">Spekholzerheide</display>
+<opened>1949-05-15</opened>
+<wiki>nl:Station Spekholzerheide</wiki>
+</station>
+<station id="nl.vem" name="Voorst-Empe" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="101.370" lat="52.1575660" lon="6.1436994" route="nl.os02"/>
+</positions>
+<display angle="60">Voorst-Empe</display>
+<opened>1876-05-15</opened>
+<wiki>nl:Station Voorst-Empe</wiki>
+</station>
+<station id="nl.bnk" name="Bunnik" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="4.236" lat="52.0631048" lon="5.1944414" route="nl.nrs01"/>
+</positions>
+<display angle="60">Bunnik</display>
+<opened>1884-05-20</opened>
+<wiki>nl:Station Bunnik</wiki>
+</station>
+<station id="nl.dron" name="Dronten" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="61.017" lat="52.5337789" lon="5.7230148" route="nl.ssv01"/>
+</positions>
+<display angle="60">Dronten</display>
+<opened>2012-12-06</opened>
+<wiki>nl:Station Dronten</wiki>
+</station>
+<station id="nl.mtn" name="Maastricht Noord" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="33.938" lat="50.8713890" lon="5.7186110" route="nl.am01"/>
+</positions>
+<display angle="180">Maastricht Noord</display>
+<opened>2013-11-17</opened>
+<wiki>nl:Station Maastricht Noord</wiki>
+</station>
+<station id="nl.hlgh" name="Harlingen Haven" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="0.023" lat="53.1749164" lon="5.4113353" route="nl.ssb01"/>
+</positions>
+<display angle="60">Harlingen Haven</display>
+<opened>1863-10-27</opened>
+<wiki>nl:Station Harlingen Haven</wiki>
+</station>
+<station id="nl.kbd" name="Krabbendijke" importance="3" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="31.440" lat="51.4333390" lon="4.1169300" route="nl.ssf01"/>
+</positions>
+<display angle="60">Krabbendijke</display>
+<opened>1868-07-01</opened>
+<wiki>nl:Station Krabbendijke</wiki>
+</station>
+<station id="nl.etn" name="Etten-Leur" importance="3" corridor="5" region="18">
+<positions>
+	<ATLRoutePosition km="13.665" lat="51.5750363" lon="4.6358155" route="nl.ar02"/>
+</positions>
+<display angle="60">Etten-Leur</display>
+<opened>1854-12-11</opened>
+<wiki>nl:Station Etten-Leur</wiki>
+</station>
+<station id="nl.wtm" name="Eijs-Wittem" importance="9" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="0.000" lat="50.8231700" lon="5.9247900" route="nl.xx00"/>
+</positions>
+<display angle="0">Eijs-Wittem</display>
+<opened>1900-05-06</opened>
+<wiki>nl:Station Eys-Wittem</wiki>
+</station>
+<station id="nl.spm" name="Sappemeer Oost" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="97.206" lat="53.1589091" lon="6.7955576" route="nl.ssb01"/>
+</positions>
+<display angle="60">Sappemeer Oost</display>
+<opened>1886</opened>
+<wiki>nl:Station Sappemeer Oost</wiki>
+</station>
+<station id="nl.vg" name="Vught" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="88.134" lat="51.6555537" lon="5.2919063" route="nl.ssh01"/>
+</positions>
+<display angle="0">Vught</display>
+<opened>1868-01-01</opened>
+<wiki>nl:Station Vught</wiki>
+</station>
+<station id="nl.rb" name="Rilland-Bath" importance="3" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="28.054" lat="51.4226241" lon="4.1611711" route="nl.ssf01"/>
+</positions>
+<display angle="60">Rilland-Bath</display>
+<opened>1871</opened>
+<wiki>nl:Station Rilland-Bath</wiki>
+</station>
+<station id="nl.drp" name="Dronrijp" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="15.578" lat="53.1777082" lon="5.6347866" route="nl.ssb01"/>
+</positions>
+<display angle="60">Dronrijp</display>
+<opened>1863-10-27</opened>
+<wiki>nl:Station Dronrijp</wiki>
+</station>
+<station id="nl.mtr" name="Maastricht Randwyck" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="27.970" lat="50.8386223" lon="5.7172833" route="nl.lm01"/>
+</positions>
+<display angle="180">Randwyck</display>
+<opened>1987-05-31</opened>
+<wiki>nl:Station Maastricht Randwyck</wiki>
+<aliases>
+	<name>Randwyck</name>
+</aliases>
+</station>
+<station id="nl.kbk" name="Klarenbeek" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="96.668" lat="52.1782144" lon="6.0836619" route="nl.os02"/>
+</positions>
+<display angle="60">Klarenbeek</display>
+<opened>1882-06-01</opened>
+<wiki>nl:Station Klarenbeek</wiki>
+</station>
+<station id="nl.vh" name="Voorhout" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="38.792" lat="52.2244447" lon="4.4844408" route="nl.hsm01"/>
+</positions>
+<display angle="180">Voorhout</display>
+<opened>1892-02-15</opened>
+<wiki>nl:Station Voorhout</wiki>
+</station>
+<station id="nl.kpn" name="Kampen" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="0.052" lat="52.5595731" lon="5.9215698" route="nl.ssn01"/>
+</positions>
+<display angle="60">Kampen</display>
+<opened>1865-05-10</opened>
+<wiki>nl:Station Kampen (Kamperlijntje)</wiki>
+</station>
+<station id="nl.sptn" name="Santpoort Noord" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="5.901" lat="52.4338704" lon="4.6326616" route="nl.hsm02"/>
+</positions>
+<display angle="180">Santpoort Noord</display>
+<opened>1957-09-27</opened>
+<wiki>nl:Station Santpoort Noord</wiki>
+</station>
+<station id="nl.bdg" name="Bodegraven" importance="2" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="9.328" lat="52.0814250" lon="4.7461265" route="nl.lw01"/>
+</positions>
+<display angle="60">Bodegraven</display>
+<opened>1878-10-15</opened>
+<wiki>nl:Station Bodegraven</wiki>
+</station>
+<station id="nl.dt" name="Delft" importance="2" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="69.543" lat="52.0066553" lon="4.3563137" route="nl.hsm01"/>
+</positions>
+<display angle="180">Delft</display>
+<opened>1847-06-03</opened>
+<wiki>nl:Station Delft</wiki>
+</station>
+<station id="nl.edc" name="Ede Centrum" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="27.633" lat="52.0435988" lon="5.6683639" route="nl.kl01"/>
+</positions>
+<display angle="180">Ede Centrum</display>
+<opened>1902-05-01</opened>
+<wiki>nl:Station Ede Centrum</wiki>
+</station>
+<station id="nl.kbw" name="Koog Bloemwijk" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="4.320" lat="52.4586123" lon="4.8056662" route="nl.ssk01"/>
+</positions>
+<display angle="180">Koog Bloemwijk</display>
+<opened>1869-11-01</opened>
+<wiki>nl:Station Koog Bloemwijk</wiki>
+</station>
+<station id="nl.mz" name="Maarheeze" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="19.273" lat="51.3039122" lon="5.6307205" route="nl.ssq01"/>
+</positions>
+<display angle="0">Maarheeze</display>
+<opened>1913-11-01</opened>
+<wiki>nl:Station Maarheeze</wiki>
+</station>
+<station id="nl.sptz" name="Santpoort Zuid" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="4.321" lat="52.4197127" lon="4.6311927" route="nl.hsm02"/>
+</positions>
+<display angle="180">Santpoort Zuid</display>
+<opened>1867-05-01</opened>
+<wiki>nl:Station Santpoort Zuid</wiki>
+</station>
+<station id="nl.vhp" name="Vroomshoop" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="5.961" lat="52.4571944" lon="6.5697412" route="nl.nols02"/>
+</positions>
+<display angle="0">Vroomshoop</display>
+<opened>1906-10-01</opened>
+<wiki>nl:Station Vroomshoop</wiki>
+</station>
+<station id="nl.rta" name="Rotterdam Alexander" importance="2" corridor="0" region="14">
+<positions>
+	<ATLRoutePosition km="46.094" lat="51.9516715" lon="4.5521963" route="nl.nrs02"/>
+</positions>
+<display angle="60">Alexander</display>
+<opened>1968-05-26</opened>
+<wiki>nl:Station Rotterdam Alexander</wiki>
+<aliases>
+	<name>Alexander</name>
+</aliases>
+</station>
+<station id="nl.klp" name="Veenendaal-De Klomp" importance="3" corridor="1" region="18">
+<positions>
+	<ATLRoutePosition km="30.507" lat="52.0458721" lon="5.5738909" route="nl.nrs01"/>
+</positions>
+<display angle="60">De Klomp</display>
+<opened>1845-03-15</opened>
+<wiki>nl:Station Veenendaal-De Klomp</wiki>
+<aliases>
+	<name>De Klomp</name>
+</aliases>
+</station>
+<station id="nl.gdr" name="Gaanderen" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="28.875" lat="51.9312141" lon="6.3475539" route="nl.gols01"/>
+</positions>
+<display angle="60">Gaanderen</display>
+<opened>2006-12-10</opened>
+<wiki>nl:Station Gaanderen</wiki>
+</station>
+<station id="nl.hno" name="Heino" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="25.729" lat="52.4274212" lon="6.2211510" route="nl.ssn01"/>
+</positions>
+<display angle="60">Heino</display>
+<opened>1881-01-01</opened>
+<wiki>nl:Station Heino</wiki>
+</station>
+<station id="nl.bde" name="Bunde" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="6.410" lat="50.8969500" lon="5.7367031" route="nl.sse03"/>
+</positions>
+<display angle="180">Bunde</display>
+<opened>1862</opened>
+<wiki>nl:Station Bunde</wiki>
+</station>
+<station id="nl.spv" name="Simpelveld" importance="9" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="12.472" lat="50.8314740" lon="5.9797380" route="nl.ssm01"/>
+</positions>
+<display angle="0">Simpelveld</display>
+<opened>1853-10-23</opened>
+<wiki>nl:Station Simpelveld</wiki>
+</station>
+<station id="nl.vs" name="Vlissingen" importance="2" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="74.021" lat="51.4458400" lon="3.5953332" route="nl.ssf01"/>
+</positions>
+<display angle="180">Vlissingen</display>
+<opened>1873-09-01</opened>
+<wiki>nl:Station Vlissingen</wiki>
+</station>
+<station id="nl.na" name="Nieuw Amsterdam" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="66.192" lat="52.7185703" lon="6.8488424" route="nl.nols01"/>
+</positions>
+<display angle="0">Nieuw Amsterdam</display>
+<opened>1905-11-01</opened>
+<wiki>nl:Station Nieuw Amsterdam</wiki>
+</station>
+<station id="nl.kma" name="Krommenie-Assendelft" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="10.290" lat="52.4943541" lon="4.7611952" route="nl.ssk01"/>
+</positions>
+<display angle="60">Krommenie-Assendelft</display>
+<opened>1869-11-01</opened>
+<wiki>nl:Station Krommenie-Assendelft</wiki>
+</station>
+<station id="nl.asdm" name="Amsterdam Muiderpoort" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="0.398" lat="52.3605540" lon="4.9311113" route="nl.ssh01"/>
+	<ATLRoutePosition km="14.350" lat="52.3605540" lon="4.9311113" route="nl.os01"/>
+</positions>
+<display angle="180">Muiderpoort</display>
+<opened>1896-05-18</opened>
+<wiki>nl:Station Amsterdam Muiderpoort</wiki>
+<aliases>
+	<name>Muiderpoort</name>
+</aliases>
+</station>
+<station id="nl.bzl" name="Kapelle-Biezelinge" importance="3" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="44.036" lat="51.4807350" lon="3.9560088" route="nl.ssf01"/>
+</positions>
+<display angle="60">Kapelle-Biezelinge</display>
+<opened>1868-07-01</opened>
+<wiki>nl:Station Kapelle-Biezelinge</wiki>
+</station>
+<station id="nl.gbg" name="Gramsbergen" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="47.818" lat="52.6091794" lon="6.6757724" route="nl.nols01"/>
+</positions>
+<display angle="0">Gramsbergen</display>
+<opened>1905-07-01</opened>
+<wiki>nl:Station Gramsbergen</wiki>
+</station>
+<station id="nl.cas" name="Castricum" importance="3" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="19.371" lat="52.5458828" lon="4.6587788" route="nl.ssk01"/>
+</positions>
+<display angle="180">Castricum</display>
+<opened>1867-05-01</opened>
+<wiki>nl:Station Castricum</wiki>
+</station>
+<station id="nl.srn" name="Susteren" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="28.556" lat="51.0613934" lon="5.8630456" route="nl.sse03"/>
+</positions>
+<display angle="0">Susteren</display>
+<opened>1861</opened>
+<wiki>nl:Station Susteren</wiki>
+</station>
+<station id="nl.nsch" name="Bad Nieuweschans" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="126.755" lat="53.1848157" lon="7.2007436" route="nl.ssb01"/>
+</positions>
+<display angle="60">Nieuweschans</display>
+<opened>1868-11-01</opened>
+<wiki>nl:Station Nieuweschans</wiki>
+<aliases>
+	<name>Nieuweschans</name>
+</aliases>
+</station>
+<station id="nl.vk" name="Valkenburg" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="25.346" lat="50.8696454" lon="5.8321207" route="nl.am01"/>
+</positions>
+<display angle="240">Valkenburg</display>
+<opened>1853-10-23</opened>
+<wiki>nl:Station Valkenburg</wiki>
+</station>
+<station id="nl.gerp" name="Groningen Europapark" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="81.769" lat="53.2060300" lon="6.5828276" route="nl.ssb01"/>
+</positions>
+<display angle="240">Groningen Europapark</display>
+<opened>2007-10-01</opened>
+<wiki>nl:Station Groningen Europapark</wiki>
+</station>
+<station id="nl.rsw" name="Rijswijk" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="65.046" lat="52.0397337" lon="4.3191867" route="nl.hsm01"/>
+</positions>
+<display angle="180">Rijswijk</display>
+<opened>1847-06-03</opened>
+<wiki>nl:Station Rijswijk</wiki>
+</station>
+<station id="nl.bd" name="Breda" importance="1" corridor="4" region="16">
+<positions>
+	<ATLRoutePosition km="0.002" lat="51.5955540" lon="4.7800000" route="nl.ssi01"/>
+</positions>
+<display angle="60">Breda</display>
+<opened>1855-05-01</opened>
+<wiki>nl:Station Breda</wiki>
+</station>
+<station id="nl.zdk" name="Zaandam Kogerveld" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="2.485" lat="52.4567581" lon="4.8202796" route="nl.hsm03"/>
+</positions>
+<display angle="60">Kogerveld</display>
+<opened>1989-05-28</opened>
+<wiki>nl:Station Zaandam Kogerveld</wiki>
+<aliases>
+	<name>Kogerveld</name>
+</aliases>
+</station>
+<station id="nl.vss" name="Vlissingen Souburg" importance="3" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="71.891" lat="51.4647535" lon="3.5951215" route="nl.ssf01"/>
+</positions>
+<display angle="180">Souburg</display>
+<opened>1986-05-31</opened>
+<wiki>nl:Station Vlissingen Souburg</wiki>
+<aliases>
+	<name>Souburg</name>
+</aliases>
+</station>
+<station id="nl.ndb" name="Naarden-Bussum" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="32.652" lat="52.2803152" lon="5.1572067" route="nl.os01"/>
+</positions>
+<display angle="0">Naarden-Bussum</display>
+<opened>1874-06-10</opened>
+<wiki>nl:Station Naarden-Bussum</wiki>
+</station>
+<station id="nl.zd" name="Zaandam" importance="2" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="2.040" lat="52.4388621" lon="4.8134777" route="nl.ssk01"/>
+</positions>
+<display angle="180">Zaandam</display>
+<opened>1869-11-01</opened>
+<wiki>nl:Station Zaandam</wiki>
+</station>
+<station id="nl.asdl" name="Amsterdam Lelylaan" importance="3" corridor="3" region="13">
+<positions>
+	<ATLRoutePosition km="2.725" lat="52.3577769" lon="4.8338744" route="nl.ssu03"/>
+</positions>
+<display angle="180">Lelylaan</display>
+<opened>1986-06-01</opened>
+<wiki>nl:Station Amsterdam Lelylaan</wiki>
+<aliases>
+	<name>Lelylaan</name>
+</aliases>
+</station>
+<station id="nl.dzw" name="Delfzijl West" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="36.545" lat="53.3319701" lon="6.9069635" route="nl.ssp01"/>
+</positions>
+<display angle="60">Delfzijl West</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Delfzijl West</wiki>
+</station>
+<station id="nl.hnk" name="Hoorn Kersenboogerd" importance="3" corridor="2" region="13">
+<positions>
+	<ATLRoutePosition km="34.988" lat="52.6536245" lon="5.0855368" route="nl.hsm03"/>
+</positions>
+<display angle="0">Kersenboogerd</display>
+<opened>1983-05-29</opened>
+<wiki>nl:Station Hoorn Kersenboogerd</wiki>
+<aliases>
+	<name>Kersenboogerd</name>
+</aliases>
+</station>
+<station id="nl.gvmw" name="Den Haag Moerwijk" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="63.264" lat="52.0538826" lon="4.3082377" route="nl.hsm01"/>
+</positions>
+<display angle="180">Moerwijk</display>
+<opened>1996-06-02</opened>
+<wiki>nl:Station Den Haag Moerwijk</wiki>
+<aliases>
+	<name>Moerwijk</name>
+</aliases>
+</station>
+<station id="nl.dtz" name="Delft Zuid" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="71.395" lat="51.9908438" lon="4.3647729" route="nl.hsm01"/>
+</positions>
+<display angle="180">Delft Zuid</display>
+<opened>1970-05-31</opened>
+<wiki>nl:Station Delft Zuid</wiki>
+</station>
+<station id="nl.apdm" name="Apeldoorn De Maten" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="90.255" lat="52.2051445" lon="6.0004352" route="nl.os02"/>
+</positions>
+<display angle="240">De Maten</display>
+<opened>2006-12-10</opened>
+<wiki>nl:Station Apeldoorn De Maten</wiki>
+<aliases>
+	<name>De Maten</name>
+</aliases>
+</station>
+<station id="nl.vl" name="Venlo" importance="2" corridor="4" region="17">
+<positions>
+	<ATLRoutePosition km="69.786" lat="51.3636193" lon="6.1727960" route="nl.sse03"/>
+</positions>
+<display angle="0">Venlo</display>
+<opened>1865-11-21</opened>
+<wiki>nl:Station Venlo</wiki>
+</station>
+<station id="nl.bv" name="Beverwijk" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="11.647" lat="52.4784354" lon="4.6565121" route="nl.hsm02"/>
+</positions>
+<display angle="180">Beverwijk</display>
+<opened>1867-05-01</opened>
+<wiki>nl:Station Beverwijk</wiki>
+</station>
+<station id="nl.nvd" name="Nijverdal" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="44.955" lat="52.3656556" lon="6.4711142" route="nl.ssn01"/>
+</positions>
+<display angle="60">Nijverdal</display>
+<opened>1881-01-01</opened>
+<wiki>nl:Station Nijverdal</wiki>
+</station>
+<station id="nl.avat" name="Amersfoort Vathorst" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="27.142" lat="52.1926799" lon="5.4340688" route="nl.ncs01"/>
+</positions>
+<display angle="180">Vathorst</display>
+<opened>2006-05-28</opened>
+<wiki>nl:Station Amersfoort Vathorst</wiki>
+<aliases>
+	<name>Vathorst</name>
+</aliases>
+</station>
+<station id="nl.rsn" name="Rijssen" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="23.764" lat="52.3121483" lon="6.5203570" route="nl.knls03"/>
+</positions>
+<display angle="240">Rijssen</display>
+<opened>1888-09-01</opened>
+<wiki>nl:Station Rijssen</wiki>
+</station>
+<station id="nl.gk" name="Grijpskerk" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="61.928" lat="53.2558243" lon="6.3097759" route="nl.ssb01"/>
+</positions>
+<display angle="60">Grijpskerk</display>
+<opened>1866-06-01</opened>
+<wiki>nl:Station Grijpskerk</wiki>
+</station>
+<station id="nl.nh" name="Nuth" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="11.894" lat="50.9194883" lon="5.8928956" route="nl.nzs01"/>
+</positions>
+<display angle="60">Nuth</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Nuth</wiki>
+</station>
+<station id="nl.dtc" name="Doetinchem" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="33.619" lat="51.9584146" lon="6.2962009" route="nl.gols01"/>
+</positions>
+<display angle="60">Doetinchem</display>
+<opened>1885-07-15</opened>
+<wiki>nl:Station Doetinchem</wiki>
+</station>
+<station id="nl.vst" name="Voorschoten" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="51.377" lat="52.1252320" lon="4.4325944" route="nl.hsm01"/>
+</positions>
+<display angle="180">Voorschoten</display>
+<opened>1843-05-01</opened>
+<wiki>nl:Station Voorschoten</wiki>
+</station>
+<station id="nl.vlb" name="Vierlingsbeek" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="48.284" lat="51.5934598" lon="5.9961449" route="nl.ssl01"/>
+</positions>
+<display angle="0">Vierlingsbeek</display>
+<opened>1881</opened>
+<wiki>nl:Station Vierlingsbeek</wiki>
+</station>
+<station id="nl.zbm" name="Zaltbommel" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="70.567" lat="51.8088940" lon="5.2634229" route="nl.ssh01"/>
+</positions>
+<display angle="0">Zaltbommel</display>
+<opened>1869-11-01</opened>
+<wiki>nl:Station Zaltbommel</wiki>
+</station>
+<station id="nl.st" name="Soest" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="6.199" lat="52.1733522" lon="5.3101431" route="nl.ncs03"/>
+</positions>
+<display angle="180">Soest</display>
+<opened>1898-06-27</opened>
+<wiki>nl:Station Soest (Nederland)</wiki>
+</station>
+<station id="nl.nvp" name="Nieuw Vennep" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="28.066" lat="52.2589316" lon="4.6455259" route="nl.ssu02"/>
+</positions>
+<display angle="0">Nieuw Vennep</display>
+<opened>1981-05-31</opened>
+<wiki>nl:Station Nieuw Vennep (Schiphollijn)</wiki>
+</station>
+<station id="nl.atn" name="Aalten" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="12.025" lat="51.9213281" lon="6.5786270" route="nl.gols01"/>
+</positions>
+<display angle="60">Aalten</display>
+<opened>1885-07-15</opened>
+<wiki>nl:Station Aalten</wiki>
+</station>
+<station id="nl.hn" name="Hoorn" importance="2" corridor="2" region="13">
+<positions>
+	<ATLRoutePosition km="32.662" lat="52.6449439" lon="5.0556211" route="nl.hsm03"/>
+</positions>
+<display angle="60">Hoorn</display>
+<opened>1884-05-20</opened>
+<wiki>nl:Station Hoorn</wiki>
+</station>
+<station id="nl.ldl" name="Leiden Lammenschans" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="29.636" lat="52.1467945" lon="4.4923392" route="nl.lw01"/>
+</positions>
+<display angle="60">Lammenschans</display>
+<opened>1961-05-18</opened>
+<wiki>nl:Station Leiden Lammenschans</wiki>
+<aliases>
+	<name>Lammenschans</name>
+</aliases>
+</station>
+<station id="nl.ah" name="Arnhem" importance="1" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="53.892" lat="51.9849811" lon="5.8991586" route="nl.nrs01"/>
+</positions>
+<display angle="60">Arnhem</display>
+<opened>1845-05-14</opened>
+<wiki>nl:Station Arnhem</wiki>
+</station>
+<station id="nl.btl" name="Boxtel" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="38.973" lat="51.5851277" lon="5.3179925" route="nl.sse01"/>
+</positions>
+<display angle="0">Boxtel</display>
+<opened>1865-05-01</opened>
+<wiki>nl:Station Boxtel</wiki>
+</station>
+<station id="nl.ec" name="Echt" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="33.050" lat="51.1005660" lon="5.8788563" route="nl.sse03"/>
+</positions>
+<display angle="0">Echt</display>
+<opened>1865-11-21</opened>
+<wiki>nl:Station Echt</wiki>
+</station>
+<station id="nl.gln" name="Geleen Oost" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="4.186" lat="50.9669543" lon="5.8430319" route="nl.nzs01"/>
+</positions>
+<display angle="0">Geleen Oost</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Geleen Oost</wiki>
+</station>
+<station id="nl.amri" name="Almelo de Riet" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="37.855" lat="52.3420294" lon="6.6667837" route="nl.knls03"/>
+</positions>
+<display angle="0">De Riet</display>
+<opened>1926-10-03</opened>
+<wiki>nl:Station Almelo De Riet</wiki>
+<aliases>
+	<name>De Riet</name>
+	<name>Almelo De Riet</name>
+</aliases>
+</station>
+<station id="nl.nkk" name="Nijkerk" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="32.423" lat="52.2222335" lon="5.4938667" route="nl.ncs01"/>
+</positions>
+<display angle="0">Nijkerk</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Nijkerk</wiki>
+</station>
+<station id="nl.rsd" name="Roosendaal" importance="2" corridor="3" region="16">
+<positions>
+	<ATLRoutePosition km="22.971" lat="51.5402682" lon="4.4583533" route="nl.ar01"/>
+</positions>
+<display angle="180">Roosendaal</display>
+<opened>1854-07-03</opened>
+<wiki>nl:Station Roosendaal</wiki>
+</station>
+<station id="nl.vsv" name="Varsseveld" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="20.473" lat="51.9372997" lon="6.4588186" route="nl.gols01"/>
+</positions>
+<display angle="60">Varsseveld</display>
+<opened>1885-07-15</opened>
+<wiki>nl:Station Varsseveld</wiki>
+</station>
+<station id="nl.tbu" name="Tilburg Universiteit" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="19.779" lat="51.5650796" lon="5.0509688" route="nl.sse01"/>
+</positions>
+<display angle="240">Universiteit</display>
+<opened>1969-06-01</opened>
+<wiki>nl:Station Tilburg Universiteit</wiki>
+<aliases>
+	<name>Universiteit</name>
+	<name>Tilburg West</name>
+</aliases>
+</station>
+<station id="nl.gbr" name="Glanerbrug" importance="9" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="64.868" lat="52.2186618" lon="6.9744505" route="nl.knls03"/>
+</positions>
+<display angle="240">Glanerbrug</display>
+<opened>1868-01-01</opened>
+<wiki>nl:Station Glanerbrug</wiki>
+</station>
+<station id="nl.asd" name="Amsterdam Centraal" importance="0" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="10.629" lat="52.3788877" lon="4.9002783" route="nl.os01"/>
+</positions>
+<display angle="60">Amsterdam C</display>
+<opened>1889-10-15</opened>
+<wiki>nl:Station Amsterdam Centraal</wiki>
+<aliases>
+	<name>Amsterdam</name>
+	<name>Amsterdam C</name>
+</aliases>
+</station>
+<station id="nl.zb" name="Zuidbroek" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="102.058" lat="53.1594286" lon="6.8679661" route="nl.ssb01"/>
+</positions>
+<display angle="60">Zuidbroek</display>
+<opened>1868-05-01</opened>
+<wiki>nl:Station Zuidbroek</wiki>
+</station>
+<station id="nl.gw" name="Grou-Jirnsum" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="79.285" lat="53.0889221" lon="5.8224842" route="nl.ssa02"/>
+</positions>
+<display angle="0">Grou-Jirnsum</display>
+<opened>1868-09-01</opened>
+<wiki>nl:Station Grou-Jirnsum</wiki>
+</station>
+<station id="nl.vmw" name="Amsterdam Van der Madeweg" importance="9" corridor="-1" region="0">
+<positions>
+	<ATLRoutePosition km="4.586" lat="52.3301350" lon="4.9297500" route="nl.ssh01"/>
+</positions>
+<display angle="0">Van der Madeweg</display>
+<opened>1977-10-16</opened>
+<wiki>nl:Van der Madeweg (metrostation)</wiki>
+<aliases>
+	<name>Van der Madeweg</name>
+</aliases>
+</station>
+<station id="nl.nwk" name="Nieuwerkerk a/d IJssel" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="41.371" lat="51.9646432" lon="4.6159075" route="nl.nrs02"/>
+</positions>
+<display angle="0">Nieuwerkerk</display>
+<opened>1971-05-21</opened>
+<wiki>nl:Station Nieuwerkerk a/d IJssel</wiki>
+<aliases>
+	<name>Nieuwerkerk</name>
+</aliases>
+</station>
+<station id="nl.lc" name="Lochem" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="14.794" lat="52.1672113" lon="6.4263864" route="nl.ssd01"/>
+</positions>
+<display angle="60">Lochem</display>
+<opened>1865-11-01</opened>
+<wiki>nl:Station Lochem</wiki>
+</station>
+<station id="nl.assp" name="Amsterdam Science Park" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="15.788" lat="52.3528502" lon="4.9484407" route="nl.os01"/>
+</positions>
+<display angle="60">Science Park</display>
+<opened>2009-12-13</opened>
+<wiki>nl:Station Amsterdam Science Park</wiki>
+<aliases>
+	<name>Science Park</name>
+</aliases>
+</station>
+<station id="nl.gn" name="Groningen" importance="1" corridor="0" region="7">
+<positions>
+	<ATLRoutePosition km="80.390" lat="53.2105560" lon="6.5647220" route="nl.ssb01"/>
+</positions>
+<display angle="240">Groningen</display>
+<opened>1866-06-01</opened>
+<wiki>nl:Station Groningen</wiki>
+</station>
+<station id="nl.hmn" name="Hemmen-Dodewaard" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="14.490" lat="51.9222764" lon="5.6737385" route="nl.sso01"/>
+</positions>
+<display angle="60">Hemmen-Dodewaard</display>
+<opened>1882-11-01</opened>
+<wiki>nl:Station Hemmen-Dodewaard</wiki>
+</station>
+<station id="nl.amrn" name="Alkmaar Noord" importance="3" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="33.010" lat="52.6438774" lon="4.7642378" route="nl.ssk01"/>
+</positions>
+<display angle="0">Alkmaar Noord</display>
+<opened>1980-09-26</opened>
+<wiki>nl:Station Alkmaar Noord</wiki>
+</station>
+<station id="nl.nm" name="Nijmegen" importance="1" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="16.931" lat="51.8435808" lon="5.8523962" route="nl.ssl01"/>
+</positions>
+<display angle="0">Nijmegen</display>
+<opened>1865-08-09</opened>
+<wiki>nl:Station Nijmegen</wiki>
+</station>
+<station id="nl.vtn" name="Vleuten" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="7.325" lat="52.1030912" lon="5.0093456" route="nl.nrs02"/>
+</positions>
+<display angle="240">Vleuten</display>
+<opened>1881-01-01</opened>
+<wiki>nl:Station Vleuten</wiki>
+</station>
+<station id="nl.za" name="Zetten-Andelst" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="11.114" lat="51.9197047" lon="5.7227838" route="nl.sso01"/>
+</positions>
+<display angle="60">Zetten-Andelst</display>
+<opened>1882-11-01</opened>
+<wiki>nl:Station Zetten-Andelst</wiki>
+</station>
+<station id="nl.tbr" name="Tilburg Reeshof" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="15.750" lat="51.5735281" lon="4.9942848" route="nl.sse01"/>
+</positions>
+<display angle="240">Reeshof</display>
+<opened>2003-12-14</opened>
+<wiki>nl:Station Tilburg Reeshof</wiki>
+<aliases>
+	<name>Reeshof</name>
+</aliases>
+</station>
+<station id="nl.dvn" name="Duiven" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="63.420" lat="51.9433759" lon="6.0147428" route="nl.nrs01"/>
+</positions>
+<display angle="60">Duiven</display>
+<opened>1856-02-15</opened>
+<wiki>nl:Station Duiven</wiki>
+</station>
+<station id="nl.asb" name="Amsterdam Bijlmer ArenA" importance="2" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="6.895" lat="52.3122200" lon="4.9469440" route="nl.ssh01"/>
+</positions>
+<display angle="240">Bijlmer ArenA</display>
+<opened>2007-11-17</opened>
+<wiki>nl:Station Amsterdam Bijlmer ArenA</wiki>
+<aliases>
+	<name>Bijlmer ArenA</name>
+</aliases>
+</station>
+<station id="nl.hmh" name="Helmond 't Hout" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="40.597" lat="51.4680541" lon="5.6314044" route="nl.sse02"/>
+</positions>
+<display angle="60">'t Hout</display>
+<opened>1992-05-31</opened>
+<wiki>nl:Station Helmond 't Hout</wiki>
+<aliases>
+	<name>'t Hout</name>
+</aliases>
+</station>
+<station id="nl.gz" name="Gilze-Rijen" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="10.901" lat="51.5836950" lon="4.9260717" route="nl.sse01"/>
+</positions>
+<display angle="240">Gilze-Rijen</display>
+<opened>1863-10-05</opened>
+<wiki>nl:Station Gilze-Rijen</wiki>
+</station>
+<station id="nl.gd" name="Gouda" importance="2" corridor="0" region="14">
+<positions>
+	<ATLRoutePosition km="32.374" lat="52.0174824" lon="4.7029650" route="nl.nrs02"/>
+</positions>
+<display angle="240">Gouda</display>
+<opened>1855-05-21</opened>
+<wiki>nl:Station Gouda</wiki>
+</station>
+<station id="nl.zlw" name="Lage Zwaluwe" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="14.997" lat="51.6911105" lon="4.6630240" route="nl.ssi01"/>
+</positions>
+<display angle="0">Lage Zwaluwe</display>
+<opened>1866-07-01</opened>
+<wiki>nl:Station Lage Zwaluwe</wiki>
+</station>
+<station id="nl.nwl" name="Schiedam Nieuwland" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="2.177" lat="51.9222136" lon="4.3822334" route="nl.hsm05"/>
+</positions>
+<display angle="150">Nieuwland</display>
+<opened>1975-06-01</opened>
+<wiki>nl:Station Schiedam Nieuwland</wiki>
+<aliases>
+	<name>Nieuwland</name>
+</aliases>
+</station>
+<station id="nl.laa" name="Den Haag Laan v NOI" importance="3" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="59.441" lat="52.0788021" lon="4.3426160" route="nl.hsm01"/>
+</positions>
+<display angle="0">Laan Van NOI</display>
+<opened>1907-05-01</opened>
+<wiki>nl:Station Den Haag Laan van NOI</wiki>
+<aliases>
+	<name>Den Haag Laan van NOI</name>
+	<name>Laan Van NOI</name>
+</aliases>
+</station>
+<station id="nl.vndc" name="Veenendaal Centrum" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="31.303" lat="52.0200568" lon="5.5487604" route="nl.os05"/>
+</positions>
+<display angle="240">Veenendaal C</display>
+<opened>1886-02-18</opened>
+<wiki>nl:Station Veenendaal Centrum</wiki>
+<aliases>
+	<name>Veenendaal C</name>
+</aliases>
+</station>
+<station id="nl.rtn" name="Rotterdam Noord" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="51.140" lat="51.9420526" lon="4.4802537" route="nl.nrs02"/>
+</positions>
+<display angle="60">Rotterdam Noord</display>
+<opened>1953-10-04</opened>
+<wiki>nl:Station Rotterdam Noord</wiki>
+</station>
+<station id="nl.gnd" name="Hardinxveld-Giessendam" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="79.817" lat="51.8304824" lon="4.8358449" route="nl.sso02"/>
+</positions>
+<display angle="60">Hardinxveld-G.</display>
+<opened>1885-07-16</opened>
+<wiki>nl:Station Hardinxveld-Giessendam</wiki>
+<aliases>
+	<name>Hardinxveld-G.</name>
+</aliases>
+</station>
+<station id="nl.ass" name="Amsterdam Sloterdijk" importance="2" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="6.237" lat="52.3888900" lon="4.8377776" route="nl.ssu03"/>
+	<ATLRoutePosition km="0.900" lat="52.3888900" lon="4.8377776" route="nl.asd11"/>
+	<ATLRoutePosition km="6.075" lat="52.3888900" lon="4.8377776" route="nl.os01"/>
+</positions>
+<display angle="60">Sloterdijk</display>
+<opened>1956-06-03</opened>
+<wiki>nl:Station Amsterdam Sloterdijk</wiki>
+<aliases>
+	<name>Sloterdijk</name>
+</aliases>
+</station>
+<station id="nl.co" name="Coevorden" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="55.400" lat="52.6636235" lon="6.7358148" route="nl.nols01"/>
+</positions>
+<display angle="0">Coevorden</display>
+<opened>1905-07-01</opened>
+<wiki>nl:Station Coevorden</wiki>
+</station>
+<station id="nl.tbg" name="Terborg" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="27.365" lat="51.9225913" lon="6.3644702" route="nl.gols01"/>
+</positions>
+<display angle="60">Terborg</display>
+<opened>1885-07-15</opened>
+<wiki>nl:Station Terborg</wiki>
+</station>
+<station id="nl.vwd" name="Veenwouden" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="40.182" lat="53.2348765" lon="5.9889901" route="nl.ssb01"/>
+</positions>
+<display angle="60">Veenwouden</display>
+<opened>1866-06-01</opened>
+<wiki>nl:Station Veenwouden</wiki>
+</station>
+<station id="nl.hr" name="Heerenveen" importance="2" corridor="0" region="6">
+<positions>
+	<ATLRoutePosition km="63.623" lat="52.9615270" lon="5.9144524" route="nl.ssa02"/>
+</positions>
+<display angle="0">Heerenveen</display>
+<opened>1868-01-15</opened>
+<wiki>nl:Station Heerenveen</wiki>
+</station>
+<station id="nl.nmd" name="Nijmegen Dukenburg" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="61.078" lat="51.8240946" lon="5.7955782" route="nl.nzos02"/>
+</positions>
+<display angle="240">Dukenburg</display>
+<opened>1973-06-02</opened>
+<wiki>nl:Station Nijmegen Dukenburg</wiki>
+<aliases>
+	<name>Dukenburg</name>
+</aliases>
+</station>
+<station id="nl.had" name="Heemstede-Aerdenhout" importance="3" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="21.281" lat="52.3592104" lon="4.6064592" route="nl.hsm01"/>
+</positions>
+<display angle="180">Heemstede-Aerdenhout</display>
+<opened>1928-10-07</opened>
+<wiki>nl:Station Heemstede-Aerdenhout</wiki>
+</station>
+<station id="nl.asa" name="Amsterdam Amstel" importance="2" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="2.573" lat="52.3465417" lon="4.9172536" route="nl.ssh01"/>
+</positions>
+<display angle="180">Amstel</display>
+<opened>1939-10-15</opened>
+<wiki>nl:Station Amsterdam Amstel</wiki>
+<aliases>
+	<name>Amstel</name>
+</aliases>
+</station>
+<station id="nl.zp" name="Zutphen" importance="1" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="27.700" lat="52.1448767" lon="6.1944448" route="nl.ssa01"/>
+</positions>
+<display angle="180">Zutphen</display>
+<opened>1865-02-02</opened>
+<wiki>nl:Station Zutphen</wiki>
+</station>
+<station id="nl.gdg" name="Gouda Goverwelle" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="29.868" lat="52.0151489" lon="4.7393865" route="nl.nrs02"/>
+</positions>
+<display angle="240">Gouda Goverwelle</display>
+<opened>1993-05-23</opened>
+<wiki>nl:Station Gouda Goverwelle</wiki>
+</station>
+<station id="nl.kzd" name="Koog-Zaandijk" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="5.494" lat="52.4691682" lon="4.8051098" route="nl.ssk01"/>
+</positions>
+<display angle="180">Koog-Zaandijk</display>
+<opened>1869-11-01</opened>
+<wiki>nl:Station Koog-Zaandijk</wiki>
+</station>
+<station id="nl.o" name="Oss" importance="2" corridor="5" region="16">
+<positions>
+	<ATLRoutePosition km="41.391" lat="51.7654951" lon="5.5322850" route="nl.nzos02"/>
+</positions>
+<display angle="60">Oss</display>
+<opened>1881-06-04</opened>
+<wiki>nl:Station Oss</wiki>
+</station>
+<station id="nl.rtst" name="Rotterdam Stadion" importance="9" corridor="-1" region="0">
+<positions>
+	<ATLRoutePosition km="43.904" lat="51.8938025" lon="4.5194146" route="nl.ssi01"/>
+</positions>
+<display angle="0">Rotterdam Stadion</display>
+<opened>1932-03-02</opened>
+<wiki>nl:Station Rotterdam Stadion</wiki>
+</station>
+<station id="nl.vndw" name="Veenendaal West" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="32.824" lat="52.0281013" lon="5.5314212" route="nl.os05"/>
+</positions>
+<display angle="240">Veenendaal West</display>
+<opened>1981-05-31</opened>
+<wiki>nl:Station Veenendaal West</wiki>
+</station>
+<station id="nl.tg" name="Tegelen" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="65.377" lat="51.3363367" lon="6.1384720" route="nl.sse03"/>
+</positions>
+<display angle="0">Tegelen</display>
+<opened>1865-11-21</opened>
+<wiki>nl:Station Tegelen</wiki>
+</station>
+<station id="nl.bdm" name="Bedum" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="15.025" lat="53.3069569" lon="6.5930564" route="nl.ssp01"/>
+</positions>
+<display angle="60">Bedum</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Bedum</wiki>
+</station>
+<station id="nl.cps" name="Capelle Schollevaar" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="43.984" lat="51.9538778" lon="4.5827693" route="nl.nrs02"/>
+</positions>
+<display angle="60">Capelle Schollevaar</display>
+<opened>1981</opened>
+<wiki>nl:Station Capelle Schollevaar</wiki>
+</station>
+<station id="nl.asn" name="Assen" importance="1" corridor="0" region="8">
+<positions>
+	<ATLRoutePosition km="49.302" lat="52.9917407" lon="6.5708094" route="nl.ssc01"/>
+</positions>
+<display angle="0">Assen</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Assen</wiki>
+</station>
+<station id="nl.www" name="Winterswijk West" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="42.320" lat="51.9752127" lon="6.7025271" route="nl.nwsm01"/>
+</positions>
+<display angle="60">Winterswijk West</display>
+<opened>2001-06-10</opened>
+<wiki>nl:Station Winterswijk West</wiki>
+</station>
+<station id="nl.amr" name="Alkmaar" importance="1" corridor="1" region="13">
+<positions>
+	<ATLRoutePosition km="31.186" lat="52.6379647" lon="4.7396746" route="nl.ssk01"/>
+</positions>
+<display angle="180">Alkmaar</display>
+<opened>1865-12-20</opened>
+<wiki>nl:Station Alkmaar</wiki>
+</station>
+<station id="nl.gnn" name="Groningen Noord" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="3.869" lat="53.2300704" lon="6.5565138" route="nl.ssp01"/>
+</positions>
+<display angle="0">Groningen Noord</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Groningen Noord</wiki>
+</station>
+<station id="nl.hrl" name="Heerlen" importance="2" corridor="1" region="17">
+<positions>
+	<ATLRoutePosition km="18.502" lat="50.8907180" lon="5.9749483" route="nl.nzs01"/>
+</positions>
+<display angle="60">Heerlen</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Heerlen</wiki>
+</station>
+<station id="nl.nmh" name="Nijmegen Heyendaal" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="19.225" lat="51.8270188" lon="5.8676145" route="nl.ssl01"/>
+</positions>
+<display angle="0">Heyendaal</display>
+<opened>1972-05-28</opened>
+<wiki>nl:Station Nijmegen Heyendaal</wiki>
+<aliases>
+	<name>Heyendaal</name>
+</aliases>
+</station>
+<station id="nl.ldm" name="Leerdam" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="58.424" lat="51.8945696" lon="5.0914389" route="nl.sso02"/>
+</positions>
+<display angle="60">Leerdam</display>
+<opened>1883-12-01</opened>
+<wiki>nl:Station Leerdam</wiki>
+</station>
+<station id="nl.vz" name="Vriezenveen" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="12.591" lat="52.4009438" lon="6.6010307" route="nl.nols02"/>
+</positions>
+<display angle="0">Vriezenveen</display>
+<opened>1906-10-01</opened>
+<wiki>nl:Station Vriezenveen</wiki>
+</station>
+<station id="nl.ztm" name="Zoetermeer" importance="2" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="13.797" lat="52.0475850" lon="4.4772360" route="nl.nrs04"/>
+</positions>
+<display angle="240">Zoetermeer</display>
+<opened>1973-06-03</opened>
+<wiki>nl:Station Zoetermeer</wiki>
+</station>
+<station id="nl.dz" name="Delfzijl" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="37.699" lat="53.3337854" lon="6.9240530" route="nl.ssp01"/>
+</positions>
+<display angle="60">Delfzijl</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Delfzijl</wiki>
+</station>
+<station id="nl.ed" name="Ede-Wageningen" importance="2" corridor="1" region="10">
+<positions>
+	<ATLRoutePosition km="37.580" lat="52.0277800" lon="5.6730556" route="nl.nrs01"/>
+</positions>
+<display angle="60">Ede-Wageningen</display>
+<opened>1845-05-16</opened>
+<wiki>nl:Station Ede-Wageningen</wiki>
+</station>
+<station id="nl.obd" name="Obdam" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="12.692" lat="52.6782136" lon="4.9072755" route="nl.hsm04"/>
+</positions>
+<display angle="60">Obdam</display>
+<opened>1897</opened>
+<wiki>nl:Station Obdam</wiki>
+</station>
+<station id="nl.gdk" name="Geerdijk" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="3.941" lat="52.4752802" lon="6.5669745" route="nl.nols02"/>
+</positions>
+<display angle="0">Geerdijk</display>
+<opened>1906-10-01</opened>
+<wiki>nl:Station Geerdijk</wiki>
+</station>
+<station id="nl.cvm" name="Chevremont" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="4.000" lat="50.8761037" lon="6.0596375" route="nl.ssm01"/>
+</positions>
+<display angle="0">Chevremont</display>
+<opened>1949-05-15</opened>
+<wiki>nl:Station Chevremont</wiki>
+</station>
+<station id="nl.gvm" name="Den Haag Mariahoeve" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="57.188" lat="52.0906968" lon="4.3693152" route="nl.hsm01"/>
+</positions>
+<display angle="0">Mariahoeve</display>
+<opened>1966-05-22</opened>
+<wiki>nl:Station Den Haag Mariahoeve</wiki>
+<aliases>
+	<name>Mariahoeve</name>
+</aliases>
+</station>
+<station id="nl.bdpb" name="Breda-Prinsenbeek" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="4.767" lat="51.6064620" lon="4.7211066" route="nl.ssi01"/>
+</positions>
+<display angle="60">Prinsenbeek</display>
+<opened>1988</opened>
+<wiki>nl:Station Breda-Prinsenbeek</wiki>
+<aliases>
+	<name>Prinsenbeek</name>
+</aliases>
+</station>
+<station id="nl.vp" name="Velp" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="4.197" lat="51.9947386" lon="5.9802566" route="nl.ssa01"/>
+</positions>
+<display angle="0">Velp</display>
+<opened>1865-02-02</opened>
+<wiki>nl:Station Velp</wiki>
+</station>
+<station id="nl.hrlk" name="Heerlen De Kissel" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="19.810" lat="50.8901040" lon="5.9933653" route="nl.nzs01"/>
+</positions>
+<display angle="60">De Kissel</display>
+<opened>2007-12-09</opened>
+<wiki>nl:Station Heerlen De Kissel</wiki>
+<aliases>
+	<name>De Kissel</name>
+</aliases>
+</station>
+<station id="nl.tl" name="Tiel" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="32.894" lat="51.8893374" lon="5.4223733" route="nl.sso01"/>
+</positions>
+<display angle="-30">Tiel</display>
+<opened>1882-11-01</opened>
+<wiki>nl:Station Tiel</wiki>
+</station>
+<station id="nl.go" name="Goor" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="27.951" lat="52.2303289" lon="6.5844466" route="nl.ssd01"/>
+</positions>
+<display angle="60">Goor</display>
+<opened>1865-11-01</opened>
+<wiki>nl:Station Goor</wiki>
+</station>
+<station id="nl.ashd" name="Amsterdam Holendrecht" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="8.699" lat="52.2979532" lon="4.9595779" route="nl.ssh01"/>
+</positions>
+<display angle="240">Holendrecht</display>
+<opened>2008-12-14</opened>
+<wiki>nl:Station Amsterdam Holendrecht</wiki>
+<aliases>
+	<name>Holendrecht</name>
+</aliases>
+</station>
+<station id="nl.ztmo" name="Zoetermeer Oost" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="12.726" lat="52.0464581" lon="4.4927909" route="nl.nrs04"/>
+</positions>
+<display angle="240">Zoetermeer Oost</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Zoetermeer Oost</wiki>
+</station>
+<station id="nl.ampo" name="Almere Poort" importance="3" corridor="-1" region="11">
+<positions>
+	<ATLRoutePosition km="9.103" lat="52.3427780" lon="5.1519440" route="nl.ssv01"/>
+</positions>
+<display angle="0">Almere Poort</display>
+<opened>2012-12-09</opened>
+<wiki>nl:Station Almere Poort</wiki>
+</station>
+<station id="nl.wad" name="Waddinxveen" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="8.067" lat="52.0441649" lon="4.6498537" route="nl.sss01"/>
+</positions>
+<display angle="0">Waddinxveen</display>
+<opened>1934-10-07</opened>
+<wiki>nl:Station Waddinxveen</wiki>
+</station>
+<station id="nl.dvd" name="Duivendrecht" importance="3" corridor="3" region="13">
+<positions>
+	<ATLRoutePosition km="5.467" lat="52.3233340" lon="4.9363890" route="nl.ssh01"/>
+	<ATLRoutePosition km="4.205" lat="52.3233340" lon="4.9363890" route="nl.ssu02"/>
+</positions>
+<display angle="240">Duivendrecht</display>
+<opened>1993-05-23</opened>
+<wiki>nl:Station Duivendrecht</wiki>
+</station>
+<station id="nl.bsk" name="Boskoop" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="11.824" lat="52.0777917" lon="4.6467161" route="nl.sss01"/>
+</positions>
+<display angle="0">Boskoop</display>
+<opened>1934-10-07</opened>
+<wiki>nl:Station Boskoop</wiki>
+</station>
+<station id="nl.rv" name="Reuver" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="58.167" lat="51.2830258" lon="6.0794106" route="nl.sse03"/>
+</positions>
+<display angle="0">Reuver</display>
+<opened>1861</opened>
+<wiki>nl:Station Reuver</wiki>
+</station>
+<station id="nl.ledn" name="Leiden Centraal" importance="1" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="45.724" lat="52.1661100" lon="4.4816666" route="nl.hsm01"/>
+</positions>
+<display angle="180">Leiden C</display>
+<opened>1842-08-17</opened>
+<wiki>nl:Station Leiden Centraal</wiki>
+<aliases>
+	<name>Leiden C</name>
+	<name>Leiden</name>
+</aliases>
+</station>
+<station id="nl.odb" name="Oudenbosch" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="15.524" lat="51.5878150" lon="4.5333566" route="nl.ar01"/>
+</positions>
+<display angle="150">Oudenbosch</display>
+<opened>1854-10-20</opened>
+<wiki>nl:Station Oudenbosch</wiki>
+</station>
+<station id="nl.nml" name="Nijmegen Lent" importance="3" corridor="5" region="10">
+<positions>
+	<ATLRoutePosition km="14.443" lat="51.8652774" lon="5.8594674" route="nl.ssl01"/>
+</positions>
+<display angle="0">Lent</display>
+<opened>2002-06-01</opened>
+<wiki>nl:Station Nijmegen Lent</wiki>
+<aliases>
+	<name>Lent</name>
+</aliases>
+</station>
+<station id="nl.da" name="Daarlerveen" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="7.848" lat="52.4408129" lon="6.5761748" route="nl.nols02"/>
+</positions>
+<display angle="0">Daarlerveen</display>
+<opened>1906-10-01</opened>
+<wiki>nl:Station Daarlerveen</wiki>
+</station>
+<station id="nl.gvc" name="Den Haag Centraal" importance="0" corridor="0" region="14">
+<positions>
+	<ATLRoutePosition km="25.085" lat="52.0803270" lon="4.3251072" route="nl.nrs04"/>
+</positions>
+<display angle="180">Den Haag C</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Den Haag Centraal</wiki>
+<aliases>
+	<name>Den Haag C</name>
+	<name>Den Haag</name>
+	<name>'s-Gravenhage</name>
+</aliases>
+</station>
+<station id="nl.bet" name="Best" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="48.681" lat="51.5099456" lon="5.3888777" route="nl.sse01"/>
+</positions>
+<display angle="0">Best</display>
+<opened>1866-07-01</opened>
+<wiki>nl:Station Best</wiki>
+</station>
+<station id="nl.dvnk" name="De Vink" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="48.441" lat="52.1471658" lon="4.4565234" route="nl.hsm01"/>
+</positions>
+<display angle="180">De Vink</display>
+<opened>1985-05-31</opened>
+<wiki>nl:Station De Vink</wiki>
+</station>
+<station id="nl.hrlw" name="Heerlen Woonboulevard" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="0.444" lat="50.8960498" lon="5.9524656" route="nl.ssr01"/>
+</positions>
+<display angle="60">Woonboulevard</display>
+<opened>2010-06-13</opened>
+<wiki>nl:Station Heerlen Woonboulevard</wiki>
+<aliases>
+	<name>Woonboulevard</name>
+</aliases>
+</station>
+<station id="nl.tpsw" name="Tiel Passewaaij" importance="3" corridor="-1" region="12">
+<positions>
+	<ATLRoutePosition km="35.583" lat="51.8738710" lon="5.3922705" route="nl.sso01"/>
+</positions>
+<display angle="-30">Tiel Passewaaij</display>
+<opened>2007-04-14</opened>
+<wiki>nl:Station Tiel Passewaaij</wiki>
+</station>
+<station id="nl.dtch" name="Doetinchem De Huet" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="36.112" lat="51.9591383" lon="6.2598522" route="nl.gols01"/>
+</positions>
+<display angle="60">De Huet</display>
+<opened>1985-06-02</opened>
+<wiki>nl:Station Doetinchem De Huet</wiki>
+<aliases>
+	<name>De Huet</name>
+</aliases>
+</station>
+<station id="nl.bnn" name="Barneveld Noord" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="12.109" lat="52.1613297" lon="5.5979760" route="nl.kl01"/>
+</positions>
+<display angle="0">Barneveld Noord</display>
+<opened>1938-05-15</opened>
+<wiki>nl:Station Barneveld Noord</wiki>
+</station>
+<station id="nl.zv" name="Zevenaar" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="67.961" lat="51.9230540" lon="6.0719440" route="nl.nrs01"/>
+</positions>
+<display angle="60">Zevenaar</display>
+<opened>1856-02-15</opened>
+<wiki>nl:Station Zevenaar</wiki>
+</station>
+<station id="nl.lg" name="Landgraaf" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="21.766" lat="50.8963900" lon="6.0191665" route="nl.nzs01"/>
+	<ATLRoutePosition km="0.004" lat="50.8963900" lon="6.0191665" route="nl.ssm01"/>
+</positions>
+<display angle="60">Landgraaf</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Landgraaf</wiki>
+</station>
+<station id="nl.gp" name="Geldrop" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="5.167" lat="51.4198592" lon="5.5508015" route="nl.ssq01"/>
+</positions>
+<display angle="0">Geldrop</display>
+<opened>1913-11-01</opened>
+<wiki>nl:Station Geldrop</wiki>
+</station>
+<station id="nl.hlm" name="Haarlem" importance="1" corridor="3" region="13">
+<positions>
+	<ATLRoutePosition km="16.967" lat="52.3878730" lon="4.6383614" route="nl.hsm01"/>
+</positions>
+<display angle="60">Haarlem</display>
+<opened>1839-09-20</opened>
+<wiki>nl:Station Haarlem</wiki>
+</station>
+<station id="nl.eml" name="Ermelo" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="44.712" lat="52.3016520" lon="5.6147823" route="nl.ncs01"/>
+</positions>
+<display angle="0">Ermelo</display>
+<opened>1863-08-20</opened>
+<wiki>nl:Station Ermelo</wiki>
+</station>
+<station id="nl.aml" name="Almelo" importance="2" corridor="2" region="9">
+<positions>
+	<ATLRoutePosition km="35.777" lat="52.3580550" lon="6.6538887" route="nl.knls03"/>
+</positions>
+<display angle="0">Almelo</display>
+<opened>1865-10-18</opened>
+<wiki>nl:Station Almelo</wiki>
+</station>
+<station id="nl.wadn" name="Waddinxveen Noord" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="9.278" lat="52.0550128" lon="4.6485270" route="nl.sss01"/>
+</positions>
+<display angle="0">Waddinxveen Noord</display>
+<opened>1973-06-03</opened>
+<wiki>nl:Station Waddinxveen Noord</wiki>
+</station>
+<station id="nl.wtv" name="Westervoort" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="60.007" lat="51.9604455" lon="5.9733609" route="nl.nrs01"/>
+</positions>
+<display angle="240">Westervoort</display>
+<opened>1856-02-15</opened>
+<wiki>nl:Station Westervoort</wiki>
+</station>
+<station id="nl.stm" name="Stedum" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="21.663" lat="53.3263691" lon="6.6875954" route="nl.ssp01"/>
+</positions>
+<display angle="60">Stedum</display>
+<opened>1884-06-15</opened>
+<wiki>nl:Station Stedum</wiki>
+</station>
+<station id="nl.rvs" name="Ravenstein" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="49.479" lat="51.7941799" lon="5.6358251" route="nl.nzos02"/>
+</positions>
+<display angle="240">Ravenstein</display>
+<opened>1881-06-04</opened>
+<wiki>nl:Station Ravenstein</wiki>
+</station>
+<station id="nl.ehb" name="Eindhoven Beukenlaan" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="56.728" lat="51.4512380" lon="5.4560426" route="nl.sse01"/>
+</positions>
+<display angle="240">Beukenlaan</display>
+<opened>1971-09-26</opened>
+<wiki>nl:Station Eindhoven Beukenlaan</wiki>
+<aliases>
+	<name>Beukenlaan</name>
+</aliases>
+</station>
+<station id="nl.odz" name="Oldenzaal" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="10.689" lat="52.3063682" lon="6.9347274" route="nl.as01"/>
+</positions>
+<display angle="60">Oldenzaal</display>
+<opened>1865-10-18</opened>
+<wiki>nl:Station Oldenzaal</wiki>
+</station>
+<station id="nl.rd" name="Roodeschool" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="26.893" lat="53.4192755" lon="6.7605230" route="nl.gls01"/>
+</positions>
+<display angle="60">Roodeschool</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Roodeschool</wiki>
+</station>
+<station id="nl.db" name="Driebergen-Zeist" importance="3" corridor="1" region="12">
+<positions>
+	<ATLRoutePosition km="8.629" lat="52.0652373" lon="5.2586122" route="nl.nrs01"/>
+</positions>
+<display angle="60">Driebergen-Zeist</display>
+<opened>1844-06-17</opened>
+<wiki>nl:Station Driebergen-Zeist</wiki>
+</station>
+<station id="nl.gv" name="Den Haag HS" importance="2" corridor="3" region="14">
+<positions>
+	<ATLRoutePosition km="61.141" lat="52.0698242" lon="4.3224642" route="nl.hsm01"/>
+</positions>
+<display angle="180">Den Haag HS</display>
+<opened>1843-12-06</opened>
+<wiki>nl:Station Den Haag HS</wiki>
+</station>
+<station id="nl.bf" name="Baflo" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="8.067" lat="53.3608778" lon="6.5188526" route="nl.gls01"/>
+</positions>
+<display angle="180">Baflo</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Baflo</wiki>
+</station>
+<station id="nl.bp" name="Buitenpost" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="50.943" lat="53.2564221" lon="6.1446490" route="nl.ssb01"/>
+</positions>
+<display angle="60">Buitenpost</display>
+<opened>1866-06-01</opened>
+<wiki>nl:Station Buitenpost</wiki>
+</station>
+<station id="nl.hrn" name="Haren" importance="3" corridor="-1" region="8">
+<positions>
+	<ATLRoutePosition km="71.319" lat="53.1761656" lon="6.6174522" route="nl.ssc01"/>
+</positions>
+<display angle="240">Haren</display>
+<opened>1870-05-01</opened>
+<wiki>nl:Station Haren (Nederland)</wiki>
+</station>
+<station id="nl.twl" name="Twello" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="9.735" lat="52.2376907" lon="6.0986761" route="nl.knls02"/>
+</positions>
+<display angle="60">Twello</display>
+<opened>1887-11-21</opened>
+<wiki>nl:Station Twello</wiki>
+</station>
+<station id="nl.gr" name="Gorinchem" importance="3" corridor="-1" region="14">
+<positions>
+	<ATLRoutePosition km="70.403" lat="51.8339630" lon="4.9682704" route="nl.sso02"/>
+</positions>
+<display angle="0">Gorinchem</display>
+<opened>1883-12-01</opened>
+<wiki>nl:Station Gorinchem</wiki>
+</station>
+<station id="nl.hlms" name="Haarlem Spaarnwoude" importance="3" corridor="-1" region="13">
+<positions>
+	<ATLRoutePosition km="14.408" lat="52.3829961" lon="4.6730215" route="nl.hsm01"/>
+</positions>
+<display angle="60">Haarlem Spaarnwoude</display>
+<opened>1998-05-24</opened>
+<wiki>nl:Station Haarlem Spaarnwoude</wiki>
+</station>
+<station id="nl.zvb" name="Zevenbergen" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="7.531" lat="51.6410759" lon="4.6098144" route="nl.ar01"/>
+</positions>
+<display angle="150">Zevenbergen</display>
+<opened>1854-12-24</opened>
+<wiki>nl:Station Zevenbergen</wiki>
+</station>
+<station id="nl.lls" name="Lelystad Centrum" importance="1" corridor="3" region="11">
+<positions>
+	<ATLRoutePosition km="39.822" lat="52.5077756" lon="5.4726536" route="nl.ssv01"/>
+</positions>
+<display angle="0">Lelystad C</display>
+<opened>1988-05-28</opened>
+<wiki>nl:Station Lelystad Centrum</wiki>
+<aliases>
+	<name>Lelystad C</name>
+</aliases>
+</station>
+<station id="nl.wc" name="Wijchen" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="56.416" lat="51.8115420" lon="5.7309031" route="nl.nzos02"/>
+</positions>
+<display angle="240">Wijchen</display>
+<opened>1881-06-04</opened>
+<wiki>nl:Station Wijchen</wiki>
+</station>
+<station id="nl.wv" name="Wolvega" importance="3" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="52.842" lat="52.8809336" lon="6.0037883" route="nl.ssa02"/>
+</positions>
+<display angle="0">Wolvega</display>
+<opened>1868-01-15</opened>
+<wiki>nl:Station Wolvega</wiki>
+</station>
+<station id="nl.egh" name="Eygelshoven" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="2.004" lat="50.8904345" lon="6.0448572" route="nl.ssm01"/>
+</positions>
+<display angle="240">Eygelshoven</display>
+<opened>1949-05-15</opened>
+<wiki>nl:Station Eygelshoven</wiki>
+</station>
+<station id="nl.amfs" name="Amersfoort Schothorst" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="24.283" lat="52.1748165" lon="5.4039010" route="nl.ncs01"/>
+</positions>
+<display angle="180">Schothorst</display>
+<opened>1987-05-31</opened>
+<wiki>nl:Station Amersfoort Schothorst</wiki>
+<aliases>
+	<name>Schothorst</name>
+</aliases>
+</station>
+<station id="nl.olv" name="Onze Lieve Vrouwe t. Nood" importance="9" corridor="-1" region="6">
+<positions>
+	<ATLRoutePosition km="24.073" lat="52.5836021" lon="4.6860279" route="nl.ssk01"/>
+</positions>
+<display angle="180">O.L.V. ter Nood</display>
+<opened>1867-05-01</opened>
+<wiki>nl:Station Onze Lieve Vrouwe ter Nood</wiki>
+<aliases>
+	<name>Onze Lieve Vrouwe ter Nood</name>
+	<name>O.L.V. ter Nood</name>
+</aliases>
+</station>
+<station id="nl.rh" name="Rheden" importance="3" corridor="-1" region="10">
+<positions>
+	<ATLRoutePosition km="8.056" lat="52.0099689" lon="6.0305835" route="nl.ssa01"/>
+</positions>
+<display angle="0">Rheden</display>
+<opened>1881</opened>
+<wiki>nl:Station Rheden</wiki>
+</station>
+<station id="nl.sbk" name="Spaubeek" importance="3" corridor="-1" region="17">
+<positions>
+	<ATLRoutePosition km="7.463" lat="50.9430485" lon="5.8516638" route="nl.nzs01"/>
+</positions>
+<display angle="240">Spaubeek</display>
+<opened>1896-05-01</opened>
+<wiki>nl:Station Spaubeek</wiki>
+</station>
+<station id="nl.eghm" name="Eygelshoven Markt" importance="3" corridor="-1" region="-1">
+<positions>
+	<ATLRoutePosition km="24.699" lat="50.8959182" lon="6.0602053" route="nl.nzs01"/>
+</positions>
+<display angle="60">Eygelshoven Markt</display>
+<opened>2007-12-09</opened>
+<wiki>nl:Station Eygelshoven Markt</wiki>
+</station>
+<station id="nl.bgn" name="Bergen op Zoom" importance="2" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="12.604" lat="51.4939183" lon="4.2957934" route="nl.ssf01"/>
+</positions>
+<display angle="180">Bergen op Zoom</display>
+<opened>1863-12-23</opened>
+<wiki>nl:Station Bergen op Zoom</wiki>
+</station>
+<station id="nl.br" name="Blerick" importance="3" corridor="4" region="17">
+<positions>
+	<ATLRoutePosition km="1.441" lat="51.3725892" lon="6.1551411" route="nl.sse02"/>
+</positions>
+<display angle="0">Blerick</display>
+<opened>1868</opened>
+<wiki>nl:Station Blerick</wiki>
+</station>
+<station id="nl.ddn" name="Delden" importance="3" corridor="-1" region="9">
+<positions>
+	<ATLRoutePosition km="37.636" lat="52.2601581" lon="6.7160991" route="nl.ssd01"/>
+</positions>
+<display angle="240">Delden</display>
+<opened>1865-11-01</opened>
+<wiki>nl:Station Delden</wiki>
+</station>
+<station id="nl.uhm" name="Uithuizermeeden" importance="3" corridor="-1" region="7">
+<positions>
+	<ATLRoutePosition km="23.783" lat="53.4139351" lon="6.7201353" route="nl.gls01"/>
+</positions>
+<display angle="60">Uithuizermeeden</display>
+<opened>1893-08-16</opened>
+<wiki>nl:Station Uithuizermeeden</wiki>
+</station>
+<station id="nl.gs" name="Goes" importance="2" corridor="3" region="18">
+<positions>
+	<ATLRoutePosition km="49.057" lat="51.4983175" lon="3.8905451" route="nl.ssf01"/>
+</positions>
+<display angle="60">Goes</display>
+<opened>1868-07-01</opened>
+<wiki>nl:Station Goes</wiki>
+</station>
+<station id="nl.nmgo" name="Nijmegen Goffert" importance="3" corridor="-1" region="16">
+<positions>
+	<ATLRoutePosition km="62.977" lat="51.8273000" lon="5.8227220" route="nl.nzos02"/>
+</positions>
+<display angle="240">Goffert</display>
+<opened>2014-12-14</opened>
+<wiki>nl:Station Nijmegen Goffert</wiki>
+<aliases>
+	<name>Goffert</name>
+</aliases>
+</station>
+</locations>

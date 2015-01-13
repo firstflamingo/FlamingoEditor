@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable version="1.0" year="2014">
+<series id="eu.014">
+	<serviceRefs>
+		<ref service="ic.p" same="1" up="-15" down="300"/>
+		<ref service="ic.o" same="1" up="-90" down="300"/>
+	</serviceRefs>
+</series>
+<series id="eu.024">
+	<serviceRefs>
+		<ref service="ic.p" same="1" up="-15" down="300"/>
+		<ref service="ic.o" same="1" up="-90" down="300"/>
+	</serviceRefs>
+</series>
+<series id="nl.005">
+	<serviceRefs>
+		<ref service="ic.c" same="1" up="0" down="105"/>
+		<ref service="ic.a" same="1" up="0" down="120"/>
+		<ref service="ic.d" same="1" up="0" down="0"/>
+		<ref service="ic.e" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.007">
+	<serviceRefs>
+		<ref service="ic.t" same="1" up="-10" down="70"/>
+		<ref service="ic.v" same="1" up="0" down="0"/>
+		<ref service="ic.w" same="1" up="0" down="0"/>
+		<ref service="ic.r" same="1" up="-10" down="100"/>
+		<ref service="ic.e" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.008">
+	<serviceRefs>
+		<ref service="ic.h" same="1" up="15" down="75"/>
+		<ref service="ic.l" same="1" up="75" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.009">
+	<serviceRefs>
+		<ref service="ic.x" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.010">
+	<serviceRefs>
+		<ref service="ic.x" same="1" up="-45" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.014">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.015">
+	<serviceRefs>
+		<ref service="ic.p" same="1" up="75" down="0"/>
+		<ref service="ic.o" same="1" up="0" down="0"/>
+		<ref service="ic.n" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.016">
+	<serviceRefs>
+		<ref service="ic.p" same="1" up="0" down="15"/>
+		<ref service="ic.m" same="1" up="0" down="90"/>
+	</serviceRefs>
+</series>
+<series id="nl.017">
+	<serviceRefs>
+		<ref service="ic.b" same="1" up="15" down="105"/>
+		<ref service="ic.p" same="1" up="30" down="15"/>
+		<ref service="ic.c" same="1" up="15" down="90"/>
+	</serviceRefs>
+</series>
+<series id="nl.019">
+	<serviceRefs>
+		<ref service="ic.y" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.020">
+	<serviceRefs>
+		<ref service="ic.b" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.021">
+	<serviceRefs>
+		<ref service="ic.r" same="0" up="0" down="0"/>
+		<ref service="ic.s" same="0" up="0" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.022">
+	<serviceRefs>
+		<ref service="ic.s" same="0" up="45" down="0"/>
+		<ref service="ic.q" same="0" up="-75" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.026">
+	<serviceRefs>
+		<ref service="ic.t" same="1" up="120" down="0"/>
+		<ref service="ic.u" same="1" up="120" down="0"/>
+		<ref service="ic.q" same="1" up="0" down="45"/>
+	</serviceRefs>
+</series>
+<series id="nl.028">
+	<serviceRefs>
+		<ref service="ic.a" same="1" up="15" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.030">
+	<serviceRefs>
+		<ref service="ic.h" same="1" up="0" down="0"/>
+		<ref service="ic.k" same="1" up="75" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.031">
+	<serviceRefs>
+		<ref service="ic.k" same="1" up="0" down="15"/>
+		<ref service="ic.g" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.033">
+	<serviceRefs>
+		<ref service="nh.09" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.034">
+	<serviceRefs>
+		<ref service="nh.04" same="0" up="0" down="0"/>
+		<ref service="nh.03" same="0" up="-15" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.035">
+	<serviceRefs>
+		<ref service="ic.j" same="1" up="120" down="0"/>
+		<ref service="ic.l" same="1" up="0" down="0"/>
+		<ref service="ic.g" same="1" up="15" down="45"/>
+	</serviceRefs>
+</series>
+<series id="nl.036">
+	<serviceRefs>
+		<ref service="ic.z" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.038">
+	<serviceRefs>
+		<ref service="dr.01" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.040">
+	<serviceRefs>
+		<ref service="zh.05" same="1" up="60" down="0"/>
+		<ref service="nh.05" same="1" up="15" down="90"/>
+		<ref service="nh.15" same="1" up="60" down="30"/>
+	</serviceRefs>
+</series>
+<series id="nl.041">
+	<serviceRefs>
+		<ref service="zh.07" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.042">
+	<serviceRefs>
+		<ref service="zh.07" same="1" up="-15" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.043">
+	<serviceRefs>
+		<ref service="nh.08" same="1" up="0" down="0"/>
+		<ref service="fl.09" same="1" up="42" down="-42"/>
+	</serviceRefs>
+</series>
+<series id="nl.044">
+	<serviceRefs>
+		<ref service="nb.06" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.046">
+	<serviceRefs>
+		<ref service="nh.07" same="1" up="0" down="45"/>
+		<ref service="fl.09" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.047">
+	<serviceRefs>
+		<ref service="nh.05" same="1" up="0" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.048">
+	<serviceRefs>
+		<ref service="nh.01" same="1" up="0" down="15"/>
+		<ref service="nh.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.049">
+	<serviceRefs>
+		<ref service="ut.05" same="1" up="0" down="0"/>
+		<ref service="fl.11" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.050">
+	<serviceRefs>
+		<ref service="zh.02" same="1" up="15" down="0"/>
+		<ref service="zh.01" same="1" up="15" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.051">
+	<serviceRefs>
+		<ref service="zh.01" same="1" up="0" down="15"/>
+		<ref service="zh.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.052">
+	<serviceRefs>
+		<ref service="nb.05" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.054">
+	<serviceRefs>
+		<ref service="nh.01" same="1" up="15" down="0"/>
+		<ref service="nh.02" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.055">
+	<serviceRefs>
+		<ref service="ut.08" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.056">
+	<serviceRefs>
+		<ref service="ut.08" same="1" up="15" down="45"/>
+		<ref service="ge.10" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.057">
+	<serviceRefs>
+		<ref service="nh.08" same="1" up="15" down="15"/>
+		<ref service="ut.05" same="1" up="45" down="15"/>
+		<ref service="nh.06" same="1" up="15" down="15"/>
+		<ref service="zh.09" same="1" up="0" down="60"/>
+	</serviceRefs>
+</series>
+<series id="nl.058">
+	<serviceRefs>
+		<ref service="nh.07" same="1" up="45" down="0"/>
+		<ref service="ic.u" same="1" up="-15" down="15"/>
+		<ref service="nh.16" same="1" up="0" down="0"/>
+		<ref service="nh.06" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.060">
+	<serviceRefs>
+		<ref service="ut.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.061">
+	<serviceRefs>
+		<ref service="ut.02" same="1" up="-45" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.063">
+	<serviceRefs>
+		<ref service="zh.09" same="0" up="10" down="-10"/>
+		<ref service="zh.10" same="0" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.064">
+	<serviceRefs>
+		<ref service="nb.07" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.068">
+	<serviceRefs>
+		<ref service="li.02" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.069">
+	<serviceRefs>
+		<ref service="li.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.070">
+	<serviceRefs>
+		<ref service="ov.05" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.074">
+	<serviceRefs>
+		<ref service="ut.01" same="1" up="30" down="0"/>
+		<ref service="nh.15" same="1" up="11" down="19"/>
+	</serviceRefs>
+</series>
+<series id="nl.075">
+	<serviceRefs>
+		<ref service="ge.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.076">
+	<serviceRefs>
+		<ref service="ge.02" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.079">
+	<serviceRefs>
+		<ref service="ov.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.080">
+	<serviceRefs>
+		<ref service="dr.01" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.085">
+	<serviceRefs>
+		<ref service="ov.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.088">
+	<serviceRefs>
+		<ref service="zh.06" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.090">
+	<serviceRefs>
+		<ref service="fr.05" same="1" up="-20" down="20"/>
+	</serviceRefs>
+</series>
+<series id="nl.091">
+	<serviceRefs>
+		<ref service="dr.02" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.092">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.095">
+	<serviceRefs>
+		<ref service="zh.12" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.096">
+	<serviceRefs>
+		<ref service="nb.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.097">
+	<serviceRefs>
+		<ref service="zh.05" same="0" up="-45" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.098">
+	<serviceRefs>
+		<ref service="ut.02" same="1" up="0" down="0"/>
+		<ref service="zh.04" same="1" up="15" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.114">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.116">
+	<serviceRefs>
+		<ref service="ic.m" same="1" up="0" down="0"/>
+		<ref service="ut.13" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.117">
+	<serviceRefs>
+		<ref service="ic.c" same="1" up="15" down="0"/>
+		<ref service="ic.b" same="1" up="15" down="15"/>
+		<ref service="ut.13" same="1" up="30" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.121">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.125">
+	<serviceRefs>
+		<ref service="ic.d" same="1" up="0" down="30"/>
+		<ref service="ic.f" same="1" up="0" down="0"/>
+		<ref service="ic.a" same="1" up="0" down="150"/>
+		<ref service="ic.c" same="1" up="0" down="135"/>
+	</serviceRefs>
+</series>
+<series id="nl.126">
+	<serviceRefs>
+		<ref service="ic.u" same="1" up="120" down="120"/>
+		<ref service="ic.t" same="1" up="120" down="120"/>
+		<ref service="fr.05" same="1" up="240" down="30"/>
+		<ref service="ic.e" same="1" up="150" down="30"/>
+		<ref service="ic.q" same="1" up="0" down="165"/>
+	</serviceRefs>
+</series>
+<series id="nl.127">
+	<serviceRefs>
+		<ref service="ic.t" same="1" up="-10" down="70"/>
+		<ref service="fr.05" same="1" up="90" down="0"/>
+		<ref service="ic.w" same="1" up="0" down="0"/>
+		<ref service="ic.v" same="1" up="0" down="0"/>
+		<ref service="ic.r" same="1" up="-10" down="100"/>
+	</serviceRefs>
+</series>
+<series id="nl.128">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.136">
+	<serviceRefs>
+		<ref service="nb.01" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.138">
+	<serviceRefs>
+		<ref service="dr.01" same="1" up="-15" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.140">
+	<serviceRefs>
+		<ref service="zh.05" same="1" up="-30" down="0"/>
+		<ref service="ut.02" same="0" up="0" down="10"/>
+	</serviceRefs>
+</series>
+<series id="nl.141">
+	<serviceRefs>
+		<ref service="zh.07" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.145">
+	<serviceRefs>
+		<ref service="ic.n" same="1" up="-15" down="-75"/>
+	</serviceRefs>
+</series>
+<series id="nl.148">
+	<serviceRefs>
+		<ref service="nh.04" same="1" up="30" down="0"/>
+		<ref service="nh.03" same="1" up="0" down="30"/>
+		<ref service="nh.01" same="1" up="0" down="45"/>
+	</serviceRefs>
+</series>
+<series id="nl.151">
+	<serviceRefs>
+		<ref service="zh.02" same="1" up="0" down="15"/>
+		<ref service="zh.01" same="1" up="0" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.158">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.160">
+	<serviceRefs>
+		<ref service="ut.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.174">
+	<serviceRefs>
+		<ref service="ut.01" same="1" up="-15" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.176">
+	<serviceRefs>
+		<ref service="nb.06" same="0" up="-15" down="-45"/>
+	</serviceRefs>
+</series>
+<series id="nl.178">
+	<serviceRefs>
+		<ref service="ge.07" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.195">
+	<serviceRefs>
+		<ref service="zh.06" same="1" up="-15" down="-15"/>
+		<ref service="zh.12" same="1" up="15" down="15"/>
+	</serviceRefs>
+</series>
+<series id="nl.198">
+	<serviceRefs>
+		<ref service="zh.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.201">
+	<serviceRefs>
+		<ref service="gr.05" same="1" up="0" down="30"/>
+	</serviceRefs>
+</series>
+<series id="nl.208">
+	<serviceRefs>
+		<ref service="ic.j" same="1" up="-17" down="11"/>
+	</serviceRefs>
+</series>
+<series id="nl.214">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.224">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.234">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.235">
+	<serviceRefs>
+		<ref service="ic.j" same="1" up="120" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.283">
+	<serviceRefs>
+	</serviceRefs>
+</series>
+<series id="nl.307">
+	<serviceRefs>
+		<ref service="ge.05" same="1" up="15" down="-45"/>
+	</serviceRefs>
+</series>
+<series id="nl.308">
+	<serviceRefs>
+		<ref service="ge.06" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.309">
+	<serviceRefs>
+		<ref service="ge.05" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.310">
+	<serviceRefs>
+		<ref service="ov.02" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.311">
+	<serviceRefs>
+		<ref service="ge.08" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.312">
+	<serviceRefs>
+		<ref service="ov.09" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.313">
+	<serviceRefs>
+		<ref service="ge.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.314">
+	<serviceRefs>
+		<ref service="ge.03" same="1" up="15" down="-45"/>
+	</serviceRefs>
+</series>
+<series id="nl.320">
+	<serviceRefs>
+		<ref service="li.01" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.321">
+	<serviceRefs>
+		<ref service="li.05" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.322">
+	<serviceRefs>
+		<ref service="li.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.323">
+	<serviceRefs>
+		<ref service="li.04" same="1" up="15" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.367">
+	<serviceRefs>
+		<ref service="zh.08" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.368">
+	<serviceRefs>
+		<ref service="zh.08" same="1" up="15" down="-15"/>
+	</serviceRefs>
+</series>
+<series id="nl.370">
+	<serviceRefs>
+		<ref service="fr.01" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.371">
+	<serviceRefs>
+		<ref service="fr.01" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.372">
+	<serviceRefs>
+		<ref service="fr.02" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.373">
+	<serviceRefs>
+		<ref service="fr.03" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.374">
+	<serviceRefs>
+		<ref service="fr.04" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.375">
+	<serviceRefs>
+		<ref service="gr.05" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.376">
+	<serviceRefs>
+		<ref service="gr.06" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.377">
+	<serviceRefs>
+		<ref service="gr.07" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+<series id="nl.378">
+	<serviceRefs>
+		<ref service="gr.08" same="1" up="0" down="0"/>
+	</serviceRefs>
+</series>
+</timetable>

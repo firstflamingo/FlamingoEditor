@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organizations version="1.0">
+<organization id="nl.arr" name="Arriva">
+<icon>arriva</icon>
+</organization>
+<organization id="nl.gel" name="Provincie Gelderland">
+<icon>gelderland</icon>
+</organization>
+<organization id="nl.gf" name="Groningen en Friesland">
+<icon>groningen</icon>
+</organization>
+<organization id="nl.gt" name="Gelderland en Twente">
+<icon>gelderland</icon>
+</organization>
+<organization id="nl.his" name="NS Hispeed">
+<icon>hispeed</icon>
+</organization>
+<organization id="nl.ienm" name="Ministerie van IenM">
+<icon>ienm</icon>
+</organization>
+<organization id="nl.lim" name="Provincie Limburg">
+<icon>limburg</icon>
+</organization>
+<organization id="nl.ns" name="Nederlandse Spoorwegen">
+<icon>ns</icon>
+</organization>
+<organization id="nl.odt" name="Overijssel, Drenthe en Twente">
+<icon>overijssel</icon>
+</organization>
+<organization id="nl.pzh" name="Provincie Zuid-Holland">
+<icon>zuidholland</icon>
+</organization>
+<organization id="nl.syn" name="Syntus">
+<icon>syntus</icon>
+</organization>
+<organization id="nl.veo" name="Veolia">
+<icon>veolia</icon>
+</organization>
+<organization id="nl.xx" name="Connexxion">
+<icon>connexxion</icon>
+</organization>
+</organizations>
