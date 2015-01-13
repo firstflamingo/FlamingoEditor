@@ -7,12 +7,100 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		43253E821A64198100BEFDAB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E811A64198100BEFDAB /* AppDelegate.m */; };
+		4312700F1A6523940084A19E /* LocationWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 431270031A6523940084A19E /* LocationWindow.xib */; };
+		431270101A6523940084A19E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 431270051A6523940084A19E /* MainMenu.xib */; };
+		431270111A6523940084A19E /* OrganizationWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 431270071A6523940084A19E /* OrganizationWindow.xib */; };
+		431270121A6523940084A19E /* RoutesWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 431270091A6523940084A19E /* RoutesWindow.xib */; };
+		431270131A6523940084A19E /* SeriesWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4312700B1A6523940084A19E /* SeriesWindow.xib */; };
+		431270141A6523940084A19E /* ServiceWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4312700D1A6523940084A19E /* ServiceWindow.xib */; };
+		431270161A652ADD0084A19E /* ATLModel 10.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 431270151A652ADD0084A19E /* ATLModel 10.xcdatamodel */; };
 		43253E841A64198100BEFDAB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E831A64198100BEFDAB /* main.m */; };
-		43253E871A64198100BEFDAB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E861A64198100BEFDAB /* ViewController.m */; };
 		43253E891A64198100BEFDAB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43253E881A64198100BEFDAB /* Images.xcassets */; };
-		43253E8C1A64198100BEFDAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43253E8A1A64198100BEFDAB /* Main.storyboard */; };
 		43253E981A64198100BEFDAB /* FlamingoEditorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E971A64198100BEFDAB /* FlamingoEditorTests.m */; };
+		43253EB41A641B1A00BEFDAB /* FFEAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EAD1A641B1A00BEFDAB /* FFEAccount.m */; };
+		43253EB51A641B1A00BEFDAB /* FFECatalog.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EAF1A641B1A00BEFDAB /* FFECatalog.m */; };
+		43253EB61A641B1A00BEFDAB /* ATLCatalog.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EB11A641B1A00BEFDAB /* ATLCatalog.m */; };
+		43253EB71A641B1A00BEFDAB /* ATLEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EB31A641B1A00BEFDAB /* ATLEntry.m */; };
+		43253ECE1A641B2A00BEFDAB /* GeoMetricFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EB91A641B2A00BEFDAB /* GeoMetricFunctions.m */; };
+		43253ECF1A641B2A00BEFDAB /* ATLRoute.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EBB1A641B2A00BEFDAB /* ATLRoute.m */; };
+		43253ED01A641B2A00BEFDAB /* ATLRoutePosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EBD1A641B2A00BEFDAB /* ATLRoutePosition.m */; };
+		43253ED11A641B2A00BEFDAB /* ATLSubRoute.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EBF1A641B2A00BEFDAB /* ATLSubRoute.m */; };
+		43253ED21A641B2A00BEFDAB /* ATLRouteOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EC11A641B2A00BEFDAB /* ATLRouteOverlay.m */; };
+		43253ED31A641B2A00BEFDAB /* ATLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EC31A641B2A00BEFDAB /* ATLNode.m */; };
+		43253ED41A641B2A00BEFDAB /* ATLLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EC51A641B2A00BEFDAB /* ATLLocation.m */; };
+		43253ED51A641B2A00BEFDAB /* ATLJunction.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EC71A641B2A00BEFDAB /* ATLJunction.m */; };
+		43253ED61A641B2A00BEFDAB /* ATLStation.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EC91A641B2A00BEFDAB /* ATLStation.m */; };
+		43253ED71A641B2A00BEFDAB /* ATLAlias.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253ECB1A641B2A00BEFDAB /* ATLAlias.m */; };
+		43253ED81A641B2A00BEFDAB /* ATLStationAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253ECD1A641B2A00BEFDAB /* ATLStationAnnotation.m */; };
+		43253EF31A641B3800BEFDAB /* ATLService.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EDA1A641B3800BEFDAB /* ATLService.m */; };
+		43253EF41A641B3800BEFDAB /* ATLServicePoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EDC1A641B3800BEFDAB /* ATLServicePoint.m */; };
+		43253EF51A641B3800BEFDAB /* ATLServiceRef.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EDE1A641B3800BEFDAB /* ATLServiceRef.m */; };
+		43253EF61A641B3800BEFDAB /* ATLSeries.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EE01A641B3800BEFDAB /* ATLSeries.m */; };
+		43253EF71A641B3800BEFDAB /* ATLSeriesRef.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EE21A641B3800BEFDAB /* ATLSeriesRef.m */; };
+		43253EF81A641B3800BEFDAB /* ATLOrganization.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EE41A641B3800BEFDAB /* ATLOrganization.m */; };
+		43253EF91A641B3800BEFDAB /* ATLRule.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EE61A641B3800BEFDAB /* ATLRule.m */; };
+		43253EFA1A641B3800BEFDAB /* ATLMissionRule.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EE81A641B3800BEFDAB /* ATLMissionRule.m */; };
+		43253EFB1A641B3800BEFDAB /* ATLServiceRule.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EEA1A641B3800BEFDAB /* ATLServiceRule.m */; };
+		43253EFC1A641B3800BEFDAB /* ATLCalendarRule.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EEC1A641B3800BEFDAB /* ATLCalendarRule.m */; };
+		43253EFD1A641B3800BEFDAB /* ATLTimePath.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EEE1A641B3800BEFDAB /* ATLTimePath.m */; };
+		43253EFE1A641B3800BEFDAB /* ATLTimePoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EF01A641B3800BEFDAB /* ATLTimePoint.m */; };
+		43253EFF1A641B3800BEFDAB /* ATLPathNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253EF21A641B3800BEFDAB /* ATLPathNode.m */; };
+		43253F101A641B4700BEFDAB /* ATLMission.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F011A641B4700BEFDAB /* ATLMission.m */; };
+		43253F111A641B4700BEFDAB /* ATLStop.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F031A641B4700BEFDAB /* ATLStop.m */; };
+		43253F121A641B4700BEFDAB /* ATLJourney.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F051A641B4700BEFDAB /* ATLJourney.m */; };
+		43253F131A641B4700BEFDAB /* ATLJourneyElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F071A641B4700BEFDAB /* ATLJourneyElement.m */; };
+		43253F141A641B4700BEFDAB /* ATLTravelSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F091A641B4700BEFDAB /* ATLTravelSection.m */; };
+		43253F151A641B4700BEFDAB /* ATLTrajectory.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F0B1A641B4700BEFDAB /* ATLTrajectory.m */; };
+		43253F161A641B4700BEFDAB /* ATLVisit.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F0D1A641B4700BEFDAB /* ATLVisit.m */; };
+		43253F171A641B4700BEFDAB /* ATLTransfer.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F0F1A641B4700BEFDAB /* ATLTransfer.m */; };
+		43253F241A641B5400BEFDAB /* ATLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F191A641B5400BEFDAB /* ATLAppDelegate.m */; };
+		43253F251A641B5400BEFDAB /* FFEDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F1B1A641B5400BEFDAB /* FFEDataController.m */; };
+		43253F261A641B5400BEFDAB /* ATLDataController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F1D1A641B5400BEFDAB /* ATLDataController.m */; };
+		43253F271A641B5400BEFDAB /* ATLFileImporter.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F1F1A641B5400BEFDAB /* ATLFileImporter.m */; };
+		43253F281A641B5400BEFDAB /* ATLScheduleImporter.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F211A641B5400BEFDAB /* ATLScheduleImporter.m */; };
+		43253F291A641B5400BEFDAB /* CHCSVparser.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F231A641B5400BEFDAB /* CHCSVparser.m */; };
+		43253F321A641B6100BEFDAB /* NSDate+Formatters.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F2B1A641B6100BEFDAB /* NSDate+Formatters.m */; };
+		43253F331A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F2D1A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.m */; };
+		43253F341A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F2F1A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.m */; };
+		43253F351A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F311A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.m */; };
+		43253F3C1A64568700BEFDAB /* ABOAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F3B1A64568700BEFDAB /* ABOAppDelegate.m */; };
+		43253F3F1A64569600BEFDAB /* ABOAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F3E1A64569600BEFDAB /* ABOAccount.m */; };
+		43253F4A1A6456BB00BEFDAB /* ABOLocationWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F411A6456BB00BEFDAB /* ABOLocationWindowController.m */; };
+		43253F4B1A6456BB00BEFDAB /* ABOOrganizationWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F431A6456BB00BEFDAB /* ABOOrganizationWindowController.m */; };
+		43253F4C1A6456BB00BEFDAB /* ABORoutesWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F451A6456BB00BEFDAB /* ABORoutesWindowController.m */; };
+		43253F4D1A6456BB00BEFDAB /* ABOSeriesWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F471A6456BB00BEFDAB /* ABOSeriesWindowController.m */; };
+		43253F4E1A6456BB00BEFDAB /* ABOServiceWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F491A6456BB00BEFDAB /* ABOServiceWindowController.m */; };
+		43253F511A6456C400BEFDAB /* ABOTableCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253F501A6456C400BEFDAB /* ABOTableCellView.m */; };
+		43253F701A6456D200BEFDAB /* junction_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F521A6456D200BEFDAB /* junction_bottom.png */; };
+		43253F711A6456D200BEFDAB /* junction_in.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F531A6456D200BEFDAB /* junction_in.png */; };
+		43253F721A6456D200BEFDAB /* junction_out.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F541A6456D200BEFDAB /* junction_out.png */; };
+		43253F731A6456D200BEFDAB /* junction_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F551A6456D200BEFDAB /* junction_top.png */; };
+		43253F741A6456D200BEFDAB /* sconnection1_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F561A6456D200BEFDAB /* sconnection1_top.png */; };
+		43253F751A6456D200BEFDAB /* sconnection1.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F571A6456D200BEFDAB /* sconnection1.png */; };
+		43253F761A6456D200BEFDAB /* sconnection2_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F581A6456D200BEFDAB /* sconnection2_bottom.png */; };
+		43253F771A6456D200BEFDAB /* sconnection2.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F591A6456D200BEFDAB /* sconnection2.png */; };
+		43253F781A6456D200BEFDAB /* sjunction.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F5A1A6456D200BEFDAB /* sjunction.png */; };
+		43253F791A6456D200BEFDAB /* sstop_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F5B1A6456D200BEFDAB /* sstop_bottom.png */; };
+		43253F7A1A6456D200BEFDAB /* sstop_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F5C1A6456D200BEFDAB /* sstop_top.png */; };
+		43253F7B1A6456D200BEFDAB /* sstop.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F5D1A6456D200BEFDAB /* sstop.png */; };
+		43253F7C1A6456D200BEFDAB /* station0_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F5E1A6456D200BEFDAB /* station0_bottom.png */; };
+		43253F7D1A6456D200BEFDAB /* station0_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F5F1A6456D200BEFDAB /* station0_top.png */; };
+		43253F7E1A6456D200BEFDAB /* station0.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F601A6456D200BEFDAB /* station0.png */; };
+		43253F7F1A6456D200BEFDAB /* station1_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F611A6456D200BEFDAB /* station1_bottom.png */; };
+		43253F801A6456D200BEFDAB /* station1_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F621A6456D200BEFDAB /* station1_top.png */; };
+		43253F811A6456D200BEFDAB /* station1.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F631A6456D200BEFDAB /* station1.png */; };
+		43253F821A6456D200BEFDAB /* station2_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F641A6456D200BEFDAB /* station2_bottom.png */; };
+		43253F831A6456D200BEFDAB /* station2_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F651A6456D200BEFDAB /* station2_top.png */; };
+		43253F841A6456D200BEFDAB /* station2.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F661A6456D200BEFDAB /* station2.png */; };
+		43253F851A6456D200BEFDAB /* station3_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F671A6456D200BEFDAB /* station3_bottom.png */; };
+		43253F861A6456D200BEFDAB /* station3_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F681A6456D200BEFDAB /* station3_top.png */; };
+		43253F871A6456D200BEFDAB /* station3.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F691A6456D200BEFDAB /* station3.png */; };
+		43253F881A6456D200BEFDAB /* station4_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6A1A6456D200BEFDAB /* station4_bottom.png */; };
+		43253F891A6456D200BEFDAB /* station4_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6B1A6456D200BEFDAB /* station4_top.png */; };
+		43253F8A1A6456D200BEFDAB /* station4.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6C1A6456D200BEFDAB /* station4.png */; };
+		43253F8B1A6456D200BEFDAB /* station9_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6D1A6456D200BEFDAB /* station9_bottom.png */; };
+		43253F8C1A6456D200BEFDAB /* station9_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6E1A6456D200BEFDAB /* station9_top.png */; };
+		43253F8D1A6456D200BEFDAB /* station9.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6F1A6456D200BEFDAB /* station9.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,18 +114,161 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		431270041A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LocationWindow.xib; sourceTree = "<group>"; };
+		431270061A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		431270081A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/OrganizationWindow.xib; sourceTree = "<group>"; };
+		4312700A1A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/RoutesWindow.xib; sourceTree = "<group>"; };
+		4312700C1A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SeriesWindow.xib; sourceTree = "<group>"; };
+		4312700E1A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/ServiceWindow.xib; sourceTree = "<group>"; };
+		431270151A652ADD0084A19E /* ATLModel 10.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; name = "ATLModel 10.xcdatamodel"; path = "../FlamingoModel/FlamingoModel/ATLModel.xcdatamodeld/ATLModel 10.xcdatamodel"; sourceTree = "<group>"; };
+		431270181A652D2B0084A19E /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		431270191A652D2B0084A19E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		43253E7B1A64198100BEFDAB /* FlamingoEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlamingoEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43253E7F1A64198100BEFDAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		43253E801A64198100BEFDAB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		43253E811A64198100BEFDAB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		43253E831A64198100BEFDAB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		43253E851A64198100BEFDAB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		43253E861A64198100BEFDAB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		43253E881A64198100BEFDAB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		43253E8B1A64198100BEFDAB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		43253E911A64198100BEFDAB /* FlamingoEditorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlamingoEditorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43253E961A64198100BEFDAB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43253E971A64198100BEFDAB /* FlamingoEditorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlamingoEditorTests.m; sourceTree = "<group>"; };
+		43253EAB1A641B1A00BEFDAB /* FFESyncing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FFESyncing.h; path = ../FlamingoModel/FlamingoModel/FFESyncing.h; sourceTree = "<group>"; };
+		43253EAC1A641B1A00BEFDAB /* FFEAccount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FFEAccount.h; path = ../FlamingoModel/FlamingoModel/FFEAccount.h; sourceTree = "<group>"; };
+		43253EAD1A641B1A00BEFDAB /* FFEAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FFEAccount.m; path = ../FlamingoModel/FlamingoModel/FFEAccount.m; sourceTree = "<group>"; };
+		43253EAE1A641B1A00BEFDAB /* FFECatalog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FFECatalog.h; path = ../FlamingoModel/FlamingoModel/FFECatalog.h; sourceTree = "<group>"; };
+		43253EAF1A641B1A00BEFDAB /* FFECatalog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FFECatalog.m; path = ../FlamingoModel/FlamingoModel/FFECatalog.m; sourceTree = "<group>"; };
+		43253EB01A641B1A00BEFDAB /* ATLCatalog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLCatalog.h; path = ../FlamingoModel/FlamingoModel/ATLCatalog.h; sourceTree = "<group>"; };
+		43253EB11A641B1A00BEFDAB /* ATLCatalog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLCatalog.m; path = ../FlamingoModel/FlamingoModel/ATLCatalog.m; sourceTree = "<group>"; };
+		43253EB21A641B1A00BEFDAB /* ATLEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLEntry.h; path = ../FlamingoModel/FlamingoModel/ATLEntry.h; sourceTree = "<group>"; };
+		43253EB31A641B1A00BEFDAB /* ATLEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLEntry.m; path = ../FlamingoModel/FlamingoModel/ATLEntry.m; sourceTree = "<group>"; };
+		43253EB81A641B2A00BEFDAB /* GeoMetricFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GeoMetricFunctions.h; path = ../FlamingoModel/FlamingoModel/GeoMetricFunctions.h; sourceTree = "<group>"; };
+		43253EB91A641B2A00BEFDAB /* GeoMetricFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GeoMetricFunctions.m; path = ../FlamingoModel/FlamingoModel/GeoMetricFunctions.m; sourceTree = "<group>"; };
+		43253EBA1A641B2A00BEFDAB /* ATLRoute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLRoute.h; path = ../FlamingoModel/FlamingoModel/ATLRoute.h; sourceTree = "<group>"; };
+		43253EBB1A641B2A00BEFDAB /* ATLRoute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLRoute.m; path = ../FlamingoModel/FlamingoModel/ATLRoute.m; sourceTree = "<group>"; };
+		43253EBC1A641B2A00BEFDAB /* ATLRoutePosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLRoutePosition.h; path = ../FlamingoModel/FlamingoModel/ATLRoutePosition.h; sourceTree = "<group>"; };
+		43253EBD1A641B2A00BEFDAB /* ATLRoutePosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLRoutePosition.m; path = ../FlamingoModel/FlamingoModel/ATLRoutePosition.m; sourceTree = "<group>"; };
+		43253EBE1A641B2A00BEFDAB /* ATLSubRoute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLSubRoute.h; path = ../FlamingoModel/FlamingoModel/ATLSubRoute.h; sourceTree = "<group>"; };
+		43253EBF1A641B2A00BEFDAB /* ATLSubRoute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLSubRoute.m; path = ../FlamingoModel/FlamingoModel/ATLSubRoute.m; sourceTree = "<group>"; };
+		43253EC01A641B2A00BEFDAB /* ATLRouteOverlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLRouteOverlay.h; path = ../FlamingoModel/FlamingoModel/ATLRouteOverlay.h; sourceTree = "<group>"; };
+		43253EC11A641B2A00BEFDAB /* ATLRouteOverlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLRouteOverlay.m; path = ../FlamingoModel/FlamingoModel/ATLRouteOverlay.m; sourceTree = "<group>"; };
+		43253EC21A641B2A00BEFDAB /* ATLNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLNode.h; path = ../FlamingoModel/FlamingoModel/ATLNode.h; sourceTree = "<group>"; };
+		43253EC31A641B2A00BEFDAB /* ATLNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLNode.m; path = ../FlamingoModel/FlamingoModel/ATLNode.m; sourceTree = "<group>"; };
+		43253EC41A641B2A00BEFDAB /* ATLLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLLocation.h; path = ../FlamingoModel/FlamingoModel/ATLLocation.h; sourceTree = "<group>"; };
+		43253EC51A641B2A00BEFDAB /* ATLLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLLocation.m; path = ../FlamingoModel/FlamingoModel/ATLLocation.m; sourceTree = "<group>"; };
+		43253EC61A641B2A00BEFDAB /* ATLJunction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLJunction.h; path = ../FlamingoModel/FlamingoModel/ATLJunction.h; sourceTree = "<group>"; };
+		43253EC71A641B2A00BEFDAB /* ATLJunction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLJunction.m; path = ../FlamingoModel/FlamingoModel/ATLJunction.m; sourceTree = "<group>"; };
+		43253EC81A641B2A00BEFDAB /* ATLStation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLStation.h; path = ../FlamingoModel/FlamingoModel/ATLStation.h; sourceTree = "<group>"; };
+		43253EC91A641B2A00BEFDAB /* ATLStation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLStation.m; path = ../FlamingoModel/FlamingoModel/ATLStation.m; sourceTree = "<group>"; };
+		43253ECA1A641B2A00BEFDAB /* ATLAlias.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLAlias.h; path = ../FlamingoModel/FlamingoModel/ATLAlias.h; sourceTree = "<group>"; };
+		43253ECB1A641B2A00BEFDAB /* ATLAlias.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLAlias.m; path = ../FlamingoModel/FlamingoModel/ATLAlias.m; sourceTree = "<group>"; };
+		43253ECC1A641B2A00BEFDAB /* ATLStationAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLStationAnnotation.h; path = ../FlamingoModel/FlamingoModel/ATLStationAnnotation.h; sourceTree = "<group>"; };
+		43253ECD1A641B2A00BEFDAB /* ATLStationAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLStationAnnotation.m; path = ../FlamingoModel/FlamingoModel/ATLStationAnnotation.m; sourceTree = "<group>"; };
+		43253ED91A641B3800BEFDAB /* ATLService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLService.h; path = ../FlamingoModel/FlamingoModel/ATLService.h; sourceTree = "<group>"; };
+		43253EDA1A641B3800BEFDAB /* ATLService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLService.m; path = ../FlamingoModel/FlamingoModel/ATLService.m; sourceTree = "<group>"; };
+		43253EDB1A641B3800BEFDAB /* ATLServicePoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLServicePoint.h; path = ../FlamingoModel/FlamingoModel/ATLServicePoint.h; sourceTree = "<group>"; };
+		43253EDC1A641B3800BEFDAB /* ATLServicePoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLServicePoint.m; path = ../FlamingoModel/FlamingoModel/ATLServicePoint.m; sourceTree = "<group>"; };
+		43253EDD1A641B3800BEFDAB /* ATLServiceRef.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLServiceRef.h; path = ../FlamingoModel/FlamingoModel/ATLServiceRef.h; sourceTree = "<group>"; };
+		43253EDE1A641B3800BEFDAB /* ATLServiceRef.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLServiceRef.m; path = ../FlamingoModel/FlamingoModel/ATLServiceRef.m; sourceTree = "<group>"; };
+		43253EDF1A641B3800BEFDAB /* ATLSeries.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLSeries.h; path = ../FlamingoModel/FlamingoModel/ATLSeries.h; sourceTree = "<group>"; };
+		43253EE01A641B3800BEFDAB /* ATLSeries.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLSeries.m; path = ../FlamingoModel/FlamingoModel/ATLSeries.m; sourceTree = "<group>"; };
+		43253EE11A641B3800BEFDAB /* ATLSeriesRef.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLSeriesRef.h; path = ../FlamingoModel/FlamingoModel/ATLSeriesRef.h; sourceTree = "<group>"; };
+		43253EE21A641B3800BEFDAB /* ATLSeriesRef.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLSeriesRef.m; path = ../FlamingoModel/FlamingoModel/ATLSeriesRef.m; sourceTree = "<group>"; };
+		43253EE31A641B3800BEFDAB /* ATLOrganization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLOrganization.h; path = ../FlamingoModel/FlamingoModel/ATLOrganization.h; sourceTree = "<group>"; };
+		43253EE41A641B3800BEFDAB /* ATLOrganization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLOrganization.m; path = ../FlamingoModel/FlamingoModel/ATLOrganization.m; sourceTree = "<group>"; };
+		43253EE51A641B3800BEFDAB /* ATLRule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLRule.h; path = ../FlamingoModel/FlamingoModel/ATLRule.h; sourceTree = "<group>"; };
+		43253EE61A641B3800BEFDAB /* ATLRule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLRule.m; path = ../FlamingoModel/FlamingoModel/ATLRule.m; sourceTree = "<group>"; };
+		43253EE71A641B3800BEFDAB /* ATLMissionRule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLMissionRule.h; path = ../FlamingoModel/FlamingoModel/ATLMissionRule.h; sourceTree = "<group>"; };
+		43253EE81A641B3800BEFDAB /* ATLMissionRule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLMissionRule.m; path = ../FlamingoModel/FlamingoModel/ATLMissionRule.m; sourceTree = "<group>"; };
+		43253EE91A641B3800BEFDAB /* ATLServiceRule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLServiceRule.h; path = ../FlamingoModel/FlamingoModel/ATLServiceRule.h; sourceTree = "<group>"; };
+		43253EEA1A641B3800BEFDAB /* ATLServiceRule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLServiceRule.m; path = ../FlamingoModel/FlamingoModel/ATLServiceRule.m; sourceTree = "<group>"; };
+		43253EEB1A641B3800BEFDAB /* ATLCalendarRule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLCalendarRule.h; path = ../FlamingoModel/FlamingoModel/ATLCalendarRule.h; sourceTree = "<group>"; };
+		43253EEC1A641B3800BEFDAB /* ATLCalendarRule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLCalendarRule.m; path = ../FlamingoModel/FlamingoModel/ATLCalendarRule.m; sourceTree = "<group>"; };
+		43253EED1A641B3800BEFDAB /* ATLTimePath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLTimePath.h; path = ../FlamingoModel/FlamingoModel/ATLTimePath.h; sourceTree = "<group>"; };
+		43253EEE1A641B3800BEFDAB /* ATLTimePath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLTimePath.m; path = ../FlamingoModel/FlamingoModel/ATLTimePath.m; sourceTree = "<group>"; };
+		43253EEF1A641B3800BEFDAB /* ATLTimePoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLTimePoint.h; path = ../FlamingoModel/FlamingoModel/ATLTimePoint.h; sourceTree = "<group>"; };
+		43253EF01A641B3800BEFDAB /* ATLTimePoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLTimePoint.m; path = ../FlamingoModel/FlamingoModel/ATLTimePoint.m; sourceTree = "<group>"; };
+		43253EF11A641B3800BEFDAB /* ATLPathNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLPathNode.h; path = ../FlamingoModel/FlamingoModel/ATLPathNode.h; sourceTree = "<group>"; };
+		43253EF21A641B3800BEFDAB /* ATLPathNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLPathNode.m; path = ../FlamingoModel/FlamingoModel/ATLPathNode.m; sourceTree = "<group>"; };
+		43253F001A641B4700BEFDAB /* ATLMission.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLMission.h; path = ../FlamingoModel/FlamingoModel/ATLMission.h; sourceTree = "<group>"; };
+		43253F011A641B4700BEFDAB /* ATLMission.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLMission.m; path = ../FlamingoModel/FlamingoModel/ATLMission.m; sourceTree = "<group>"; };
+		43253F021A641B4700BEFDAB /* ATLStop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLStop.h; path = ../FlamingoModel/FlamingoModel/ATLStop.h; sourceTree = "<group>"; };
+		43253F031A641B4700BEFDAB /* ATLStop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLStop.m; path = ../FlamingoModel/FlamingoModel/ATLStop.m; sourceTree = "<group>"; };
+		43253F041A641B4700BEFDAB /* ATLJourney.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLJourney.h; path = ../FlamingoModel/FlamingoModel/ATLJourney.h; sourceTree = "<group>"; };
+		43253F051A641B4700BEFDAB /* ATLJourney.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLJourney.m; path = ../FlamingoModel/FlamingoModel/ATLJourney.m; sourceTree = "<group>"; };
+		43253F061A641B4700BEFDAB /* ATLJourneyElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLJourneyElement.h; path = ../FlamingoModel/FlamingoModel/ATLJourneyElement.h; sourceTree = "<group>"; };
+		43253F071A641B4700BEFDAB /* ATLJourneyElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLJourneyElement.m; path = ../FlamingoModel/FlamingoModel/ATLJourneyElement.m; sourceTree = "<group>"; };
+		43253F081A641B4700BEFDAB /* ATLTravelSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLTravelSection.h; path = ../FlamingoModel/FlamingoModel/ATLTravelSection.h; sourceTree = "<group>"; };
+		43253F091A641B4700BEFDAB /* ATLTravelSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLTravelSection.m; path = ../FlamingoModel/FlamingoModel/ATLTravelSection.m; sourceTree = "<group>"; };
+		43253F0A1A641B4700BEFDAB /* ATLTrajectory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLTrajectory.h; path = ../FlamingoModel/FlamingoModel/ATLTrajectory.h; sourceTree = "<group>"; };
+		43253F0B1A641B4700BEFDAB /* ATLTrajectory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLTrajectory.m; path = ../FlamingoModel/FlamingoModel/ATLTrajectory.m; sourceTree = "<group>"; };
+		43253F0C1A641B4700BEFDAB /* ATLVisit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLVisit.h; path = ../FlamingoModel/FlamingoModel/ATLVisit.h; sourceTree = "<group>"; };
+		43253F0D1A641B4700BEFDAB /* ATLVisit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLVisit.m; path = ../FlamingoModel/FlamingoModel/ATLVisit.m; sourceTree = "<group>"; };
+		43253F0E1A641B4700BEFDAB /* ATLTransfer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLTransfer.h; path = ../FlamingoModel/FlamingoModel/ATLTransfer.h; sourceTree = "<group>"; };
+		43253F0F1A641B4700BEFDAB /* ATLTransfer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLTransfer.m; path = ../FlamingoModel/FlamingoModel/ATLTransfer.m; sourceTree = "<group>"; };
+		43253F181A641B5400BEFDAB /* ATLAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLAppDelegate.h; path = ../FlamingoModel/FlamingoModel/ATLAppDelegate.h; sourceTree = "<group>"; };
+		43253F191A641B5400BEFDAB /* ATLAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLAppDelegate.m; path = ../FlamingoModel/FlamingoModel/ATLAppDelegate.m; sourceTree = "<group>"; };
+		43253F1A1A641B5400BEFDAB /* FFEDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FFEDataController.h; path = ../FlamingoModel/FlamingoModel/FFEDataController.h; sourceTree = "<group>"; };
+		43253F1B1A641B5400BEFDAB /* FFEDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FFEDataController.m; path = ../FlamingoModel/FlamingoModel/FFEDataController.m; sourceTree = "<group>"; };
+		43253F1C1A641B5400BEFDAB /* ATLDataController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLDataController.h; path = ../FlamingoModel/FlamingoModel/ATLDataController.h; sourceTree = "<group>"; };
+		43253F1D1A641B5400BEFDAB /* ATLDataController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLDataController.m; path = ../FlamingoModel/FlamingoModel/ATLDataController.m; sourceTree = "<group>"; };
+		43253F1E1A641B5400BEFDAB /* ATLFileImporter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLFileImporter.h; path = ../FlamingoModel/FlamingoModel/ATLFileImporter.h; sourceTree = "<group>"; };
+		43253F1F1A641B5400BEFDAB /* ATLFileImporter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLFileImporter.m; path = ../FlamingoModel/FlamingoModel/ATLFileImporter.m; sourceTree = "<group>"; };
+		43253F201A641B5400BEFDAB /* ATLScheduleImporter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ATLScheduleImporter.h; path = ../FlamingoModel/FlamingoModel/ATLScheduleImporter.h; sourceTree = "<group>"; };
+		43253F211A641B5400BEFDAB /* ATLScheduleImporter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ATLScheduleImporter.m; path = ../FlamingoModel/FlamingoModel/ATLScheduleImporter.m; sourceTree = "<group>"; };
+		43253F221A641B5400BEFDAB /* CHCSVparser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CHCSVparser.h; path = ../FlamingoModel/FlamingoModel/CHCSVparser.h; sourceTree = "<group>"; };
+		43253F231A641B5400BEFDAB /* CHCSVparser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CHCSVparser.m; path = ../FlamingoModel/FlamingoModel/CHCSVparser.m; sourceTree = "<group>"; };
+		43253F2A1A641B6100BEFDAB /* NSDate+Formatters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSDate+Formatters.h"; path = "../FlamingoModel/FlamingoModel/NSDate+Formatters.h"; sourceTree = "<group>"; };
+		43253F2B1A641B6100BEFDAB /* NSDate+Formatters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSDate+Formatters.m"; path = "../FlamingoModel/FlamingoModel/NSDate+Formatters.m"; sourceTree = "<group>"; };
+		43253F2C1A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSHTTPURLResponse+HeaderInterpretation.h"; path = "../FlamingoModel/FlamingoModel/NSHTTPURLResponse+HeaderInterpretation.h"; sourceTree = "<group>"; };
+		43253F2D1A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSHTTPURLResponse+HeaderInterpretation.m"; path = "../FlamingoModel/FlamingoModel/NSHTTPURLResponse+HeaderInterpretation.m"; sourceTree = "<group>"; };
+		43253F2E1A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSManagedObjectContext+FFEUtilities.h"; path = "../FlamingoModel/FlamingoModel/NSManagedObjectContext+FFEUtilities.h"; sourceTree = "<group>"; };
+		43253F2F1A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSManagedObjectContext+FFEUtilities.m"; path = "../FlamingoModel/FlamingoModel/NSManagedObjectContext+FFEUtilities.m"; sourceTree = "<group>"; };
+		43253F301A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSMutableURLRequest+HeaderInterpretation.h"; path = "../FlamingoModel/FlamingoModel/NSMutableURLRequest+HeaderInterpretation.h"; sourceTree = "<group>"; };
+		43253F311A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSMutableURLRequest+HeaderInterpretation.m"; path = "../FlamingoModel/FlamingoModel/NSMutableURLRequest+HeaderInterpretation.m"; sourceTree = "<group>"; };
+		43253F3A1A64568700BEFDAB /* ABOAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOAppDelegate.h; sourceTree = "<group>"; };
+		43253F3B1A64568700BEFDAB /* ABOAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOAppDelegate.m; sourceTree = "<group>"; };
+		43253F3D1A64569600BEFDAB /* ABOAccount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOAccount.h; sourceTree = "<group>"; };
+		43253F3E1A64569600BEFDAB /* ABOAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOAccount.m; sourceTree = "<group>"; };
+		43253F401A6456BB00BEFDAB /* ABOLocationWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOLocationWindowController.h; sourceTree = "<group>"; };
+		43253F411A6456BB00BEFDAB /* ABOLocationWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOLocationWindowController.m; sourceTree = "<group>"; };
+		43253F421A6456BB00BEFDAB /* ABOOrganizationWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOOrganizationWindowController.h; sourceTree = "<group>"; };
+		43253F431A6456BB00BEFDAB /* ABOOrganizationWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOOrganizationWindowController.m; sourceTree = "<group>"; };
+		43253F441A6456BB00BEFDAB /* ABORoutesWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABORoutesWindowController.h; sourceTree = "<group>"; };
+		43253F451A6456BB00BEFDAB /* ABORoutesWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABORoutesWindowController.m; sourceTree = "<group>"; };
+		43253F461A6456BB00BEFDAB /* ABOSeriesWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOSeriesWindowController.h; sourceTree = "<group>"; };
+		43253F471A6456BB00BEFDAB /* ABOSeriesWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOSeriesWindowController.m; sourceTree = "<group>"; };
+		43253F481A6456BB00BEFDAB /* ABOServiceWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOServiceWindowController.h; sourceTree = "<group>"; };
+		43253F491A6456BB00BEFDAB /* ABOServiceWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOServiceWindowController.m; sourceTree = "<group>"; };
+		43253F4F1A6456C400BEFDAB /* ABOTableCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABOTableCellView.h; sourceTree = "<group>"; };
+		43253F501A6456C400BEFDAB /* ABOTableCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABOTableCellView.m; sourceTree = "<group>"; };
+		43253F521A6456D200BEFDAB /* junction_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = junction_bottom.png; path = images/junction_bottom.png; sourceTree = "<group>"; };
+		43253F531A6456D200BEFDAB /* junction_in.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = junction_in.png; path = images/junction_in.png; sourceTree = "<group>"; };
+		43253F541A6456D200BEFDAB /* junction_out.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = junction_out.png; path = images/junction_out.png; sourceTree = "<group>"; };
+		43253F551A6456D200BEFDAB /* junction_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = junction_top.png; path = images/junction_top.png; sourceTree = "<group>"; };
+		43253F561A6456D200BEFDAB /* sconnection1_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sconnection1_top.png; path = images/sconnection1_top.png; sourceTree = "<group>"; };
+		43253F571A6456D200BEFDAB /* sconnection1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sconnection1.png; path = images/sconnection1.png; sourceTree = "<group>"; };
+		43253F581A6456D200BEFDAB /* sconnection2_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sconnection2_bottom.png; path = images/sconnection2_bottom.png; sourceTree = "<group>"; };
+		43253F591A6456D200BEFDAB /* sconnection2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sconnection2.png; path = images/sconnection2.png; sourceTree = "<group>"; };
+		43253F5A1A6456D200BEFDAB /* sjunction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sjunction.png; path = images/sjunction.png; sourceTree = "<group>"; };
+		43253F5B1A6456D200BEFDAB /* sstop_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sstop_bottom.png; path = images/sstop_bottom.png; sourceTree = "<group>"; };
+		43253F5C1A6456D200BEFDAB /* sstop_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sstop_top.png; path = images/sstop_top.png; sourceTree = "<group>"; };
+		43253F5D1A6456D200BEFDAB /* sstop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sstop.png; path = images/sstop.png; sourceTree = "<group>"; };
+		43253F5E1A6456D200BEFDAB /* station0_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station0_bottom.png; path = images/station0_bottom.png; sourceTree = "<group>"; };
+		43253F5F1A6456D200BEFDAB /* station0_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station0_top.png; path = images/station0_top.png; sourceTree = "<group>"; };
+		43253F601A6456D200BEFDAB /* station0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station0.png; path = images/station0.png; sourceTree = "<group>"; };
+		43253F611A6456D200BEFDAB /* station1_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station1_bottom.png; path = images/station1_bottom.png; sourceTree = "<group>"; };
+		43253F621A6456D200BEFDAB /* station1_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station1_top.png; path = images/station1_top.png; sourceTree = "<group>"; };
+		43253F631A6456D200BEFDAB /* station1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station1.png; path = images/station1.png; sourceTree = "<group>"; };
+		43253F641A6456D200BEFDAB /* station2_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station2_bottom.png; path = images/station2_bottom.png; sourceTree = "<group>"; };
+		43253F651A6456D200BEFDAB /* station2_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station2_top.png; path = images/station2_top.png; sourceTree = "<group>"; };
+		43253F661A6456D200BEFDAB /* station2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station2.png; path = images/station2.png; sourceTree = "<group>"; };
+		43253F671A6456D200BEFDAB /* station3_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station3_bottom.png; path = images/station3_bottom.png; sourceTree = "<group>"; };
+		43253F681A6456D200BEFDAB /* station3_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station3_top.png; path = images/station3_top.png; sourceTree = "<group>"; };
+		43253F691A6456D200BEFDAB /* station3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station3.png; path = images/station3.png; sourceTree = "<group>"; };
+		43253F6A1A6456D200BEFDAB /* station4_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station4_bottom.png; path = images/station4_bottom.png; sourceTree = "<group>"; };
+		43253F6B1A6456D200BEFDAB /* station4_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station4_top.png; path = images/station4_top.png; sourceTree = "<group>"; };
+		43253F6C1A6456D200BEFDAB /* station4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station4.png; path = images/station4.png; sourceTree = "<group>"; };
+		43253F6D1A6456D200BEFDAB /* station9_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station9_bottom.png; path = images/station9_bottom.png; sourceTree = "<group>"; };
+		43253F6E1A6456D200BEFDAB /* station9_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station9_top.png; path = images/station9_top.png; sourceTree = "<group>"; };
+		43253F6F1A6456D200BEFDAB /* station9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station9.png; path = images/station9.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +289,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		431270171A652CFA0084A19E /* Meta */ = {
+			isa = PBXGroup;
+			children = (
+				431270181A652D2B0084A19E /* LICENSE */,
+				431270191A652D2B0084A19E /* README.md */,
+			);
+			name = Meta;
+			sourceTree = "<group>";
+		};
 		43253E721A64198100BEFDAB = {
 			isa = PBXGroup;
 			children = (
+				43253EA11A641AA900BEFDAB /* External Code */,
 				43253E7D1A64198100BEFDAB /* FlamingoEditor */,
 				43253E941A64198100BEFDAB /* FlamingoEditorTests */,
 				43253E7C1A64198100BEFDAB /* Products */,
@@ -79,12 +320,12 @@
 		43253E7D1A64198100BEFDAB /* FlamingoEditor */ = {
 			isa = PBXGroup;
 			children = (
-				43253E801A64198100BEFDAB /* AppDelegate.h */,
-				43253E811A64198100BEFDAB /* AppDelegate.m */,
-				43253E851A64198100BEFDAB /* ViewController.h */,
-				43253E861A64198100BEFDAB /* ViewController.m */,
 				43253E881A64198100BEFDAB /* Images.xcassets */,
-				43253E8A1A64198100BEFDAB /* Main.storyboard */,
+				43253F381A641BD400BEFDAB /* Controller */,
+				43253F371A641BCC00BEFDAB /* User Interface */,
+				43253F361A641BC600BEFDAB /* View */,
+				43253F391A641BE700BEFDAB /* Images */,
+				431270171A652CFA0084A19E /* Meta */,
 				43253E7E1A64198100BEFDAB /* Supporting Files */,
 			);
 			path = FlamingoEditor;
@@ -114,6 +355,243 @@
 				43253E961A64198100BEFDAB /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		43253EA11A641AA900BEFDAB /* External Code */ = {
+			isa = PBXGroup;
+			children = (
+				43253EA81A641AF100BEFDAB /* Core Data */,
+				43253EA71A641AE600BEFDAB /* Sync Model */,
+				43253EA61A641ADD00BEFDAB /* Infra Model */,
+				43253EA51A641AD100BEFDAB /* Service Model */,
+				43253EA41A641AC700BEFDAB /* Journey Model */,
+				43253EA31A641ABD00BEFDAB /* Controller */,
+				43253EA21A641AB300BEFDAB /* Categories */,
+			);
+			name = "External Code";
+			sourceTree = "<group>";
+		};
+		43253EA21A641AB300BEFDAB /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				43253F2A1A641B6100BEFDAB /* NSDate+Formatters.h */,
+				43253F2B1A641B6100BEFDAB /* NSDate+Formatters.m */,
+				43253F2C1A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.h */,
+				43253F2D1A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.m */,
+				43253F2E1A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.h */,
+				43253F2F1A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.m */,
+				43253F301A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.h */,
+				43253F311A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.m */,
+			);
+			name = Categories;
+			sourceTree = "<group>";
+		};
+		43253EA31A641ABD00BEFDAB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				43253F181A641B5400BEFDAB /* ATLAppDelegate.h */,
+				43253F191A641B5400BEFDAB /* ATLAppDelegate.m */,
+				43253F1A1A641B5400BEFDAB /* FFEDataController.h */,
+				43253F1B1A641B5400BEFDAB /* FFEDataController.m */,
+				43253F1C1A641B5400BEFDAB /* ATLDataController.h */,
+				43253F1D1A641B5400BEFDAB /* ATLDataController.m */,
+				43253F1E1A641B5400BEFDAB /* ATLFileImporter.h */,
+				43253F1F1A641B5400BEFDAB /* ATLFileImporter.m */,
+				43253F201A641B5400BEFDAB /* ATLScheduleImporter.h */,
+				43253F211A641B5400BEFDAB /* ATLScheduleImporter.m */,
+				43253F221A641B5400BEFDAB /* CHCSVparser.h */,
+				43253F231A641B5400BEFDAB /* CHCSVparser.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		43253EA41A641AC700BEFDAB /* Journey Model */ = {
+			isa = PBXGroup;
+			children = (
+				43253F001A641B4700BEFDAB /* ATLMission.h */,
+				43253F011A641B4700BEFDAB /* ATLMission.m */,
+				43253F021A641B4700BEFDAB /* ATLStop.h */,
+				43253F031A641B4700BEFDAB /* ATLStop.m */,
+				43253F041A641B4700BEFDAB /* ATLJourney.h */,
+				43253F051A641B4700BEFDAB /* ATLJourney.m */,
+				43253F061A641B4700BEFDAB /* ATLJourneyElement.h */,
+				43253F071A641B4700BEFDAB /* ATLJourneyElement.m */,
+				43253F081A641B4700BEFDAB /* ATLTravelSection.h */,
+				43253F091A641B4700BEFDAB /* ATLTravelSection.m */,
+				43253F0A1A641B4700BEFDAB /* ATLTrajectory.h */,
+				43253F0B1A641B4700BEFDAB /* ATLTrajectory.m */,
+				43253F0C1A641B4700BEFDAB /* ATLVisit.h */,
+				43253F0D1A641B4700BEFDAB /* ATLVisit.m */,
+				43253F0E1A641B4700BEFDAB /* ATLTransfer.h */,
+				43253F0F1A641B4700BEFDAB /* ATLTransfer.m */,
+			);
+			name = "Journey Model";
+			sourceTree = "<group>";
+		};
+		43253EA51A641AD100BEFDAB /* Service Model */ = {
+			isa = PBXGroup;
+			children = (
+				43253ED91A641B3800BEFDAB /* ATLService.h */,
+				43253EDA1A641B3800BEFDAB /* ATLService.m */,
+				43253EDB1A641B3800BEFDAB /* ATLServicePoint.h */,
+				43253EDC1A641B3800BEFDAB /* ATLServicePoint.m */,
+				43253EDD1A641B3800BEFDAB /* ATLServiceRef.h */,
+				43253EDE1A641B3800BEFDAB /* ATLServiceRef.m */,
+				43253EDF1A641B3800BEFDAB /* ATLSeries.h */,
+				43253EE01A641B3800BEFDAB /* ATLSeries.m */,
+				43253EE11A641B3800BEFDAB /* ATLSeriesRef.h */,
+				43253EE21A641B3800BEFDAB /* ATLSeriesRef.m */,
+				43253EE31A641B3800BEFDAB /* ATLOrganization.h */,
+				43253EE41A641B3800BEFDAB /* ATLOrganization.m */,
+				43253EE51A641B3800BEFDAB /* ATLRule.h */,
+				43253EE61A641B3800BEFDAB /* ATLRule.m */,
+				43253EE71A641B3800BEFDAB /* ATLMissionRule.h */,
+				43253EE81A641B3800BEFDAB /* ATLMissionRule.m */,
+				43253EE91A641B3800BEFDAB /* ATLServiceRule.h */,
+				43253EEA1A641B3800BEFDAB /* ATLServiceRule.m */,
+				43253EEB1A641B3800BEFDAB /* ATLCalendarRule.h */,
+				43253EEC1A641B3800BEFDAB /* ATLCalendarRule.m */,
+				43253EED1A641B3800BEFDAB /* ATLTimePath.h */,
+				43253EEE1A641B3800BEFDAB /* ATLTimePath.m */,
+				43253EEF1A641B3800BEFDAB /* ATLTimePoint.h */,
+				43253EF01A641B3800BEFDAB /* ATLTimePoint.m */,
+				43253EF11A641B3800BEFDAB /* ATLPathNode.h */,
+				43253EF21A641B3800BEFDAB /* ATLPathNode.m */,
+			);
+			name = "Service Model";
+			sourceTree = "<group>";
+		};
+		43253EA61A641ADD00BEFDAB /* Infra Model */ = {
+			isa = PBXGroup;
+			children = (
+				43253EB81A641B2A00BEFDAB /* GeoMetricFunctions.h */,
+				43253EB91A641B2A00BEFDAB /* GeoMetricFunctions.m */,
+				43253EBA1A641B2A00BEFDAB /* ATLRoute.h */,
+				43253EBB1A641B2A00BEFDAB /* ATLRoute.m */,
+				43253EBC1A641B2A00BEFDAB /* ATLRoutePosition.h */,
+				43253EBD1A641B2A00BEFDAB /* ATLRoutePosition.m */,
+				43253EBE1A641B2A00BEFDAB /* ATLSubRoute.h */,
+				43253EBF1A641B2A00BEFDAB /* ATLSubRoute.m */,
+				43253EC01A641B2A00BEFDAB /* ATLRouteOverlay.h */,
+				43253EC11A641B2A00BEFDAB /* ATLRouteOverlay.m */,
+				43253EC21A641B2A00BEFDAB /* ATLNode.h */,
+				43253EC31A641B2A00BEFDAB /* ATLNode.m */,
+				43253EC41A641B2A00BEFDAB /* ATLLocation.h */,
+				43253EC51A641B2A00BEFDAB /* ATLLocation.m */,
+				43253EC61A641B2A00BEFDAB /* ATLJunction.h */,
+				43253EC71A641B2A00BEFDAB /* ATLJunction.m */,
+				43253EC81A641B2A00BEFDAB /* ATLStation.h */,
+				43253EC91A641B2A00BEFDAB /* ATLStation.m */,
+				43253ECA1A641B2A00BEFDAB /* ATLAlias.h */,
+				43253ECB1A641B2A00BEFDAB /* ATLAlias.m */,
+				43253ECC1A641B2A00BEFDAB /* ATLStationAnnotation.h */,
+				43253ECD1A641B2A00BEFDAB /* ATLStationAnnotation.m */,
+			);
+			name = "Infra Model";
+			sourceTree = "<group>";
+		};
+		43253EA71A641AE600BEFDAB /* Sync Model */ = {
+			isa = PBXGroup;
+			children = (
+				43253EAB1A641B1A00BEFDAB /* FFESyncing.h */,
+				43253EAC1A641B1A00BEFDAB /* FFEAccount.h */,
+				43253EAD1A641B1A00BEFDAB /* FFEAccount.m */,
+				43253EAE1A641B1A00BEFDAB /* FFECatalog.h */,
+				43253EAF1A641B1A00BEFDAB /* FFECatalog.m */,
+				43253EB01A641B1A00BEFDAB /* ATLCatalog.h */,
+				43253EB11A641B1A00BEFDAB /* ATLCatalog.m */,
+				43253EB21A641B1A00BEFDAB /* ATLEntry.h */,
+				43253EB31A641B1A00BEFDAB /* ATLEntry.m */,
+			);
+			name = "Sync Model";
+			sourceTree = "<group>";
+		};
+		43253EA81A641AF100BEFDAB /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				431270151A652ADD0084A19E /* ATLModel 10.xcdatamodel */,
+			);
+			name = "Core Data";
+			sourceTree = "<group>";
+		};
+		43253F361A641BC600BEFDAB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				43253F4F1A6456C400BEFDAB /* ABOTableCellView.h */,
+				43253F501A6456C400BEFDAB /* ABOTableCellView.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		43253F371A641BCC00BEFDAB /* User Interface */ = {
+			isa = PBXGroup;
+			children = (
+				431270051A6523940084A19E /* MainMenu.xib */,
+				43253F441A6456BB00BEFDAB /* ABORoutesWindowController.h */,
+				43253F451A6456BB00BEFDAB /* ABORoutesWindowController.m */,
+				431270091A6523940084A19E /* RoutesWindow.xib */,
+				43253F401A6456BB00BEFDAB /* ABOLocationWindowController.h */,
+				43253F411A6456BB00BEFDAB /* ABOLocationWindowController.m */,
+				431270031A6523940084A19E /* LocationWindow.xib */,
+				43253F421A6456BB00BEFDAB /* ABOOrganizationWindowController.h */,
+				43253F431A6456BB00BEFDAB /* ABOOrganizationWindowController.m */,
+				431270071A6523940084A19E /* OrganizationWindow.xib */,
+				43253F481A6456BB00BEFDAB /* ABOServiceWindowController.h */,
+				43253F491A6456BB00BEFDAB /* ABOServiceWindowController.m */,
+				4312700D1A6523940084A19E /* ServiceWindow.xib */,
+				43253F461A6456BB00BEFDAB /* ABOSeriesWindowController.h */,
+				43253F471A6456BB00BEFDAB /* ABOSeriesWindowController.m */,
+				4312700B1A6523940084A19E /* SeriesWindow.xib */,
+			);
+			name = "User Interface";
+			sourceTree = "<group>";
+		};
+		43253F381A641BD400BEFDAB /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				43253F3A1A64568700BEFDAB /* ABOAppDelegate.h */,
+				43253F3B1A64568700BEFDAB /* ABOAppDelegate.m */,
+				43253F3D1A64569600BEFDAB /* ABOAccount.h */,
+				43253F3E1A64569600BEFDAB /* ABOAccount.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		43253F391A641BE700BEFDAB /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				43253F521A6456D200BEFDAB /* junction_bottom.png */,
+				43253F531A6456D200BEFDAB /* junction_in.png */,
+				43253F541A6456D200BEFDAB /* junction_out.png */,
+				43253F551A6456D200BEFDAB /* junction_top.png */,
+				43253F561A6456D200BEFDAB /* sconnection1_top.png */,
+				43253F571A6456D200BEFDAB /* sconnection1.png */,
+				43253F581A6456D200BEFDAB /* sconnection2_bottom.png */,
+				43253F591A6456D200BEFDAB /* sconnection2.png */,
+				43253F5A1A6456D200BEFDAB /* sjunction.png */,
+				43253F5B1A6456D200BEFDAB /* sstop_bottom.png */,
+				43253F5C1A6456D200BEFDAB /* sstop_top.png */,
+				43253F5D1A6456D200BEFDAB /* sstop.png */,
+				43253F5E1A6456D200BEFDAB /* station0_bottom.png */,
+				43253F5F1A6456D200BEFDAB /* station0_top.png */,
+				43253F601A6456D200BEFDAB /* station0.png */,
+				43253F611A6456D200BEFDAB /* station1_bottom.png */,
+				43253F621A6456D200BEFDAB /* station1_top.png */,
+				43253F631A6456D200BEFDAB /* station1.png */,
+				43253F641A6456D200BEFDAB /* station2_bottom.png */,
+				43253F651A6456D200BEFDAB /* station2_top.png */,
+				43253F661A6456D200BEFDAB /* station2.png */,
+				43253F671A6456D200BEFDAB /* station3_bottom.png */,
+				43253F681A6456D200BEFDAB /* station3_top.png */,
+				43253F691A6456D200BEFDAB /* station3.png */,
+				43253F6A1A6456D200BEFDAB /* station4_bottom.png */,
+				43253F6B1A6456D200BEFDAB /* station4_top.png */,
+				43253F6C1A6456D200BEFDAB /* station4.png */,
+				43253F6D1A6456D200BEFDAB /* station9_bottom.png */,
+				43253F6E1A6456D200BEFDAB /* station9_top.png */,
+				43253F6F1A6456D200BEFDAB /* station9.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,8 +674,43 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43253F771A6456D200BEFDAB /* sconnection2.png in Resources */,
+				43253F7B1A6456D200BEFDAB /* sstop.png in Resources */,
+				43253F761A6456D200BEFDAB /* sconnection2_bottom.png in Resources */,
+				431270121A6523940084A19E /* RoutesWindow.xib in Resources */,
+				431270101A6523940084A19E /* MainMenu.xib in Resources */,
+				43253F861A6456D200BEFDAB /* station3_top.png in Resources */,
+				43253F801A6456D200BEFDAB /* station1_top.png in Resources */,
+				43253F7F1A6456D200BEFDAB /* station1_bottom.png in Resources */,
+				4312700F1A6523940084A19E /* LocationWindow.xib in Resources */,
+				43253F7E1A6456D200BEFDAB /* station0.png in Resources */,
+				43253F841A6456D200BEFDAB /* station2.png in Resources */,
+				43253F851A6456D200BEFDAB /* station3_bottom.png in Resources */,
+				43253F881A6456D200BEFDAB /* station4_bottom.png in Resources */,
 				43253E891A64198100BEFDAB /* Images.xcassets in Resources */,
-				43253E8C1A64198100BEFDAB /* Main.storyboard in Resources */,
+				43253F891A6456D200BEFDAB /* station4_top.png in Resources */,
+				43253F8A1A6456D200BEFDAB /* station4.png in Resources */,
+				43253F781A6456D200BEFDAB /* sjunction.png in Resources */,
+				431270141A6523940084A19E /* ServiceWindow.xib in Resources */,
+				43253F731A6456D200BEFDAB /* junction_top.png in Resources */,
+				43253F8B1A6456D200BEFDAB /* station9_bottom.png in Resources */,
+				43253F8C1A6456D200BEFDAB /* station9_top.png in Resources */,
+				43253F7D1A6456D200BEFDAB /* station0_top.png in Resources */,
+				43253F711A6456D200BEFDAB /* junction_in.png in Resources */,
+				43253F701A6456D200BEFDAB /* junction_bottom.png in Resources */,
+				43253F791A6456D200BEFDAB /* sstop_bottom.png in Resources */,
+				43253F721A6456D200BEFDAB /* junction_out.png in Resources */,
+				43253F7A1A6456D200BEFDAB /* sstop_top.png in Resources */,
+				431270131A6523940084A19E /* SeriesWindow.xib in Resources */,
+				43253F741A6456D200BEFDAB /* sconnection1_top.png in Resources */,
+				43253F7C1A6456D200BEFDAB /* station0_bottom.png in Resources */,
+				431270111A6523940084A19E /* OrganizationWindow.xib in Resources */,
+				43253F8D1A6456D200BEFDAB /* station9.png in Resources */,
+				43253F811A6456D200BEFDAB /* station1.png in Resources */,
+				43253F751A6456D200BEFDAB /* sconnection1.png in Resources */,
+				43253F821A6456D200BEFDAB /* station2_bottom.png in Resources */,
+				43253F871A6456D200BEFDAB /* station3.png in Resources */,
+				43253F831A6456D200BEFDAB /* station2_top.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,9 +728,62 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				43253E871A64198100BEFDAB /* ViewController.m in Sources */,
+				43253ED21A641B2A00BEFDAB /* ATLRouteOverlay.m in Sources */,
+				43253EFD1A641B3800BEFDAB /* ATLTimePath.m in Sources */,
+				43253F341A641B6100BEFDAB /* NSManagedObjectContext+FFEUtilities.m in Sources */,
+				43253EFB1A641B3800BEFDAB /* ATLServiceRule.m in Sources */,
+				43253EF31A641B3800BEFDAB /* ATLService.m in Sources */,
+				43253ED31A641B2A00BEFDAB /* ATLNode.m in Sources */,
+				43253EB71A641B1A00BEFDAB /* ATLEntry.m in Sources */,
+				43253EFA1A641B3800BEFDAB /* ATLMissionRule.m in Sources */,
+				43253F511A6456C400BEFDAB /* ABOTableCellView.m in Sources */,
+				43253F321A641B6100BEFDAB /* NSDate+Formatters.m in Sources */,
+				43253ED51A641B2A00BEFDAB /* ATLJunction.m in Sources */,
+				43253F241A641B5400BEFDAB /* ATLAppDelegate.m in Sources */,
+				43253F4A1A6456BB00BEFDAB /* ABOLocationWindowController.m in Sources */,
+				43253EB41A641B1A00BEFDAB /* FFEAccount.m in Sources */,
+				431270161A652ADD0084A19E /* ATLModel 10.xcdatamodel in Sources */,
+				43253F131A641B4700BEFDAB /* ATLJourneyElement.m in Sources */,
+				43253EB51A641B1A00BEFDAB /* FFECatalog.m in Sources */,
+				43253F3F1A64569600BEFDAB /* ABOAccount.m in Sources */,
+				43253F141A641B4700BEFDAB /* ATLTravelSection.m in Sources */,
+				43253F111A641B4700BEFDAB /* ATLStop.m in Sources */,
+				43253F271A641B5400BEFDAB /* ATLFileImporter.m in Sources */,
+				43253F351A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.m in Sources */,
+				43253F101A641B4700BEFDAB /* ATLMission.m in Sources */,
+				43253ED61A641B2A00BEFDAB /* ATLStation.m in Sources */,
+				43253F121A641B4700BEFDAB /* ATLJourney.m in Sources */,
+				43253EF51A641B3800BEFDAB /* ATLServiceRef.m in Sources */,
+				43253F4B1A6456BB00BEFDAB /* ABOOrganizationWindowController.m in Sources */,
+				43253F4E1A6456BB00BEFDAB /* ABOServiceWindowController.m in Sources */,
+				43253EF81A641B3800BEFDAB /* ATLOrganization.m in Sources */,
+				43253EF41A641B3800BEFDAB /* ATLServicePoint.m in Sources */,
+				43253F291A641B5400BEFDAB /* CHCSVparser.m in Sources */,
+				43253EF61A641B3800BEFDAB /* ATLSeries.m in Sources */,
+				43253EFE1A641B3800BEFDAB /* ATLTimePoint.m in Sources */,
 				43253E841A64198100BEFDAB /* main.m in Sources */,
-				43253E821A64198100BEFDAB /* AppDelegate.m in Sources */,
+				43253EB61A641B1A00BEFDAB /* ATLCatalog.m in Sources */,
+				43253F281A641B5400BEFDAB /* ATLScheduleImporter.m in Sources */,
+				43253ED81A641B2A00BEFDAB /* ATLStationAnnotation.m in Sources */,
+				43253F251A641B5400BEFDAB /* FFEDataController.m in Sources */,
+				43253EF91A641B3800BEFDAB /* ATLRule.m in Sources */,
+				43253EFC1A641B3800BEFDAB /* ATLCalendarRule.m in Sources */,
+				43253F4C1A6456BB00BEFDAB /* ABORoutesWindowController.m in Sources */,
+				43253F331A641B6100BEFDAB /* NSHTTPURLResponse+HeaderInterpretation.m in Sources */,
+				43253ECF1A641B2A00BEFDAB /* ATLRoute.m in Sources */,
+				43253ECE1A641B2A00BEFDAB /* GeoMetricFunctions.m in Sources */,
+				43253F171A641B4700BEFDAB /* ATLTransfer.m in Sources */,
+				43253F261A641B5400BEFDAB /* ATLDataController.m in Sources */,
+				43253EF71A641B3800BEFDAB /* ATLSeriesRef.m in Sources */,
+				43253ED01A641B2A00BEFDAB /* ATLRoutePosition.m in Sources */,
+				43253ED11A641B2A00BEFDAB /* ATLSubRoute.m in Sources */,
+				43253EFF1A641B3800BEFDAB /* ATLPathNode.m in Sources */,
+				43253F161A641B4700BEFDAB /* ATLVisit.m in Sources */,
+				43253ED41A641B2A00BEFDAB /* ATLLocation.m in Sources */,
+				43253ED71A641B2A00BEFDAB /* ATLAlias.m in Sources */,
+				43253F151A641B4700BEFDAB /* ATLTrajectory.m in Sources */,
+				43253F3C1A64568700BEFDAB /* ABOAppDelegate.m in Sources */,
+				43253F4D1A6456BB00BEFDAB /* ABOSeriesWindowController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,12 +806,52 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		43253E8A1A64198100BEFDAB /* Main.storyboard */ = {
+		431270031A6523940084A19E /* LocationWindow.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				43253E8B1A64198100BEFDAB /* Base */,
+				431270041A6523940084A19E /* Base */,
 			);
-			name = Main.storyboard;
+			name = LocationWindow.xib;
+			sourceTree = "<group>";
+		};
+		431270051A6523940084A19E /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				431270061A6523940084A19E /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		431270071A6523940084A19E /* OrganizationWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				431270081A6523940084A19E /* Base */,
+			);
+			name = OrganizationWindow.xib;
+			sourceTree = "<group>";
+		};
+		431270091A6523940084A19E /* RoutesWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4312700A1A6523940084A19E /* Base */,
+			);
+			name = RoutesWindow.xib;
+			sourceTree = "<group>";
+		};
+		4312700B1A6523940084A19E /* SeriesWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4312700C1A6523940084A19E /* Base */,
+			);
+			name = SeriesWindow.xib;
+			sourceTree = "<group>";
+		};
+		4312700D1A6523940084A19E /* ServiceWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4312700E1A6523940084A19E /* Base */,
+			);
+			name = ServiceWindow.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -404,6 +1010,7 @@
 				43253E9D1A64198100BEFDAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		43253E9E1A64198100BEFDAB /* Build configuration list for PBXNativeTarget "FlamingoEditorTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +1019,7 @@
 				43253EA01A64198100BEFDAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
