@@ -13,7 +13,6 @@
 		431270121A6523940084A19E /* RoutesWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 431270091A6523940084A19E /* RoutesWindow.xib */; };
 		431270131A6523940084A19E /* SeriesWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4312700B1A6523940084A19E /* SeriesWindow.xib */; };
 		431270141A6523940084A19E /* ServiceWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4312700D1A6523940084A19E /* ServiceWindow.xib */; };
-		431270161A652ADD0084A19E /* ATLModel 10.xcdatamodel in Sources */ = {isa = PBXBuildFile; fileRef = 431270151A652ADD0084A19E /* ATLModel 10.xcdatamodel */; };
 		43253E841A64198100BEFDAB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E831A64198100BEFDAB /* main.m */; };
 		43253E891A64198100BEFDAB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43253E881A64198100BEFDAB /* Images.xcassets */; };
 		43253E981A64198100BEFDAB /* FlamingoEditorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 43253E971A64198100BEFDAB /* FlamingoEditorTests.m */; };
@@ -101,6 +100,7 @@
 		43253F8B1A6456D200BEFDAB /* station9_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6D1A6456D200BEFDAB /* station9_bottom.png */; };
 		43253F8C1A6456D200BEFDAB /* station9_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6E1A6456D200BEFDAB /* station9_top.png */; };
 		43253F8D1A6456D200BEFDAB /* station9.png in Resources */ = {isa = PBXBuildFile; fileRef = 43253F6F1A6456D200BEFDAB /* station9.png */; };
+		438E3C7F1A693E040068DC37 /* ATLModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 438E3C761A693E040068DC37 /* ATLModel.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,7 +120,6 @@
 		4312700A1A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/RoutesWindow.xib; sourceTree = "<group>"; };
 		4312700C1A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SeriesWindow.xib; sourceTree = "<group>"; };
 		4312700E1A6523940084A19E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/ServiceWindow.xib; sourceTree = "<group>"; };
-		431270151A652ADD0084A19E /* ATLModel 10.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; name = "ATLModel 10.xcdatamodel"; path = "../FlamingoModel/FlamingoModel/ATLModel.xcdatamodeld/ATLModel 10.xcdatamodel"; sourceTree = "<group>"; };
 		431270181A652D2B0084A19E /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		431270191A652D2B0084A19E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		43253E7B1A64198100BEFDAB /* FlamingoEditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlamingoEditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -269,6 +268,14 @@
 		43253F6D1A6456D200BEFDAB /* station9_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station9_bottom.png; path = images/station9_bottom.png; sourceTree = "<group>"; };
 		43253F6E1A6456D200BEFDAB /* station9_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station9_top.png; path = images/station9_top.png; sourceTree = "<group>"; };
 		43253F6F1A6456D200BEFDAB /* station9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = station9.png; path = images/station9.png; sourceTree = "<group>"; };
+		438E3C771A693E040068DC37 /* ATLModel 10.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 10.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C781A693E040068DC37 /* ATLModel 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 2.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C791A693E040068DC37 /* ATLModel 4.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 4.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C7A1A693E040068DC37 /* ATLModel 5.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 5.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C7B1A693E040068DC37 /* ATLModel 6.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 6.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C7C1A693E040068DC37 /* ATLModel 7.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 7.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C7D1A693E040068DC37 /* ATLModel 8.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 8.xcdatamodel"; sourceTree = "<group>"; };
+		438E3C7E1A693E040068DC37 /* ATLModel 9.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "ATLModel 9.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -509,7 +516,7 @@
 		43253EA81A641AF100BEFDAB /* Core Data */ = {
 			isa = PBXGroup;
 			children = (
-				431270151A652ADD0084A19E /* ATLModel 10.xcdatamodel */,
+				438E3C761A693E040068DC37 /* ATLModel.xcdatamodeld */,
 			);
 			name = "Core Data";
 			sourceTree = "<group>";
@@ -742,7 +749,6 @@
 				43253F241A641B5400BEFDAB /* ATLAppDelegate.m in Sources */,
 				43253F4A1A6456BB00BEFDAB /* ABOLocationWindowController.m in Sources */,
 				43253EB41A641B1A00BEFDAB /* FFEAccount.m in Sources */,
-				431270161A652ADD0084A19E /* ATLModel 10.xcdatamodel in Sources */,
 				43253F131A641B4700BEFDAB /* ATLJourneyElement.m in Sources */,
 				43253EB51A641B1A00BEFDAB /* FFECatalog.m in Sources */,
 				43253F3F1A64569600BEFDAB /* ABOAccount.m in Sources */,
@@ -752,6 +758,7 @@
 				43253F351A641B6100BEFDAB /* NSMutableURLRequest+HeaderInterpretation.m in Sources */,
 				43253F101A641B4700BEFDAB /* ATLMission.m in Sources */,
 				43253ED61A641B2A00BEFDAB /* ATLStation.m in Sources */,
+				438E3C7F1A693E040068DC37 /* ATLModel.xcdatamodeld in Sources */,
 				43253F121A641B4700BEFDAB /* ATLJourney.m in Sources */,
 				43253EF51A641B3800BEFDAB /* ATLServiceRef.m in Sources */,
 				43253F4B1A6456BB00BEFDAB /* ABOOrganizationWindowController.m in Sources */,
@@ -1022,6 +1029,27 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		438E3C761A693E040068DC37 /* ATLModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				438E3C771A693E040068DC37 /* ATLModel 10.xcdatamodel */,
+				438E3C781A693E040068DC37 /* ATLModel 2.xcdatamodel */,
+				438E3C791A693E040068DC37 /* ATLModel 4.xcdatamodel */,
+				438E3C7A1A693E040068DC37 /* ATLModel 5.xcdatamodel */,
+				438E3C7B1A693E040068DC37 /* ATLModel 6.xcdatamodel */,
+				438E3C7C1A693E040068DC37 /* ATLModel 7.xcdatamodel */,
+				438E3C7D1A693E040068DC37 /* ATLModel 8.xcdatamodel */,
+				438E3C7E1A693E040068DC37 /* ATLModel 9.xcdatamodel */,
+			);
+			currentVersion = 438E3C771A693E040068DC37 /* ATLModel 10.xcdatamodel */;
+			name = ATLModel.xcdatamodeld;
+			path = ../FlamingoModel/FlamingoModel/ATLModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 43253E731A64198100BEFDAB /* Project object */;
 }

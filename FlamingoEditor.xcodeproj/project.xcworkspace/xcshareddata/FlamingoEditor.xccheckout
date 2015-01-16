@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0367B09-CEEC-470F-ACCB-1779656A6549</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlamingoEditor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1787FE50D600AE38AB8B13A3D9E92239C24A495A</key>
+		<string>https://github.com/firstflamingo/FlamingoEditor</string>
+		<key>B4CF08ED435C6B97D52935DE9B2A342A7AAE82CF</key>
+		<string>https://github.com/firstflamingo/FlamingoModel</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlamingoEditor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1787FE50D600AE38AB8B13A3D9E92239C24A495A</key>
+		<string>../..</string>
+		<key>B4CF08ED435C6B97D52935DE9B2A342A7AAE82CF</key>
+		<string>../../../FlamingoModel</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/firstflamingo/FlamingoEditor</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1787FE50D600AE38AB8B13A3D9E92239C24A495A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1787FE50D600AE38AB8B13A3D9E92239C24A495A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlamingoEditor</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B4CF08ED435C6B97D52935DE9B2A342A7AAE82CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlamingoModel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
